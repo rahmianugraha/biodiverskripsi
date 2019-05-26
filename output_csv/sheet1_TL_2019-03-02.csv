@@ -1,0 +1,5 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UI-2014PP-TL040,UI-2014PP-TL040-ST01,2012-08/12,Biotrack VHF Radio Collar Cable Tie| Point Centered Quarter,6 hours per day,6,hours per day,ST01,,,-7.2809,107.7507,,ID,Java,West Java,Indonesia,Garut,Desa Cipaganti,
+UI-2014RA-TL041,UI-2014RA-TL041-HA01,2013-06,Plot Sampling,16 400 square metre plot,8400,square metre plot,HA01,,,-5.6598611,104.4058333,,ID,Java,Lampung,Indonesia,West Lampung,"Taman Nasional Bukit Barisan Selatan, Stasiun Penelitian Way Canguk",
+UI-2014RA-TL041,UI-2014RA-TL041-HA02,2013-06,Plot Sampling,16 400 square metre plot,8400,square metre plot,HA01,,,-5.6598611,104.4058333,,ID,Java,Lampung,Indonesia,West Lampung,"Taman Nasional Bukit Barisan Selatan, Stasiun Penelitian Way Canguk",
+UI-2014BN-TL042,UI-2014BN-TL042-ST01,2013-06/09,Point Count,47 plot,4,hours per day,ST01,,,-6.36832,106.82949,,ID,Java,West Java,Indonesia,Depok,Universitas Indonesia,

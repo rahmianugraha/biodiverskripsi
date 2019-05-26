@@ -1,0 +1,4 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2015DA-AH001,USU-2015DA-AH001-ST001,2015-02,Transec Quadrat,5 repetition sampling,25,Metre,ST001,,,1.5769639,98.7581028,WGS84,ID,Sumatra,Sumatera Utara,Tapanuli Tengah,,Pulau Engge,
+USU-2015DA-AH001,USU-2015DA-AH001-ST002,2015-02,Transec Quadrat,5 repetition sampling,25,Metre,ST002,,,1.5747833,98.7608278,WGS84,ID,Sumatra,Sumatera Utara,Tapanuli Tengah,,Pulau Engge,
+USU-2015DA-AH001,USU-2015DA-AH001-ST003,2015-02,Transec Quadrat,5 repetition sampling,25,Metre,ST003,,,1.5745056,98.7584722,WGS84,ID,Sumatra,Sumatera Utara,Tapanuli Tengah,,Pulau Engge,

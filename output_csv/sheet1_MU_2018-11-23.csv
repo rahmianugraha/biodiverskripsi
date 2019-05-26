@@ -1,0 +1,5 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2016MM-MU001,USU-2016MM-MU001-ST001,2016-04,Purpose sampling,using net with 3 repetition,48,metre square,ST001,,,2.7050528,99.6041306,WGS84,ID,Sumatra,North Sumatra,Asahan,Desa Pulo Raja,Asahan river,
+USU-2016MM-MU001,USU-2016MM-MU001-ST002,2016-04,Purpose sampling,using net with 3 repetition,48,metre square,ST002,,,2.70335,99.6172806,WGS84,ID,Sumatra,North Sumatra,Asahan,Desa Pulo Raja,Asahan river,
+USU-2016MM-MU001,USU-2016MM-MU001-ST003,2016-04,Purpose sampling,using net with 3 repetition,48,metre square,ST003,,,2.7059722,99.6242806,WGS84,ID,Sumatra,North Sumatra,Asahan,Desa Pulo Raja,Asahan river,
+USU-2016MM-MU001,USU-2016MM-MU001-ST004,2016-04,Purpose sampling,using net with 3 repetition,48,metre square,ST004,,,2.7041861,99.6260694,WGS84,ID,Sumatra,North Sumatra,Asahan,Desa Pulo Raja,Asahan river,

@@ -1,0 +1,48 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSKPPNS,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Seeds on Kawasan Pelestarian Plasma Nutfah
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSKPPNP,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Sapling on Kawasan Pelestarian Plasma Nutfah
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSKPPNT,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Pole on Kawasan Pelestarian Plasma Nutfah
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSKPPNPH,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Tress on Kawasan Pelestarian Plasma Nutfah
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM7S,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Seeds on Buffer Zone Km7
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM7P,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Sapling on  Buffer Zone Km7
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM7T,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Pole on  Buffer Zone Km7
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM7PH,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Tress on Buffer Zone Km7
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM11S,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Seeds on  Buffer Zone Km11
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM11P,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Sapling on  Buffer Zone Km11
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM11T,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Pole on  Buffer Zone Km11
+IPB-2011DB-DS004,IPB-2011DB-DS004-LTLSBFKM11PH,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Tress on  Buffer Zone Km11
+IPB-2011DB-DS004,IPB-2011DB-DS004-BBHAS,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Seeds on PT. Bukit Batu Hutani Alam
+IPB-2011DB-DS004,IPB-2011DB-DS004-BBHAPH,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Sapling on PT. Bukit Batu Hutani Alam
+IPB-2011DB-DS004,IPB-2011DB-DS004-BBHAT,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Pole on PT. Bukit Batu Hutani Alam
+IPB-2011DB-DS004,IPB-2011DB-DS004-BBHAPH,2010-10/11,purposive sampling,combination of line transect and line square,4000,meters,,,,,,,,Sumatra,Riau,,,,Tress on PT. Bukit Batu Hutani Alam
+IPB-2017ML-DS005,IPB-2017ML-DS005-S,2016-01/07,semi quantitative | pitfall trap,"semi quantitative using three techniques, aerial hand collection | Ground hand collection | sweeping |with line square",100,meters,,,,,,,,Java,West Java,,,,Araneae on Corn Plantation
+IPB-2017ML-DS005,IPB-2017ML-DS005-T,2016-01/07,semi quantitative | pitfall trap,"semi quantitative using three techniques, aerial hand collection | Ground hand collection | sweeping with line square",100,meters,,,,,,,,Java,West Java,,,,Araneae on Palm Oil Plantation
+IPB-2017ML-DS005,IPB-2017ML-DS005-H,2016-01/07,semi quantitative | pitfall trap,"semi quantitative using three techniques, aerial hand collection | Ground hand collection | sweeping with line square",100,meters,,,,,,,,Java,West Java,,,,Araneae on Dramaga Research Forest
+IPB-2016HP-DS006,IPB-2016HP-DS006-PKS,2014-10/2015/07,insect nets | pitfall traps | yellow pan traps,,150,hectare,,,,,,,,Java,West Java,,,,Parasitoid on Palm Oil Plantation
+IPB-2016HP-DS006,IPB-2016HP-DS006-PPS,2014-10/2015/07,insect nets | pitfall traps | yellow pan traps,,150,hectare,,,,,,,,Java,West Java,,,,Parasitoid on Paddy Fields
+IPB-2016HP-DS006,IPB-2016HP-DS006-PRKS,2014-10/2015/07,insect nets | pitfall traps | yellow pan traps,,5000,meters,,,,,,,,Java,West Java,,,,Predator on Palm Oil Plantation
+IPB-2016HP-DS006,IPB-2016HP-DS006-PRPS,2014-10/2015/07,insect nets | pitfall traps | yellow pan traps,,5000,meters,,,,,,,,Java,West Java,,,,Predator on Paddy Fields
+IPB-2017MT-DS007,IPB-2017MT-DS007-H41YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H42YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H43YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H81YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H82YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H83YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R41YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R42YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R43YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R81YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R82YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-R83YST,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku  using Yellow Pan Traps
+IPB-2017MT-DS007,IPB-2017MT-DS007-H41IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-H42IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-H43IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humusindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-H81IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-H82IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-H83IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Humosindo using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R41IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R42IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air  using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R43IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Sungai and Pompa Air using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R81IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R82IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku using insect nets
+IPB-2017MT-DS007,IPB-2017MT-DS007-R83IN,2016-04/07,insect nets | yellow pan traps,,10000,meters,,,,,,,,Sumatra,Jambi,Batanghari,,,Parasitoid on Bungku using insect nets

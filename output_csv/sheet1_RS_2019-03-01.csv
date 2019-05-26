@@ -1,0 +1,3 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2011VP-RS012,USU-2011VP-RS012-ST001,2009-05,Purposive Random sampling,Visual sensus during an Hour in transect,200,metre square,ST001,,,5.8837222,95.259,WGS84,ID,sumatra,north sumatra,,Nanggroe Aceh Darussalam,rubiah island,
+USU-2011VP-RS012,USU-2011VP-RS012-ST002,2009-05,Purposive Random sampling,Visual sensus during an Hour in transect,200,metre square,ST002,,,5.8757778,95.2596667,WGS84,ID,sumatra,north sumatra,,Nanggroe Aceh Darussalam,rubiah island,

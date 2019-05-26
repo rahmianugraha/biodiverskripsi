@@ -1,0 +1,20 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR001,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 1,,,-06.5500000° - 06.5416667°,106.4333333° - 106.4416667°,,ID,Sumatra,Riau,Kampar,,,There is no coordinate point for each research station | KR is Kebun sawit rakyat
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR002,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 2,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR003,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 3,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR004,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 4,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR005,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 5,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR006,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 6,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR007,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 7,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2016PG-MF001,IPB-2016PG-MF001-KR008,2016-3/2016-4,Transect,Binokular |5 hours,1000,metre,KR 8,,,,,,ID,Sumatra,Riau,Kampar,,,
+IPB-2017NS-MF002,IPB-2017NS-MF002-TT001,2017-5/2017-6,Type list MacKinnon & IPA,Binokular |5 hours 30 minutes,950,metre,TT,,,,,,ID,Sumatra,South Sumatra,,,Hutan Harapan,There is no coordinate point for each research station | TT is Tanah terbuka | BM is Belukar muda | BT is Belukar tua | HS is Hutan kering sekunder
+IPB-2017NS-MF002,IPB-2017NS-MF002-BM002,2017-5/2017-6,Type list MacKinnon & IPA,Binokular |5 hours 30 minutes,950,metre,BM,,,,,,ID,Sumatra,South Sumatra,,,Hutan Harapan,
+IPB-2017NS-MF002,IPB-2017NS-MF002-BT003,2017-5/2017-6,Type list MacKinnon & IPA,Binokular |5 hours 30 minutes,950,metre,BT,,,,,,ID,Sumatra,South Sumatra,,,Hutan Harapan,
+IPB-2017NS-MF002,IPB-2017NS-MF002-HS004,2017-5/2017-6,Type list MacKinnon & IPA,Binokular |5 hours 30 minutes,950,metre,HS,,,,,,ID,Sumatra,South Sumatra,,,Hutan Harapan,
+IPB-2016MP-MF003,IPB-2016MP-MF003-HP001,2014-6/2014-7,Type list MacKinnon & IPA,Binokular |3 hours,1200,metre,HP,,,,,,ID,Sulawesi,Southeast Sulawesi,,,Hutan Lambusango,There is no coordinate point for each research station | HP is Hutan Primer| HS is Hutan sekunder | PK is Perkebunan | PD is Perdesaan
+IPB-2016MP-MF003,IPB-2016MP-MF003-HS002,2014-6/2014-7,Type list MacKinnon & IPA,Binokular |3 hours,1200,metre,HS,,,,,,ID,Sulawesi,Southeast Sulawesi,,,Hutan Lambusango,
+IPB-2016MP-MF003,IPB-2016MP-MF003-PK003,2014-6/2014-7,Type list MacKinnon & IPA,Binokular |3 hours,1200,metre,PK,,,,,,ID,Sulawesi,Southeast Sulawesi,,,Hutan Lambusango,
+IPB-2016MP-MF003,IPB-2016MP-MF003-PD004,2014-6/2014-7,Type list MacKinnon & IPA,Binokular |3 hours,1200,metre,PD,,,,,,ID,Sulawesi,Southeast Sulawesi,,,Hutan Lambusango,
+IPB-2017MH-MF004,IPB-2017MH-MF004-AH001,2016-4/2016-5,Type list MacKinnon & IPA,Binokular |6 hours,1000,metre,AH,,,,,,ID,Java,West java,Bogor,Jasinga,Hutan Penelitian Haurbentes,
+IPB-2017MH-MF004,IPB-2017MH-MF004-AT002,2016-4/2016-5,Type list MacKinnon & IPA,Binokular |6 hours,1000,metre,AT,,,,,,ID,Java,West java,Bogor,Jasinga,Hutan Penelitian Haurbentes,
+IPB-2017MH-MF004,IPB-2017MH-MF004-PM003,2016-4/2016-5,Type list MacKinnon & IPA,Binokular |6 hours,1000,metre,PM,,,,,,ID,Java,West java,Bogor,Jasinga,Hutan Penelitian Haurbentes,

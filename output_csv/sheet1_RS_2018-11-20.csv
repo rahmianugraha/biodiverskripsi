@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2017RS-RS001,USU-2017RS-RS001-TR001,2017,Purposive sampling,100 plot with zigzag method in line transek,1000,metre square,TR001,,,"3º14'28.51"" - 3º14'30.1""","98º31'37,2"" - 98º39'38,0""",WGS84,ID,Sumatera,sumatera utara,Karo,Taman hutan raya bukit barisan,Deleng macik,

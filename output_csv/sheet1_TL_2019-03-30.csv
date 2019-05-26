@@ -1,0 +1,13 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UI-2016NA-TL046,UI-2016NA-TL046-ST01,2016-03,Point Count,18 point,3,km,ST01,,,-7.1888889/-7.3333333,106.1408333/106.2330556,,ID,Java,West Java,Indonesia,Suaka Margasatwa Cikepuh,,
+UI-2016NA-TL046,UI-2016NA-TL046-ST02,2016-03,Point Count,12 point,3,km,ST02,,,-7.1888889/-7.3333333,106.1408333/106.2330556,,ID,Java,West Java,Indonesia,Suaka Margasatwa Cikepuh,,
+UI-2016NA-TL046,UI-2016NA-TL046-ST03,2016-03,Line transect,6 km,6,km,ST03,,,-7.1888889/-7.3333333,106.1408333/106.2330556,,ID,Java,West Java,Indonesia,Suaka Margasatwa Cikepuh,,
+UI-2016JT-TL047,UI-2016JT-TL047-ST01,2013-05/07,Point Count,2 km,2,km,ST01,,,-8.6040278,119.9861944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST02,2013-05/07,Point Count,2 km,2,km,ST02,,,-8.6040278,119.9861944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST03,2013-05/07,Point Count,2 km,2,km,ST03,,,-8.6040278,119.9861944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST04,2013-05/07,Point Count,2 km,2,km,ST04,,,-8.7391667,120.0128611,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST05,2013-05/07,Point Count,2 km,2,km,ST05,,,-8.7391667,120.0128611,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST06,2013-05/07,Point Count,2 km,2,km,ST06,,,-8.7391667,120.0128611,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST07,2013-05/07,Point Count,2 km,2,km,ST07,,,-8.6404444,119.9566944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST08,2013-05/07,Point Count,2 km,2,km,ST08,,,-8.6404444,119.9566944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,
+UI-2016JT-TL047,UI-2016JT-TL047-ST09,2013-05/07,Point Count,2 km,2,km,ST09,,,-8.6404444,119.9566944,,ID,East Nusa Tenggara,East Nusa Tenggara,Indonesia,"West Manggarai, Flores",Tanjung Kerita Mese conservation site,

@@ -1,0 +1,8 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2011NE-RS010,USU-2011NE-RS010-ST001,2010-09/10,Purposive Random Sampling,15 plot every station,20,centimetre,ST001,,,3.042,99.2124,WGS84,ID,sumatra,north sumatra,simalungun,bosar maligas,sei mangkei,
+USU-2011NE-RS010,USU-2011NE-RS010-ST002,2010-09/10,Purposive Random Sampling,15 plot every station,20,centimetre,ST002,,,3.0630444,99.234,WGS84,ID,sumatra,north sumatra,simalungun,bosar maligas,sei mangkei,
+USU-2011NE-RS010,USU-2011NE-RS010-ST003,2010-09/10,Purposive Random Sampling,15 plot every station,20,centimetre,ST003,,,3.0564,99.2196,WGS84,ID,sumatra,north sumatra,simalungun,bosar maligas,sei mangkei,
+USU-2011EN-RS011,USU-2011EN-RS011-ST001,2011-03/04,Purpossive Random Sampling,6 repeat in tide and low tide the water sea,25,liter,ST001,,,3.3871944,99.4108611,WGS84,ID,sumatra,north sumatra,batubara,medang,kuala tanjung,
+USU-2011EN-RS011,USU-2011EN-RS011-ST002,2011-03/04,Purpossive Random Sampling,6 repeat in tide and low tide the water sea,25,liter,ST002,,,3.3852222,99.4149167,WGS84,ID,sumatra,north sumatra,batubara,medang,kuala tanjung,
+USU-2011EN-RS011,USU-2011EN-RS011-ST003,2011-03/04,Purpossive Random Sampling,6 repeat in tide and low tide the water sea,25,liter,ST003,,,3.38175,99.4156389,WGS84,ID,sumatra,north sumatra,batubara,medang,kuala tanjung,
+USU-2011EN-RS011,USU-2011EN-RS011-ST004,2011-03/04,Purpossive Random Sampling,6 repeat in tide and low tide the water sea,25,liter,ST004,,,3.3689722,99.4449444,WGS84,ID,sumatra,north sumatra,batubara,medang,kuala tanjung,

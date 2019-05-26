@@ -1,0 +1,385 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2016PG-MF001-KR001,IPB-2016PG-MF001-KR001-VE001,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR001,IPB-2016PG-MF001-KR001-VE002,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR001,IPB-2016PG-MF001-KR001-VE003,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,6,individuals,,present,
+IPB-2016PG-MF001-KR001,IPB-2016PG-MF001-KR001-VE004,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR001,IPB-2016PG-MF001-KR001-VE005,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE001,Human observation,2016-3/2016-4,Animalia,Lonchura malacca,species,Bondol rawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE002,Human observation,2016-3/2016-4,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE003,Human observation,2016-3/2016-4,Animalia,Dicaeum trochileum,species,Cabai jawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE004,Human observation,2016-3/2016-4,Animalia,Picoides mollucensis,species,Caladi tilik,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE005,Human observation,2016-3/2016-4,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE006,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,5,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE007,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,8,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE008,Human observation,2016-3/2016-4,Animalia,Parrus major,species,Gelatik-batu kelabu,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE009,Human observation,2016-3/2016-4,Animalia,Artamus leucorhyncus,species,Kekep babi,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE010,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE011,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE012,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,6,individuals,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE013,Human observation,2016-3/2016-4,Animalia,Geopelia striata,species,Perkutut jawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR002,IPB-2016PG-MF001-KR002-VE014,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE001,Human observation,2016-3/2016-4,Animalia,Cacomantis merulinus,species,Wiwik kelabu,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE002,Human observation,2016-3/2016-4,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE003,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE004,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE005,Human observation,2016-3/2016-4,Animalia,Copsychus saularis,species,Kucica kampung,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE006,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE007,Human observation,2016-3/2016-4,Animalia,Buceros rhinoceros,species,Rangkong badak,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE008,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR003,IPB-2016PG-MF001-KR003-VE009,Human observation,2016-3/2016-4,Animalia,Collocalia esculenta,species,Walet sapi,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR004,IPB-2016PG-MF001-KR004-VE001,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR004,IPB-2016PG-MF001-KR004-VE002,Human observation,2016-3/2016-4,Animalia,Spilornis cheela,species,Elang ular bido,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR004,IPB-2016PG-MF001-KR004-VE003,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR004,IPB-2016PG-MF001-KR004-VE004,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR004,IPB-2016PG-MF001-KR004-VE005,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE001,Human observation,2016-3/2016-4,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE002,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE003,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE004,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE005,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE006,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE007,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,4,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE008,Human observation,2016-3/2016-4,Animalia,Geopelia striata,species,Perkutut jawa,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR005,IPB-2016PG-MF001-KR005-VE009,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE001,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE002,Human observation,2016-3/2016-4,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE003,Human observation,2016-3/2016-4,Animalia,Orthotomus ruficeps,species,Cinenen kelabu,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE004,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE005,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE006,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE007,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR006,IPB-2016PG-MF001-KR006-VE008,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE001,Human observation,2016-3/2016-4,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE002,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,3,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE003,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE004,Human observation,2016-3/2016-4,Animalia,Parrus major,species,Gelatik-batu kelabu,,,,ID,4,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE005,Human observation,2016-3/2016-4,Animalia,Amaurornis phoenicurus,species,Kareo padi,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE006,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE007,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE008,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,6,individuals,,present,
+IPB-2016PG-MF001-KR007,IPB-2016PG-MF001-KR007-VE009,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE001,Human observation,2016-3/2016-4,Animalia,Lonchura maja,species,Bondol haji,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE002,Human observation,2016-3/2016-4,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE003,Human observation,2016-3/2016-4,Animalia,Halcyon smyrnensis,species,Cekakak belukar,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE004,Human observation,2016-3/2016-4,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,2,individuals,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE005,Human observation,2016-3/2016-4,Animalia,Rhipidura javanica,species,Kipasan belang,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE006,Human observation,2016-3/2016-4,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE007,Human observation,2016-3/2016-4,Animalia,Prinia familiaris,species,Perenjak jawa,,,,ID,1,individual,,present,
+IPB-2016PG-MF001-KR008,IPB-2016PG-MF001-KR008-VE008,Human observation,2016-3/2016-4,Animalia,Streptopelia chinensis,species,Tekukur biasa,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE001,Human observation,2017-5/2017-6,Animalia,Microhierax fringillarius,species,Alap-alap capung,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE002,Human observation,2017-5/2017-6,Animalia,Gallus gallus,species,Ayam hutan merah,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE003,Human observation,2017-5/2017-6,Animalia,Treron olax,species,Punai kecil,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE004,Human observation,2017-5/2017-6,Animalia,Treron curvirostra,species,Punai lengguak,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE005,Human observation,2017-5/2017-6,Animalia,Loriculus galgulus,species,Serindit melayu,,,,ID,25,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE006,Human observation,2017-5/2017-6,Animalia,Collocalia esculenta,species,Walet sapi,,,,ID,48,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE007,Human observation,2017-5/2017-6,Animalia,Eurystomus orientalis,species,Tiong lampu biasa,,,,ID,11,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE008,Human observation,2017-5/2017-6,Animalia,Megalaima chrysopogon,species,Takur gedang,,,,ID,11,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE009,Human observation,2017-5/2017-6,Animalia,Hemicircus concretus,species,Caladi cikotok,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE010,Human observation,2017-5/2017-6,Animalia,Dendrocopus moluccensis,species,Caladi tilik,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE011,Human observation,2017-5/2017-6,Animalia,Hirundo rustica,species,Layang-layang api,,,,ID,13,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE012,Human observation,2017-5/2017-6,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,19,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE013,Human observation,2017-5/2017-6,Animalia,Pycnonotus plumosus,species,Merbah belukar,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE014,Human observation,2017-5/2017-6,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,26,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE015,Human observation,2017-5/2017-6,Animalia,Dricrurus paradiseus,species,Srigunting batu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE016,Human observation,2017-5/2017-6,Animalia,Copsychus saularis,species,Kucica kampung,,,,ID,25,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE017,Human observation,2017-5/2017-6,Animalia,Prinia flavifentris,species,Perenjak rawa,,,,ID,20,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE018,Human observation,2017-5/2017-6,Animalia,Acridotheres javanicus,species,Kerak kerbau,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE019,Human observation,2017-5/2017-6,Animalia,Gracula religiosa,species,Tiong emas,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE020,Human observation,2017-5/2017-6,Animalia,Arachnothera flavigaster,species,Pijantung tasmak,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-TT001,IPB-2017NS-MF002-TT001-VE021,Human observation,2017-5/2017-6,Animalia,Arachnothera chrysogenys,species,Pijantung telinga kuning,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE001,Human observation,2017-5/2017-6,Animalia,Treron olax,species,Punai kecil,,,,ID,7,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE002,Human observation,2017-5/2017-6,Animalia,Loriculus galgulus,species,Serindit melayu,,,,ID,18,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE003,Human observation,2017-5/2017-6,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE004,Human observation,2017-5/2017-6,Animalia,Phaenicophaeus diardi,species,Kadalang beruang,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE005,Human observation,2017-5/2017-6,Animalia,Phaenicophaeus chlorophaeus,species,Kadalan selaya,,,,ID,5,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE006,Human observation,2017-5/2017-6,Animalia,Cacomantis merulinus,species,Wwik kelabu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE007,Human observation,2017-5/2017-6,Animalia,Callocalia esculenta,species,Walet sapi,,,,ID,15,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE008,Human observation,2017-5/2017-6,Animalia,Aceros undulatus,species,Julang emas,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE009,Human observation,2017-5/2017-6,Animalia,Hemicurus concretus,species,Caladi tikotok,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE010,Human observation,2017-5/2017-6,Animalia,Dendrocopos moluccensis,species,Caladi tilik,,,,ID,7,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE011,Human observation,2017-5/2017-6,Animalia,Hemipus hirundinaceus,species,Jingjing batu,,,,ID,14,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE012,Human observation,2017-5/2017-6,Animalia,Chloropsis cyanopogon,species,Cica-daun kecil,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE013,Human observation,2017-5/2017-6,Animalia,Chloropsis cochinchinensis,species,Cica-daun sayap-biru,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE014,Human observation,2017-5/2017-6,Animalia,Pycnonotus melanicterus,species,Cucak kuning,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE015,Human observation,2017-5/2017-6,Animalia,Pycnonotus atriceps,species,Cucak kuricang,,,,ID,6,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE016,Human observation,2017-5/2017-6,Animalia,Pycnonotus aurigaster,species,Cucak kutilang,,,,ID,25,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE017,Human observation,2017-5/2017-6,Animalia,Pycnonotus simplex,species,Merbah corok-corok,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE018,Human observation,2017-5/2017-6,Animalia,Pycnonotus goiavaier,species,Merbah cerukcuk,,,,ID,5,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE019,Human observation,2017-5/2017-6,Animalia,Pycnonotus brunneus,species,Merbah mata merah,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE020,Human observation,2017-5/2017-6,Animalia,Dricrurus paradiseus,species,Srigunting batu,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE021,Human observation,2017-5/2017-6,Animalia,Copsychus saularis,species,Kucica kampung,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE022,Human observation,2017-5/2017-6,Animalia,Orthotomus atrogularis,species,Cinenen belukar,,,,ID,12,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE023,Human observation,2017-5/2017-6,Animalia,Prinia flavifentris,species,Perenjak rawa,,,,ID,38,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE024,Human observation,2017-5/2017-6,Animalia,Gracula religiosa,species,Tiong emas,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-BM002,IPB-2017NS-MF002-BM002-VE025,Human observation,2017-5/2017-6,Animalia,Arachnothera chrysogenys,species,Pijantung tasmak,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE001,Human observation,2017-5/2017-6,Animalia,Spilornis cheela,species,Elang ular bido,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE002,Human observation,2017-5/2017-6,Animalia,Treron olax,species,Punai kecil,,,,ID,6,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE003,Human observation,2017-5/2017-6,Animalia,Cacomantis sonneratii,species,Wiwik lurik,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE004,Human observation,2017-5/2017-6,Animalia,Harpactes kasumba,species,Luntur kasumba,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE005,Human observation,2017-5/2017-6,Animalia,Harpactes duvaucelii,species,Luntur putri,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE006,Human observation,2017-5/2017-6,Animalia,Lacedo pulchella,species,Cekakak batu,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE007,Human observation,2017-5/2017-6,Animalia,Nyctyornis amictus,species,Cirik-cirik kumbang,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE008,Human observation,2017-5/2017-6,Animalia,Annornis galeritus,species,Enggang klihingan,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE009,Human observation,2017-5/2017-6,Animalia,Drycopus javanesis,species,Pelatuk ayam,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE010,Human observation,2017-5/2017-6,Animalia,Sasia abnormis,species,Tukik tikus,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE011,Human observation,2017-5/2017-6,Animalia,Calyptomena viridis,species,Madi hijau kecil,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE012,Human observation,2017-5/2017-6,Animalia,Eurylaimus ochromalus,species,Sempur hujan darat,,,,ID,15,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE013,Human observation,2017-5/2017-6,Animalia,Pitta granatina,species,Paok delima,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE014,Human observation,2017-5/2017-6,Animalia,Chloropsis cochinchinensis,species,Cicak-daun sayap-biru,,,,ID,21,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE015,Human observation,2017-5/2017-6,Animalia,Aegithina viridissima,species,Cipoh jantung,,,,ID,9,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE016,Human observation,2017-5/2017-6,Animalia,Iole virescens,species,Brinji gunung,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE017,Human observation,2017-5/2017-6,Animalia,Tricholestes criniger,species,Brinji rambut tunggir,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE018,Human observation,2017-5/2017-6,Animalia,Alophoixus phaeocephalus,species,Empuloh irang,,,,ID,5,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE019,Human observation,2017-5/2017-6,Animalia,Pycnonotus simplex,species,Merbah corok-corok,,,,ID,9,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE020,Human observation,2017-5/2017-6,Animalia,Pycnonotus erythropthalamos,species,Merbah kacamata,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE021,Human observation,2017-5/2017-6,Animalia,Pycnonotus brunneus,species,Merbah mata merah,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE022,Human observation,2017-5/2017-6,Animalia,Dricrurus paradiseus,species,Srigunting batu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE023,Human observation,2017-5/2017-6,Animalia,Oriolus xanthonotus,species,Kepudang hutan,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE024,Human observation,2017-5/2017-6,Animalia,Corvus enca,species,Gagak hutan,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE025,Human observation,2017-5/2017-6,Animalia,Malacopteron magnum,species,Asi besar,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE026,Human observation,2017-5/2017-6,Animalia,Malacpteron magnirostre,species,Asi kumis,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE027,Human observation,2017-5/2017-6,Animalia,Pamatorhinus montanus,species,Cica kopi melayu,,,,ID,7,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE028,Human observation,2017-5/2017-6,Animalia,Malacopteron sp.,Genus,Cica,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE029,Human observation,2017-5/2017-6,Animalia,Malacocincla malaccensis,species,Pelanduk ekor pendek,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE030,Human observation,2017-5/2017-6,Animalia,Trichastoma bicolor,species,Pelanduk merah,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE031,Human observation,2017-5/2017-6,Animalia,Pellorneum capistratum,species,Pelanduk topi hitam,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE032,Human observation,2017-5/2017-6,Animalia,Stachyris maculata,species,Tepus tunggir merah,,,,ID,9,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE033,Human observation,2017-5/2017-6,Animalia,Trichixos pyrrhopygus,species,Kucica ekor-kuning,,,,ID,11,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE034,Human observation,2017-5/2017-6,Animalia,Orthotomus atrogularis,species,Cinenen belukar,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE035,Human observation,2017-5/2017-6,Animalia,Rhinomyias umbratilis,species,Sikatan rimba dada kelabu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE036,Human observation,2017-5/2017-6,Animalia,Gracula religiosa,species,Tiong emas,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE037,Human observation,2017-5/2017-6,Animalia,Anthreptes singalensis,species,Burung madu belukar,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE038,Human observation,2017-5/2017-6,Animalia,Hypogramma hypogrammicum,species,Burung-madu rimba,,,,ID,1,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE039,Human observation,2017-5/2017-6,Animalia,Arachnothera longirostra,species,Pijantung kecil,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE040,Human observation,2017-5/2017-6,Animalia,Dicaeum sp.,Genus,Cabai,,,,ID,7,individuals,,present,
+IPB-2017NS-MF002-BT003,IPB-2017NS-MF002-BT002-VE041,Human observation,2017-5/2017-6,Animalia,Dicaeum trigonostigma,species,Cabai bunga api,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE001,Human observation,2017-5/2017-6,Animalia,Treron olax,species,Punai kecil,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE002,Human observation,2017-5/2017-6,Animalia,Phaenicophaeus chlorophaeus,species,Kadalan selaya,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE003,Human observation,2017-5/2017-6,Animalia,Cacomantis sonneratii,species,Wiwik lurik,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE004,Human observation,2017-5/2017-6,Animalia,Eurostopodus temmickii,species,Taktarau melayu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE005,Human observation,2017-5/2017-6,Animalia,Harpactes diardii,species,Luntur diard,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE006,Human observation,2017-5/2017-6,Animalia,Nyctyornis amictus,species,Cirik-cirik kembang,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE007,Human observation,2017-5/2017-6,Animalia,Dryocopus javensis,species,Pelatuk ayam,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE008,Human observation,2017-5/2017-6,Animalia,Picus puniceus,species,Pelatuk sayap merah,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE009,Human observation,2017-5/2017-6,Animalia,Calyptomena viridis,species,Madi hijau kecil,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE010,Human observation,2017-5/2017-6,Animalia,Eurylaimus ochromalus,species,Sempur hujan darat,,,,ID,11,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE011,Human observation,2017-5/2017-6,Animalia,Chloropsis cochinchinensis,species,Cica-daun sayap-biru,,,,ID,7,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE012,Human observation,2017-5/2017-6,Animalia,Aegithina viridissima,species,Cipoh jantung,,,,ID,5,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE013,Human observation,2017-5/2017-6,Animalia,Iole virensis,species,Brinji gunung,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE014,Human observation,2017-5/2017-6,Animalia,Tricholestes criniger,species,Brinji rambut tunggir,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE015,Human observation,2017-5/2017-6,Animalia,Empuloh irang,species,Alophoixus phaeocephalus,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE016,Human observation,2017-5/2017-6,Animalia,Pycnonotus simplex,species,Merbah corok-corok,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE017,Human observation,2017-5/2017-6,Animalia,Pycnonotus erythropthalamos,species,Merbah kacamata,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE018,Human observation,2017-5/2017-6,Animalia,Dricurus paradieus,species,Srigunting batu,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE019,Human observation,2017-5/2017-6,Animalia,Corvus enca,species,Gagak hutan,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE020,Human observation,2017-5/2017-6,Animalia,Platysmurus leucoterus,species,Tangkar kambing,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE021,Human observation,2017-5/2017-6,Animalia,Malacpteron magnum,species,Asi besar,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE022,Human observation,2017-5/2017-6,Animalia,Malacpteron magnirostre,species,Asi kumis,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE023,Human observation,2017-5/2017-6,Animalia,Pamatorhinus montanus,species,Cica-kopi melayu,,,,ID,12,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE024,Human observation,2017-5/2017-6,Animalia,Malacpteron sp.,Genus,Asi,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE025,Human observation,2017-5/2017-6,Animalia,Malacocincla malaccensis,species,Pelanduk ekor pendek,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE026,Human observation,2017-5/2017-6,Animalia,Trichastoma bicolor,species,Pelanduk merah,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE027,Human observation,2017-5/2017-6,Animalia,Pellorneum capistratum,species,Pelanduk topi hitam,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE028,Human observation,2017-5/2017-6,Animalia,Stachyris maculata,species,Tepus tunggir merah,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE029,Human observation,2017-5/2017-6,Animalia,Trichixos pyrrhopygus,species,Kucica-ekor kuning,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE030,Human observation,2017-5/2017-6,Animalia,Orthotomus atrogularis,species,Cinenen belukar,,,,ID,6,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE031,Human observation,2017-5/2017-6,Animalia,Rhinomyias umbratilis,species,Sikatan rimba dada kelabu,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE032,Human observation,2017-5/2017-6,Animalia,Philentoma pyrhopterum,species,Philentoma sayap merah,,,,ID,4,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE033,Human observation,2017-5/2017-6,Animalia,Terpsiphone paradisi,species,Seriwang asia,,,,ID,2,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE034,Human observation,2017-5/2017-6,Animalia,Gracula religiosa,species,Tiong emas,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE035,Human observation,2017-5/2017-6,Animalia,Anthreptes singalensis,species,Burung madu belukar,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE036,Human observation,2017-5/2017-6,Animalia,Arachnothera flavigester,species,Pijantung kecil,,,,ID,3,individuals,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE037,Human observation,2017-5/2017-6,Animalia,Prionochilus thoracicus,species,Pijantung telinga kuning,,,,ID,1,individual,,present,
+IPB-2017NS-MF002-HS004,IPB-2017NS-MF002-HS002-VE038,Human observation,2017-5/2017-6,Animalia,Dicaeum sp.,Genus,Cabai,,,,ID,8,individuals,,present,
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE001,Human observation,2014-6/2014-7,Animalia,Gallus gallus,species,Ayam hutan merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE002,Human observation,2014-6/2014-7,Animalia,Ducula forsteni,species,Pergam tutu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE003,Human observation,2014-6/2014-7,Animalia,Ducula aena,species,Pergam hijau,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE004,Human observation,2014-6/2014-7,Animalia,Prioniturus plasturus,species,Kringkring bukit,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE005,Human observation,2014-6/2014-7,Animalia,Centropus celebensis,species,Bubut Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE006,Human observation,2014-6/2014-7,Animalia,Ceyx fallax,species,Udangmerah Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE007,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE008,Human observation,2014-6/2014-7,Animalia,Penelopides exarhatus,species,Kengkareng Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE009,Human observation,2014-6/2014-7,Animalia,Aceros cassidix,species,Julang Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE010,Human observation,2014-6/2014-7,Animalia,Mulleripicus fulvus,species,Pelatuk kelabu-Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE011,Human observation,2014-6/2014-7,Animalia,Coracina bicolor,species,Kepudangsungu belang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE012,Human observation,2014-6/2014-7,Animalia,Trichastoma celebense,species,Pelanduk Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE013,Human observation,2014-6/2014-7,Animalia,Culicicapa helianthea,species,Sikatan matari,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE014,Human observation,2014-6/2014-7,Animalia,Hypothymis azurea,species,Kehicap ranting,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE015,Human observation,2014-6/2014-7,Animalia,Dicaeum celebicum,species,Cabai panggul-kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE016,Human observation,2014-6/2014-7,Animalia,Oriolus chinensis,species,Kepudang kuduk-hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HP001,IPB-2016MP-MF003-HP001-VE017,Human observation,2014-6/2014-7,Animalia,Dicrurus hottentottus,species,Srigunting jambul-rambut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE001,Human observation,2014-6/2014-7,Animalia,Spilornis rufipectus,species,Elang ular Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE002,Human observation,2014-6/2014-7,Animalia,Accipiter trinotatus,species,Elangalap ekor-totol,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE003,Human observation,2014-6/2014-7,Animalia,Gallus gallus,species,Ayam hutan merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE004,Human observation,2014-6/2014-7,Animalia,Ptilonopus melanospila,species,Walik kembang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE005,Human observation,2014-6/2014-7,Animalia,Treron griseicauda,species,Punai penganten,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE006,Human observation,2014-6/2014-7,Animalia,Ducula aenea,species,Punai hijau,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE007,Human observation,2014-6/2014-7,Animalia,Ducula luctuosa,species,Pergam putih,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE008,Human observation,2014-6/2014-7,Animalia,Turacoena manadensis,species,Merpati hitam Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE009,Human observation,2014-6/2014-7,Animalia,Prioniturus plasturus,species,Kringkring bukit,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE010,Human observation,2014-6/2014-7,Animalia,Tanygnatus sumatranus,species,Betet kelapa punggung-biru,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE011,Human observation,2014-6/2014-7,Animalia,Loriculus stigmatus,species,Serindit Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE012,Human observation,2014-6/2014-7,Animalia,Loriculus exilis,species,Serindit paruh merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE013,Human observation,2014-6/2014-7,Animalia,Surniculus lugubris,species,Kedasi hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE014,Human observation,2014-6/2014-7,Animalia,Centropus celebensis,species,Bubut Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE015,Human observation,2014-6/2014-7,Animalia,Otus manadensis,species,Celepuk Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE016,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE017,Human observation,2014-6/2014-7,Animalia,Coracias temminckii,species,Tionglampu Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE018,Human observation,2014-6/2014-7,Animalia,Penelopides exarhatus,species,Kangkareng Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE019,Human observation,2014-6/2014-7,Animalia,Aceros cassidix,species,Julang Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE020,Human observation,2014-6/2014-7,Animalia,Mulleripicus fulvus,species,Pelatuk kelabu-Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE021,Human observation,2014-6/2014-7,Animalia,Coracina morio,species,Kepudangsungu belang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE022,Human observation,2014-6/2014-7,Animalia,Zoothera erythronota,species,Anis punggung-merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE023,Human observation,2014-6/2014-7,Animalia,Trichastoma celebense,species,Pelanduk Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE024,Human observation,2014-6/2014-7,Animalia,Culicicapa helianthea,species,Sikatan matari,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE025,Human observation,2014-6/2014-7,Animalia,Hypothymis azurea,species,Kehicap ranting,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE026,Human observation,2014-6/2014-7,Animalia,Dicaeum celebicum,species,Cabai panggul-kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE027,Human observation,2014-6/2014-7,Animalia,Leptocoma sericea,species,Burung madu hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE028,Human observation,2014-6/2014-7,Animalia,Zosterops consobrinorum,species,Kacamata Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE029,Human observation,2014-6/2014-7,Animalia,Streptocitta albicollis,species,Blibong pendeta,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE030,Human observation,2014-6/2014-7,Animalia,Oriolus chinensis,species,Kepudang kuduk-hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE031,Human observation,2014-6/2014-7,Animalia,Dicrurus hottentottus,species,Srigunting jambul-rambut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-HS002,IPB-2016MP-MF003-HS002-VE032,Human observation,2014-6/2014-7,Animalia,Corvus enca,species,Gagak hutan,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE001,Human observation,2014-6/2014-7,Animalia,Accipitter trinotatus,species,Elangalap ekor-totol,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE002,Human observation,2014-6/2014-7,Animalia,Spilornis rufipectus,species,Elangular Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE003,Human observation,2014-6/2014-7,Animalia,Treron griseicauda,species,Punai penganten,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE004,Human observation,2014-6/2014-7,Animalia,Ptilonopus melanospila,species,Walik kembang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE005,Human observation,2014-6/2014-7,Animalia,Ducula aenea,species,Pergam hijau,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE006,Human observation,2014-6/2014-7,Animalia,Ducula luctuosa,species,Pergam putih,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE007,Human observation,2014-6/2014-7,Animalia,Macropygia aboinensis,species,Uncal Ambon,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE008,Human observation,2014-6/2014-7,Animalia,Prioniturus plasturus,species,Kringkring bukit,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE009,Human observation,2014-6/2014-7,Animalia,Tanygnatus sumatranus,species,Betet kelapa punggung-biru,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE010,Human observation,2014-6/2014-7,Animalia,Loriculus stigmatus,species,Serindit Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE011,Human observation,2014-6/2014-7,Animalia,Loriculus exilis,species,Serindit paruh merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE012,Human observation,2014-6/2014-7,Animalia,Cuculus crassirostris,species,Kangkok Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE013,Human observation,2014-6/2014-7,Animalia,Surniculus lugubris,species,Kedasi hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE014,Human observation,2014-6/2014-7,Animalia,Rhamphococyx calyorhynchus,species,Kadalan Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE015,Human observation,2014-6/2014-7,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE016,Human observation,2014-6/2014-7,Animalia,Centrpous celebensis,species,Bubut Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE017,Human observation,2014-6/2014-7,Animalia,Collocalia esculenta,species,Walet sapi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE018,Human observation,2014-6/2014-7,Animalia,Hemiprocne mystacea,species,Tepekong jambul,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE019,Human observation,2014-6/2014-7,Animalia,Halcyon sancta,species,Cekakak Australia,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE020,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE021,Human observation,2014-6/2014-7,Animalia,Penelopides exarhatus,species,Kengkareng Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE022,Human observation,2014-6/2014-7,Animalia,Aceros cassidix,species,Julang Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE023,Human observation,2014-6/2014-7,Animalia,Pitta erythrogaster,species,Paok mopo,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE024,Human observation,2014-6/2014-7,Animalia,Coracina bicolor,species,Kepudangsungu belang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE025,Human observation,2014-6/2014-7,Animalia,Coracina morio,species,Kepudangsungu Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE026,Human observation,2014-6/2014-7,Animalia,Trichastoma celebense,species,Pelanduk Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE027,Human observation,2014-6/2014-7,Animalia,Culicicapa helianthea,species,Sikatan matari,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE028,Human observation,2014-6/2014-7,Animalia,Hypothymis azurea,species,Kehicap ranting,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE029,Human observation,2014-6/2014-7,Animalia,Dicaeum aureolimbatum,species,Cabai panggul-kuning,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE030,Human observation,2014-6/2014-7,Animalia,Dicaeum celebicum,species,Cabai panggul-kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE031,Human observation,2014-6/2014-7,Animalia,Anthreptes malacensis,species,Burungmadu kelapa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE032,Human observation,2014-6/2014-7,Animalia,Leptocoma sericea,species,Burungmadu hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE033,Human observation,2014-6/2014-7,Animalia,Cinnyris jugularis,species,Burung madu sriganti,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE034,Human observation,2014-6/2014-7,Animalia,Aethopyga siparaja,species,Burung sepah-raja,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE035,Human observation,2014-6/2014-7,Animalia,Zosterops consobrinorum,species,Kacamata Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE036,Human observation,2014-6/2014-7,Animalia,Basilornis celebensis,species,Rajaperling Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE037,Human observation,2014-6/2014-7,Animalia,Streptocitta albicollis,species,Blibong pendeta,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE038,Human observation,2014-6/2014-7,Animalia,Scissirostrum dubium,species,Jalak tunggir-merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE039,Human observation,2014-6/2014-7,Animalia,Oriolus chinensis,species,Kepudang kuduk-hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE040,Human observation,2014-6/2014-7,Animalia,Dicrurus hottentottus,species,Srigunting jambul-rambut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE041,Human observation,2014-6/2014-7,Animalia,Arthamus leucorynchus,species,Kekep babi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE042,Human observation,2014-6/2014-7,Animalia,Corvus enca,species,Gagak hutan,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PK003,IPB-2016MP-MF003-PK003-VE043,Human observation,2014-6/2014-7,Animalia,Corvus typicius,species,Gagak Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE001,Human observation,2014-6/2014-7,Animalia,Spilornis rufipectus,species,Elangular Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE002,Human observation,2014-6/2014-7,Animalia,Ictinaetus malayensis,species,Elang hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE003,Human observation,2014-6/2014-7,Animalia,Ducula aenea,species,Pergam hijau,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE004,Human observation,2014-6/2014-7,Animalia,Ducula luctuosa,species,Pergam putih,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE005,Human observation,2014-6/2014-7,Animalia,Macropygia aboinensis,species,Uncal Ambon,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE006,Human observation,2014-6/2014-7,Animalia,Streptocitta chinensis,species,Tekukur biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE007,Human observation,2014-6/2014-7,Animalia,Prioniturus plasturus,species,Kringkring bukit,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE008,Human observation,2014-6/2014-7,Animalia,Loriculus stigmatus,species,Serindir Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE009,Human observation,2014-6/2014-7,Animalia,Loriculus exilis,species,Serindit paruh-merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE010,Human observation,2014-6/2014-7,Animalia,Surniculus lugubris,species,Kedasi hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE011,Human observation,2014-6/2014-7,Animalia,Centropus bengalensis,species,Bubut alang-alang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE012,Human observation,2014-6/2014-7,Animalia,Centropus celebensis,species,Bubut Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE013,Human observation,2014-6/2014-7,Animalia,Collocalia esculenta,species,Walet sapi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE014,Human observation,2014-6/2014-7,Animalia,Hemiprocne longipennis,species,Tepekong jambul,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE015,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE016,Human observation,2014-6/2014-7,Animalia,Hirundo tahitica,species,Layanglayang batu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE017,Human observation,2014-6/2014-7,Animalia,Coracina morio,species,Kepudangsungu Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE018,Human observation,2014-6/2014-7,Animalia,Trichastoma celebense,species,Pelanduk Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE019,Human observation,2014-6/2014-7,Animalia,Gerygone sulphurea,species,Remetuk laut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE020,Human observation,2014-6/2014-7,Animalia,Dicaeum aureolimbatum,species,Cabai panggul-kuning,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE021,Human observation,2014-6/2014-7,Animalia,Dicaeum celebicum,species,cabai panggul-kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE022,Human observation,2014-6/2014-7,Animalia,Anthreptes malacensis,species,Burungmadu kelapa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE023,Human observation,2014-6/2014-7,Animalia,Leptocoma sericea,species,Burungmadu hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE024,Human observation,2014-6/2014-7,Animalia,Cinnyris jugularis,species,Burungmadu sriganti,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE025,Human observation,2014-6/2014-7,Animalia,Aethopyga siparaja,species,Burungmadu sepah-raja,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE026,Human observation,2014-6/2014-7,Animalia,Zosterops consobrinorum,species,Kacamata Sulawesi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE027,Human observation,2014-6/2014-7,Animalia,Lonchura molucca,species,Bondol taruk,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE028,Human observation,2014-6/2014-7,Animalia,Lonchura punctulata,species,Bondol peking,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE029,Human observation,2014-6/2014-7,Animalia,Passer montanus,species,Burung gereja eurasia,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE030,Human observation,2014-6/2014-7,Animalia,Aplonis panayensis,species,Perling kumbang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE031,Human observation,2014-6/2014-7,Animalia,Oriolus chinensis,species,Kepudang kuduk-hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE032,Human observation,2014-6/2014-7,Animalia,Dicrurus hottentottus,species,Srigunting jambul-rambut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE033,Human observation,2014-6/2014-7,Animalia,Arthamus leucorynchus,species,Kekep babi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2016MP-MF003-PD004,IPB-2016MP-MF003-PD004-VE034,Human observation,2014-6/2014-7,Animalia,Corvus enca,species,Gagak hutan,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE001,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,Species,Elang-ular bido,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE002,Human observation,2014-6/2014-7,Animalia,Ceyx rufidorsa,Species,Udang punggung-merah,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE003,Human observation,2014-6/2014-7,Animalia,Collocalia linchii,Species,Walet linchii,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE004,Human observation,2014-6/2014-7,Animalia,Arthamus leucorynchus,Species,Kekep babi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE005,Human observation,2014-6/2014-7,Animalia,Megalaima armillaris,Species,Takur tohtor,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE006,Human observation,2014-6/2014-7,Animalia,Streptopelia chinensis,Species,Tekukur biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE007,Human observation,2014-6/2014-7,Animalia,Cacomantis merulinus,Species,Wiwik kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE008,Human observation,2014-6/2014-7,Animalia,Cacomantis sepulcralis,Species,Wiwiik uncuing,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE009,Human observation,2014-6/2014-7,Animalia,Dicrurus macrocercus,Species,Srigunting hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE010,Human observation,2014-6/2014-7,Animalia,Dicrurus leucophaeus,Species,Srigunting kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE011,Human observation,2014-6/2014-7,Animalia,Muscicapa dauurica,Species,Sikatan bubik,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE012,Human observation,2014-6/2014-7,Animalia,Rhinomyias olivacea,Species,Sikatan rimba dada-coklat,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE013,Human observation,2014-6/2014-7,Animalia,Pycnonotus aurigaster,Species,Cucak kutilang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE014,Human observation,2014-6/2014-7,Animalia,Seicercus grammiceps,Species,Cikrak muda,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE015,Human observation,2014-6/2014-7,Animalia,Orthotomus sepium,Species,Cinenen Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE016,Human observation,2014-6/2014-7,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE017,Human observation,2014-6/2014-7,Animalia,Gerygone sulphurea,Species,Remetuk laut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AH001,IPB-2017MH-MF004-AH001-VE018,Human observation,2014-6/2014-7,Animalia,Zosterops palpebrosus,Species,Kacamata biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE001,Human observation,2014-6/2014-7,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE002,Human observation,2014-6/2014-7,Animalia,Halcyon cyanoventris,Species,Cekakak Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE003,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,Species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE004,Human observation,2014-6/2014-7,Animalia,Collocalia linchii,Species,Walet linchii,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE005,Human observation,2014-6/2014-7,Animalia,Arthamus leucorynchus,Species,Kekep babi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE006,Human observation,2014-6/2014-7,Animalia,Pericrocotus cinnamomeus,Species,Sepah kecil,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE007,Human observation,2014-6/2014-7,Animalia,Megalaima armillaris,Species,Takur tohtor,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE008,Human observation,2014-6/2014-7,Animalia,Aeghitina tiphia,Species,Cipoh kacat,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE009,Human observation,2014-6/2014-7,Animalia,Streptopelia chinensis,Species,Tekukur biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE010,Human observation,2014-6/2014-7,Animalia,Cacomantis merulinus,Species,Wiwik kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE011,Human observation,2014-6/2014-7,Animalia,Cacomantis sepulcralis,Species,Wiwik uncuing,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE012,Human observation,2014-6/2014-7,Animalia,Dicaeum trigonostigma,Species,Cabai bunga-api,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE013,Human observation,2014-6/2014-7,Animalia,Dicrurus macrocerus,Species,Srigunting hitam,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE014,Human observation,2014-6/2014-7,Animalia,Dicrurus leucophaeus,Species,Srigunting kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE015,Human observation,2014-6/2014-7,Animalia,Cinnyris jugularis,Species,Burungmadu sriganti,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE016,Human observation,2014-6/2014-7,Animalia,Erythrura prasina,Species,Bondol hijau-binglis,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE017,Human observation,2014-6/2014-7,Animalia,Lonchura leucogastroides,Species,Bondol Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE018,Human observation,2014-6/2014-7,Animalia,Lonchura punctulata,Species,Bondol peking,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE019,Human observation,2014-6/2014-7,Animalia,Pycnonotus aurigaster,Species,Cucak kutilang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE020,Human observation,2014-6/2014-7,Animalia,Orthotomus sepium,Species,Cinenen Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE021,Human observation,2014-6/2014-7,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE022,Human observation,2014-6/2014-7,Animalia,Prinia familiaris,Species,Perenjak Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE023,Human observation,2014-6/2014-7,Animalia,Prinia inornata,Species,Prenjak padi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE024,Human observation,2014-6/2014-7,Animalia,Gerygone sulphurea,Species,Remetuk laut,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-AT002,IPB-2017MH-MF004-AT002-VE025,Human observation,2014-6/2014-7,Animalia,Zosterops palpebrosus,Species,Kacamata biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE001,Human observation,2014-6/2014-7,Animalia,Halcyon chloris,Species,Cekakak sungai,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE002,Human observation,2014-6/2014-7,Animalia,Collocalia linchii,Species,Walet linchii,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE003,Human observation,2014-6/2014-7,Animalia,Arthamus leucorynchus,Species,Kekep babi,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE004,Human observation,2014-6/2014-7,Animalia,Hemipus hirundinaceus,Species,Jingjing batu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE005,Human observation,2014-6/2014-7,Animalia,Pericrocotus cinnamomeus,Species,Sepah kecil,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE006,Human observation,2014-6/2014-7,Animalia,Aegithina tiphia,Species,Cipoh kacat,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE007,Human observation,2014-6/2014-7,Animalia,Streptopelia chinensis,Species,Tekukur biasa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE008,Human observation,2014-6/2014-7,Animalia,Centropus bengalensis,Species,Bubut alang-alang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE009,Human observation,2014-6/2014-7,Animalia,Cacomantis merulinus,Species,Wiwik kelabu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE010,Human observation,2014-6/2014-7,Animalia,Cacomantis sepulcralis,Species,Wiwik uncuing,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE011,Human observation,2014-6/2014-7,Animalia,Dicaeum trigonostigma,Species,Cabai bunga-api,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE012,Human observation,2014-6/2014-7,Animalia,Dicaeum trochileum,Species,Cabai Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE013,Human observation,2014-6/2014-7,Animalia,Hirundo tahitica,Species,Layang-layang batu,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE014,Human observation,2014-6/2014-7,Animalia,Anthreptes malacensis,Species,Burungmadu kelapa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE015,Human observation,2014-6/2014-7,Animalia,Cinnyris jugularis,Species,Burungmadu sriganti,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE016,Human observation,2014-6/2014-7,Animalia,Pcoides moluccensis,Species,Caladi tilik,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE017,Human observation,2014-6/2014-7,Animalia,Lonchura leucogastroides,Species,Bondol Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE018,Human observation,2014-6/2014-7,Animalia,Lonchura punctulata,Species,Bondol peking,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE019,Human observation,2014-6/2014-7,Animalia,Passer montanus,Species,Burung gereja erasia,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE020,Human observation,2014-6/2014-7,Animalia,Pycnonotus aurigaster,Species,Cucak kutilang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE021,Human observation,2014-6/2014-7,Animalia,Orthotomus sepium,Species,Cinenen Jawa,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE022,Human observation,2014-6/2014-7,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,ID,,,,present,There is no quantity count in this research
+IPB-2017MH-MF004-PM003,IPB-2017MH-MF004-PM003-VE023,Human observation,2014-6/2014-7,Animalia,Zosterops palpebrosus,Species,Kacamata biasa,,,,ID,,,,present,There is no quantity count in this research

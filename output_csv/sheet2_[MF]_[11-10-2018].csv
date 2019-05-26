@@ -1,0 +1,417 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE001,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis squatarola,species,Cerek besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE002,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis fulva,species,Cerek kernyut,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE003,Human observation,2010-10-26/2011-3-10,Animalia,Chaaradrius alexandrinus,species,Cerek tilil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE004,Human observation,2010-10-26/2011-3-10,Animalia,Charadrinus javanicus,species,Cerek Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE005,Human observation,2010-10-26/2011-3-10,Animalia,Numenius minutus,species,Gajahan kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE006,Human observation,2010-10-26/2011-3-10,Animalia,Numenius phaeopus,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE007,Human observation,2010-10-26/2011-3-10,Animalia,Numenius arquata,species,Gajahan erasia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE008,Human observation,2010-10-26/2011-3-10,Animalia,Numenius madagascariensis,species,Gajahan timur,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE009,Human observation,2010-10-26/2011-3-10,Animalia,Limosa limosa,species,Biru-laut ekor hitam,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE010,Human observation,2010-10-26/2011-3-10,Animalia,Limosa lapponica,species,Biru-laut ekor-blorok,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE011,Human observation,2010-10-26/2011-3-10,Animalia,Tringa stagnatilis,species,Trinil rawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE012,Human observation,2010-10-26/2011-3-10,Animalia,Tringa nebularia,species,Trinil kaki-hijau,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE013,Human observation,2010-10-26/2011-3-10,Animalia,Actitis hypoleucos,species,Trinil pantai,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE014,Human observation,2010-10-26/2011-3-10,Animalia,Limnodromus semipalmatus,species,Trinil-lumpur asia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-RB001,IPB-2011HJ-MF005-RB001-VE015,Human observation,2010-10-26/2011-3-10,Animalia,Glareola maldivarum,species,Terik Asia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE016,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis squatarola,species,Cerek besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE017,Human observation,2010-10-26/2011-3-10,Animalia,Pluvualis fulva,species,Cerek kernyut,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE018,Human observation,2010-10-26/2011-3-10,Animalia,Charadrinus alexandrinus,species,Cerek tilil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE019,Human observation,2010-10-26/2011-3-10,Animalia,Charadrinus mongolus,species,Cerek-pasir-mongolia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE020,Human observation,2010-10-26/2011-3-10,Animalia,Numenius phaeopus,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE021,Human observation,2010-10-26/2011-3-10,Animalia,Numenius arquata,species,Gajahan erasia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE022,Human observation,2010-10-26/2011-3-10,Animalia,Limosa lapponica,species,Biru-laut ekor-blorok,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE023,Human observation,2010-10-26/2011-3-10,Animalia,Tringa stagnatilis,species,Trinil rawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE024,Human observation,2010-10-26/2011-3-10,Animalia,Actitis hypoleucos,species,Trinil pantai,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE025,Human observation,2010-10-26/2011-3-10,Animalia,Calidris subminuta,species,Kedidi jari-panjang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE026,Human observation,2010-10-26/2011-3-10,Animalia,Limicola falcinellus,species,Kedidi paruh-lebar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE027,Human observation,2010-10-26/2011-3-10,Animalia,Himantopus himantopus,species,Gagang bayam belang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PA002,IPB-2011HJ-MF005-PA002-VE028,Human observation,2010-10-26/2011-3-10,Animalia,Glareola maldivarum,species,Terik Asia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE029,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis squatarola,species,Cerek besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE030,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis fulva,species,Cerek kernyut,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE031,Human observation,2010-10-26/2011-3-10,Animalia,Charadrius javanicus,species,Cerek Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE032,Human observation,2010-10-26/2011-3-10,Animalia,Numenius phaeopus,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE033,Human observation,2010-10-26/2011-3-10,Animalia,Numenius arquata,species,Gajahan erasia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE034,Human observation,2010-10-26/2011-3-10,Animalia,Limosa lapponica,species,Biru-laut ekor-blorok,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE035,Human observation,2010-10-26/2011-3-10,Animalia,Actitis hypoleucos,species,Trinil pantai,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-CM003,IPB-2011HJ-MF005-CM003-VE036,Human observation,2010-10-26/2011-3-10,Animalia,Glareola maldivarum,species,Terik Asia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0037,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis fulva,species,Cerek kernyut,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0038,Human observation,2010-10-26/2011-3-10,Animalia,Charadrius javanicus,species,Cerek Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0039,Human observation,2010-10-26/2011-3-10,Animalia,Numenius phaeopus,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0040,Human observation,2010-10-26/2011-3-10,Animalia,Numenius arquata,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0041,Human observation,2010-10-26/2011-3-10,Animalia,Tringa stanatilis,species,Trini rawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0042,Human observation,2010-10-26/2011-3-10,Animalia,Actitis hypoleucos,species,Trinil pantai,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0043,Human observation,2010-10-26/2011-3-10,Animalia,Gallinago gallinago,species,Berkik ekor-kipas,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-SI004,IPB-2011HJ-MF005-SI004-VE0044,Human observation,2010-10-26/2011-3-10,Animalia,Glareola maldivarum,species,Terik Asia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0045,Human observation,2010-10-26/2011-3-10,Animalia,Pluvialis fulva,species,Cerek kernyut,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0046,Human observation,2010-10-26/2011-3-10,Animalia,Charadrius javanicus,species,Cerek Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0047,Human observation,2010-10-26/2011-3-10,Animalia,Charadrius mongolus,species,Cerek-pasir-mongolia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0048,Human observation,2010-10-26/2011-3-10,Animalia,Numenius phaeopus,species,Gajahan penggala,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0049,Human observation,2010-10-26/2011-3-10,Animalia,Numenius arquata,species,Gajahan erasia,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0050,Human observation,2010-10-26/2011-3-10,Animalia,Tringa stagnatilis,species,Trinil rawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-PB005,IPB-2011HJ-MF005-PB005-VE0051,Human observation,2010-10-26/2011-3-10,Animalia,Actitis hypoleucos,species,Trinil pantai,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN001,Human observation,2010-10-26/2011-3-10,Animalia,Spisula solda,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN002,Human observation,2010-10-26/2011-3-10,Animalia,Bittium sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN003,Human observation,2010-10-26/2011-3-10,Animalia,Cassidula aurisfelis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN004,Human observation,2010-10-26/2011-3-10,Animalia,Littorina scabra,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN005,Human observation,2010-10-26/2011-3-10,Animalia,Littorina sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN006,Human observation,2010-10-26/2011-3-10,Animalia,Nassarius pullus,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN007,Human observation,2010-10-26/2011-3-10,Animalia,Neritinia communis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN008,Human observation,2010-10-26/2011-3-10,Animalia,Telescopium telescopium,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN009,Human observation,2010-10-26/2011-3-10,Animalia,Terebralia sp.,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MR001-IN010,Human observation,2010-10-26/2011-3-10,Animalia,Uca annulipes,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MR001,IPB-2011HJ-MF005-MRB001-IN011,Human observation,2010-10-26/2011-3-10,Animalia,Spesies A,,,,,,ID,,,,Present,spesies A is unidentified |There is no  Indonesian species name
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0012,Human observation,2010-10-26/2011-3-10,Animalia,Spisula solda,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0013,Human observation,2010-10-26/2011-3-10,Animalia,Bittium sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0014,Human observation,2010-10-26/2011-3-10,Animalia,Cerithium maculatum,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0015,Human observation,2010-10-26/2011-3-10,Animalia,Cassidula aurisfelis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0016,Human observation,2010-10-26/2011-3-10,Animalia,Littorina scabra,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0017,Human observation,2010-10-26/2011-3-10,Animalia,Littorina sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0018,Human observation,2010-10-26/2011-3-10,Animalia,Neritinia sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0019,Human observation,2010-10-26/2011-3-10,Animalia,Telescopium telescopium,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0020,Human observation,2010-10-26/2011-3-10,Animalia,Telebralia sp,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0021,Human observation,2010-10-26/2011-3-10,Animalia,Uca annulipes,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP002,IPB-2011HJ-MF005-MP002-IN0022,Human observation,2010-10-26/2011-3-10,Animalia,Species C,,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0023,Human observation,2010-10-26/2011-3-10,Animalia,Cassidula aurisfelis,species,,,,,ID,,,,Present,spesies C is unidentified |There is no  Indonesian species name
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0024,Human observation,2010-10-26/2011-3-10,Animalia,Nassarius pullus,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0025,Human observation,2010-10-26/2011-3-10,Animalia,Neritinia communis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0026,Human observation,2010-10-26/2011-3-10,Animalia,Nerithia sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0027,Human observation,2010-10-26/2011-3-10,Animalia,Telescopium telescopium,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0028,Human observation,2010-10-26/2011-3-10,Animalia,Terebralia sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0029,Human observation,2010-10-26/2011-3-10,Animalia,Uca annulipes,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0030,Human observation,2010-10-26/2011-3-10,Animalia,Species B,,,,,,ID,,,,Present,spesies B is unidentified |There is no  Indonesian species name
+IPB-2011HJ-MF005-MC003,IPB-2011HJ-MF005-MC003-IN0031,Human observation,2010-10-26/2011-3-10,Animalia,Species C,,,,,,ID,,,,Present,spesies C is unidentified |There is no  Indonesian species name
+IPB-2011HJ-MF005-MS004,IPB-2011HJ-MF005-MS004-IN0032,Human observation,2010-10-26/2011-3-10,Animalia,Bellamy javanica,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MS004,IPB-2011HJ-MF005-MS004-IN0033,Human observation,2010-10-26/2011-3-10,Animalia,Pila scutata,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MS004,IPB-2011HJ-MF005-MS004-IN0034,Human observation,2010-10-26/2011-3-10,Animalia,Macrophtthalmus sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0035,Human observation,2010-10-26/2011-3-10,Animalia,Bittium sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0036,Human observation,2010-10-26/2011-3-10,Animalia,Cerithium sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0037,Human observation,2010-10-26/2011-3-10,Animalia,Cassidula aurisfelis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0038,Human observation,2010-10-26/2011-3-10,Animalia,Littorina sp.,Genus,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0039,Human observation,2010-10-26/2011-3-10,Animalia,Nassarius pullus,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0040,Human observation,2010-10-26/2011-3-10,Animalia,Neritinia communis,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0041,Human observation,2010-10-26/2011-3-10,Animalia,Nerithia sp.,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0042,Human observation,2010-10-26/2011-3-10,Animalia,Telescopium telescopium,species,,,,,ID,,,,Present,
+IPB-2011HJ-MF005-MP005,IPB-2011HJ-MF005-MP005-IN0043,Human observation,2010-10-26/2011-3-10,Animalia,Terebralia sp.,Genus,,,,,ID,,,,Present,
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE001,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE002,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ictinaetus malayensis,Species,Elang hitam,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE003,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arborophia javanica,Species,Puyuh-gonggong Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE004,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Macropygia emiliana,Species,Uncal buau,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE005,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Streptopelia bitorquata,Species,Dederuk Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE006,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cuculus saturatus,Species,Kangkok ranting,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE007,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cacomantis sepulcralis,Species,Wiwik uncuing,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE008,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Collocalia linchi,Species,Walet linchi,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE009,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Megalaima armillaris,Species,Takur tohtor,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE010,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Picus miniaceus,Species,Pelatuk merah,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE011,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pericrocotus miniatus,Species,Sepah gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE012,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Iole virescens,Species,Brinji gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE013,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicrurus leucocephaeus,Species,Srigunting kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE014,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Parus major,Species,Gelatik-batu kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE015,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Sitta azurea,Species,Munguk loreng,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE016,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Malacocincla sepiarium,Species,Pelanduk semak,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE017,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Napothera epilepidota,Species,Berencet berkening,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE018,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pnoepyga pusilla,Species,Berencet kerdil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE019,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Stachrys melanothorax,Species,Tepus pipi-perak,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE020,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pterurithius flaviscapis,Species,Ciu besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE021,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pteruthius aenobarbus,Species,Ciu kunyit,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE022,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Alcippe pyrrhoptera,Species,Wergan Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE023,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Brachypteryx leucophyrs,Species,Cingcoang coklat,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE024,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cinclidium diana,Species,Berkecet biru-tua,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE025,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Enicurus velatus,Species,Meninting kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE026,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Seicercus grammiceps,Species,Cikrak muda,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE027,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus borealis,Species,Cikrak kutub,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE028,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus trivirgatus,Species,Cikrak daun,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE029,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Tesia superciliaris,Species,Tesia Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE030,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Eumyas indigo,Species,Sikatan ninon,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE031,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula hyperrythra,Species,Sikatan bodoh,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE032,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula wetermanni,Species,Sikatan belang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE033,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Culicappa ceylonensis,Species,Sikatan kepala-abu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE034,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Rhipidura phoenicura,Species,Kipasan ekor-merah,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE035,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Motacilla cinerea,Species,Kicuit batu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE036,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Aethopyga mistacalis,Species,Burung-madu Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE037,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Aethopyga eximia,Species,Burung-madu gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE038,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arachnothera longirostra,Species,Pijantung kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE039,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicaeum sanguinolentum,Species,Cabai gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA001,IPB-2013SW-MF006-LA001-VE040,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops palpebrosus,Species,Kacamata biasa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE041,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops montanus,Species,Kacamata gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE042,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE043,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arborophia javanica,Species,Puyuh-gonggong Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE044,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Treron oxyura,Species,Punai salung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE045,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Macropygia emiliana,Species,Uncal buau,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE046,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cuculus saturatus,Species,Kangkok ranting,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE047,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cacomantis sepulcralis,Species,Wiwik uncuing,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE048,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Collocalia linchi,Species,Walet linchi,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE049,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Megalaima armillaris,Species,Takur tohtor,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE050,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Picus miniaceus,Species,Pelatuk merah,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE051,Human observation,2012-10-3/5/2012-11-1/9,Animalia,eurylaimus javanicus,Species,Sempur-hujan rimba,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE052,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Coracina larvata,Species,Kepudang-sungu gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE053,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Iole virescens,Species,Brinji gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE054,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicrurus leucocephaeus,Species,Srigunting kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE055,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicrurus rumifer,Species,sriguntng bukit,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE056,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Parus major,Species,Gelatik-batu kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE057,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Sitta azurea,Species,Munguk loreng,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE058,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Malacocincla sepiarium,Species,Pelanduk semak,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE059,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Napothera epilepidota,Species,Berencet berkening,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE060,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pnoepyga pusilla,Species,Berencet kerdil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE061,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Stachrys melanothorax,Species,Tepus pipi-perak,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE062,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Garrulax rufifrons,Species,Poksai kuda,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE063,Human observation,2012-10-3/5/2012-11-1/9,Animalia,pteruthius flaviscapis,Species,Ciu besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE064,Human observation,2012-10-3/5/2012-11-1/9,Animalia,ptreruthius aenobarbus,Species,Ciu kunyit,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE065,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Alcippe pyrrhoptera,Species,Wergan Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE066,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Brachypteryx leucophyrs,Species,Cingcoang coklat,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE067,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Seicercus grammiceps,Species,Cikrak muda,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE068,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus borealis,Species,Cikrak kutub,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE069,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus trivirgatus,Species,Cikrak daun,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE070,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Tesia superciliaris,Species,Tesia Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE071,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Eumyas indigo,Species,Sikatan ninon,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE072,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula hyperrythra,Species,Sikatan bodoh,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE073,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedulla westermanni,Species,Sikatan belang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE074,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Culicappa ceylonensis,Species,Sikatan kepala-abu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE075,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Rhipidura phoenicura,Species,Kipasan ekor-merah,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE076,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Aethopyga eximia,Species,Burung-madu gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE077,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arachnothera longirostra,Species,Pijantung kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE078,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicaeum sanguinolentum,Species,Cabai gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE079,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops palpevrosus,Species,Kacamata biasa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA002,IPB-2013SW-MF006-LA002-VE080,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops montanus,Species,Kacamata gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE081,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ictinaetus malayensis,Species,Elang hitam,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE082,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arborophia javanica,Species,Puyuh-gonggong Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE083,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Treron oxyura,Species,Punai salung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE084,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cuculus saturatus,Species,Kangkok ranting,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE085,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Megalaima armillaris,Species,Takur tohtor,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE086,Human observation,2012-10-3/5/2012-11-1/9,Animalia,eurylaimus javanicus,Species,Sempur-hujan rimba,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE087,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Coracina larvata,Species,Kepudang-sungu gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE088,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Iole virescens,Species,Brinji gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE089,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicrurus leucocephaeus,Species,Srigunting kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE090,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Parus major,Species,Gelatik-batu kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE091,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Sitta azurea,Species,Munguk loreng,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE092,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pomatorhinus montanus,Species,Cica-kopi melayu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE093,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Napothera epilepidota,Species,Berencet berkening,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE094,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pterutthius flaviscapis,Species,Ciu besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE095,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pterutthius aenobarbus,Species,Ciu kunyit,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE096,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Myiophoneus glaucinus,Species,Ciung-batu kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE097,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Seicercus grammiceps,Species,Cikrak muda,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE098,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus borealis,Species,Cikrak kutub,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE099,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus trivirgatus,Species,Cikrak daun,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE100,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Tesia superciliaris,Species,Tesia Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE101,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Eumyas indigo,Species,Sikatan ninon,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE102,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula hyperrythra,Species,Sikatan bodoh,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE103,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula wetermanni,Species,Sikatan belang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE104,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Culicappa ceylonensis,Species,Sikatan kepala-abu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE105,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Rhipidura phoenicura,Species,Rhipidura phoenicura,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE106,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Aethopyga eximia,Species,Burung-madu gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE107,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Arachnothera longirostra,Species,Pijantung kecil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE108,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicaeum sanguinolentum,Species,Cabai gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA003,IPB-2013SW-MF006-LA002-VE109,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops montanus,Species,Kacamata gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE110,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ptilinopus porphyreus,Species,Walik kepala ungu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE111,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Parus major,Species,Gelatik-batu kelabu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE112,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Sitta azurea,Species,Munguk loreng,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE113,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pnoepyga pusilla,Species,Berencet kerdil,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE114,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Stachrys melanothorax,Species,Tepus pipi-perak,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE115,Human observation,2012-10-3/5/2012-11-1/9,Animalia,pteruthius flaviscapis,Species,Ciu besar,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE116,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Pteruthius aenobarbus,Species,Ciu kunyit,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE117,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Alcippe pyrrhoptera,Species,Wergan Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE118,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Brachypteryx leucophyrs,Species,Cingcoang coklat,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE119,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Seicercus grammiceps,Species,Cikrak muda,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE120,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus borealis,Species,Cikrak kutub,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE121,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Phylloscopus trivirgatus,Species,Cikrak daun,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE122,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Tesia superciliaris,Species,Tesia Jawa,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE123,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Cettia vulcania,Species,Ceret gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE124,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Eumyas indigo,Species,Sikatan ninon,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE125,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedula hyperrythra,Species,Sikatan bodoh,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE126,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Ficedulla wetermanni,Species,Sikatan belang,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE127,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Culicappa ceylonensis,Species,Sikatan kepala-abu,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE128,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Rhipidura phoenicura,Species,Kipasan ekor-merah,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE129,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Dicaeum sanguinolentum,Species,Cabai gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2013SW-MF006-LA004,IPB-2013SW-MF006-LA004-VE130,Human observation,2012-10-3/5/2012-11-1/9,Animalia,Zosterops gunung,Species,Kacamata gunung,,,,ID,,,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE001,Human observation,2016-5/2016-8,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE002,Human observation,2016-5/2016-8,Animalia,Cacomantis sonneratii,Species,Wiwik lurik,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE003,Human observation,2016-5/2016-8,Animalia,Cacomantis sepulcralis,Species,Wiwik uncuing,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE004,Human observation,2016-5/2016-8,Animalia,Collocalia linchi,Species,Walet linchi,,,,IN,26,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE005,Human observation,2016-5/2016-8,Animalia,Halcyon chloris,Species,Cekaka sungai,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE006,Human observation,2016-5/2016-8,Animalia,Dendrocopus moluccensis,Species,Caladi tilik,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE007,Human observation,2016-5/2016-8,Animalia,Aegithinia tiphia,Species,Cipoh kacat,,,,IN,2,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE008,Human observation,2016-5/2016-8,Animalia,Pycnonotus aurigaster,Species,Cucak kutilang,,,,IN,2,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE009,Human observation,2016-5/2016-8,Animalia,Pycnonotus brunneus,Species,Merbah mata-merah,,,,IN,3,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE010,Human observation,2016-5/2016-8,Animalia,Malacocincla sepiarium,Species,Pelanduk semak,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE011,Human observation,2016-5/2016-8,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,IN,3,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE012,Human observation,2016-5/2016-8,Animalia,Orthotomus sepium,Species,Cinenen Jawa,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE013,Human observation,2016-5/2016-8,Animalia,Anthreptes malacensis,Species,Burungmadu kelapa,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IT001,IPB-2017HS-MF007-IT001-VE014,Human observation,2016-5/2016-8,Animalia,Arachnothera longistra,Species,Pijantung kecil,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE015,Human observation,2016-5/2016-8,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE016,Human observation,2016-5/2016-8,Animalia,Gallus gallus,Species,Ayam hutan merah,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE017,Human observation,2016-5/2016-8,Animalia,Collocalia linchi,Species,Walet linchi,,,,IN,10,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE018,Human observation,2016-5/2016-8,Animalia,Halycon chloris,Species,Cekaka sungai,,,,IN,3,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE019,Human observation,2016-5/2016-8,Animalia,Aegithinia tiphia,Species,Cipoh kacat,,,,IN,3,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE020,Human observation,2016-5/2016-8,Animalia,Pycnonotus aurigaster,Species,Cucak kutilang,,,,IN,2,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE021,Human observation,2016-5/2016-8,Animalia,Pycnonotus goiavaier,Species,Merbah cerukcuk,,,,IN,1,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE022,Human observation,2016-5/2016-8,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,IN,2,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE023,Human observation,2016-5/2016-8,Animalia,Cyornis banyumas,Species,Sikatan cacing,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IS002,IPB-2017HS-MF007-IS002-VE024,Human observation,2016-5/2016-8,Animalia,Dicaeum trochileum,Species,Cabai Jawa,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IR003,IPB-2017HS-MF007-IR003-VE025,Human observation,2016-5/2016-8,Animalia,Spilornis cheela,Species,Elang-ular bido,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IR003,IPB-2017HS-MF007-IR003-VE026,Human observation,2016-5/2016-8,Animalia,Gallus gallus,Species,Ayam hutan merah,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IR003,IPB-2017HS-MF007-IR003-VE027,Human observation,2016-5/2016-8,Animalia,Collocalia linchi,Species,Walet linchi,,,,IN,19,Individuals,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IR003,IPB-2017HS-MF007-IR003-VE028,Human observation,2016-5/2016-8,Animalia,Malacocincla sepiarium,Species,Pelanduk semak,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-IR003,IPB-2017HS-MF007-IR003-VE029,Human observation,2016-5/2016-8,Animalia,Orthotomus sutorius,Species,Cinenen pisang,,,,IN,1,Individual,,Present,There is no quantity count in this research
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM001,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,145,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM002,Human observation,2016-5/2016-8,Plantae,Ficus sp,Genus,Kiara,,,,ID,2,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM003,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,3,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM004,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,3,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM005,Human observation,2016-5/2016-8,Plantae,Nauclea orientalis,Species,Gempol,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM006,Human observation,2016-5/2016-8,Plantae,Nephelium mutabile,Species,Rambutan hutan,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM007,Human observation,2016-5/2016-8,Plantae,Dialum indum,Species,Asam keranji,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM008,Human observation,2016-5/2016-8,Plantae,Mollotus paniculus,Species,Menteng monyet,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM009,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM010,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,25,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM011,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM012,Human observation,2016-5/2016-8,Plantae,Melicope latifola,Species,Sampang,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM013,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM014,Human observation,2016-5/2016-8,Plantae,Mollotus paniculus,Species,Menteng monyet,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM015,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,3,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM016,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,3,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM017,Human observation,2016-5/2016-8,Plantae,Coffea robusta,Species,Kopi,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM018,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM019,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,6,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM020,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM021,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,4,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM022,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,5,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM023,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,2,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM024,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,2,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM025,Human observation,2016-5/2016-8,Plantae,Dialum indum,Species,Asam keranji,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM026,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,10,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM027,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM028,Human observation,2016-5/2016-8,Plantae,Acer niveum,Species,Calik angin,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM029,Human observation,2016-5/2016-8,Plantae,Melicope latifola,Species,Sampang,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM030,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,174,Individuals,,Present,TT is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM031,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM032,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM033,Human observation,2016-5/2016-8,Plantae,Melicope latifola,Species,Sampang,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TT001,IPB-2017HS-MF007-TT001-EM034,Human observation,2016-5/2016-8,Plantae,Ficus benjamina,Species,Beringin,,,,ID,1,Individual,,Present,TT is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TT001-EM035,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,79,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TT001-EM036,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM037,Human observation,2016-5/2016-8,Plantae,Dialum indum,Species,Asam keranji,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM038,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,7,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM039,Human observation,2016-5/2016-8,Plantae,Nuclea orientalis,Species,Gempol,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM040,Human observation,2016-5/2016-8,Plantae,Mallotus paniculatus,Species,Menteng monyet,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM041,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM042,Human observation,2016-5/2016-8,Plantae,Engelhardita spicata,Species,Ki hujan,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM043,Human observation,2016-5/2016-8,Plantae,Bouea macrophylla,Species,Gandaria,,,,ID,5,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM044,Human observation,2016-5/2016-8,Plantae,Protium javanicum,Species,Ki tumila,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM045,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,30,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM046,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM047,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM048,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM049,Human observation,2016-5/2016-8,Plantae,Syzigium densiflora,Species,Kupalalai,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM050,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM051,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM052,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,6,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM053,Human observation,2016-5/2016-8,Plantae,Mangifera sp.,Species,Mangga babi,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM054,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM055,Human observation,2016-5/2016-8,Plantae,Protium javanicum,Species,Ki tumila,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM056,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM057,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM058,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM059,Human observation,2016-5/2016-8,Plantae,Mallotus paniculatus,Species,Bintinu,,,,ID,5,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM060,Human observation,2016-5/2016-8,Plantae,Hibiscus macrophyllus,Species,Tisuk,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM061,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Lampeni,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM062,Human observation,2016-5/2016-8,Plantae,Bouea macrophylla,Species,Gandaria,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM063,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM064,Human observation,2016-5/2016-8,Plantae,Syzygium densiflora,Species,Kupalalai,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM065,Human observation,2016-5/2016-8,Plantae,Maesopsis emenii,Species,Kayu Afrika,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM066,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,4,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM067,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM068,Human observation,2016-5/2016-8,Plantae,Melicope latifola,Species,Sampang,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM069,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM070,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,43,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM071,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM072,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM073,Human observation,2016-5/2016-8,Plantae,Coffea robusta,Species,Kopi,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM074,Human observation,2016-5/2016-8,Plantae,Phoebe opaca,Species,Ki taleus,,,,ID,3,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM075,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM076,Human observation,2016-5/2016-8,Plantae,Mallotus paniculatus,Species,Bintinu,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM077,Human observation,2016-5/2016-8,Plantae,Helicia serata,Species,Putat,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM078,Human observation,2016-5/2016-8,Plantae,Hibiscus macrophyllus,Species,Tisuk,,,,ID,1,Individual,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TS002,IPB-2017HS-MF007-TS002-EM079,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,2,Individuals,,Present,TS is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM080,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,38,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM081,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM082,Human observation,2016-5/2016-8,Plantae,Dialum indum,Species,Asam keranji,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM083,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM084,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM085,Human observation,2016-5/2016-8,Plantae,Nephelium mutabile,Species,Rambutan hutan,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM086,Human observation,2016-5/2016-8,Plantae,Engelhardita spicata,Species,Ki hujan,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM087,Human observation,2016-5/2016-8,Plantae,Calamus sp.,Genus,Ki hoe,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM088,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM089,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,5,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM090,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM091,Human observation,2016-5/2016-8,Plantae,Protium javanicum,Species,Ki tumila,,,,ID,4,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM092,Human observation,2016-5/2016-8,Plantae,Bouea macrophylla,Species,Gandaria,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM093,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM094,Human observation,2016-5/2016-8,Plantae,Mallotus paniculatus,Species,Menteng monyet,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM095,Human observation,2016-5/2016-8,Plantae,Castanopsis argentea,Species,Saninten,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM096,Human observation,2016-5/2016-8,Plantae,Syzygium densiflora,Species,Kupalalai,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM097,Human observation,2016-5/2016-8,Plantae,Garcinia rostrata,Species,Reungrang,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM098,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM099,Human observation,2016-5/2016-8,Plantae,Ficus sp.,Species,Kiara,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM100,Human observation,2016-5/2016-8,Plantae,Barringtonia racemosa,Species,Putat,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM101,Human observation,2016-5/2016-8,Plantae,Nauclea orientalis,Species,Gampol,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pohon
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM102,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,18,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM103,Human observation,2016-5/2016-8,Plantae,Dialum indum,Species,Asam keranji,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM104,Human observation,2016-5/2016-8,Plantae,Podocarpus neriifolius,Species,Ki putri,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM105,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM106,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM107,Human observation,2016-5/2016-8,Plantae,Mallotus paniculatus,Species,Menteng monyet,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM108,Human observation,2016-5/2016-8,Plantae,Castanopsis argentea,Species,Saninten,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM109,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM110,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM111,Human observation,2016-5/2016-8,Plantae,Bouea macrophylla,Species,Gandaria,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Tiang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM112,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM113,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM114,Human observation,2016-5/2016-8,Plantae,Drypetes sumatrana,Species,Taritih,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM115,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM116,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM117,Human observation,2016-5/2016-8,Plantae,Erythroxylum cuneatum,Species,Ki walen,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM118,Human observation,2016-5/2016-8,Plantae,Phobe opaca,Species,Ki taleus,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM119,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,3,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM120,Human observation,2016-5/2016-8,Plantae,Polyalthia subcordata,Species,Ki tulang,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM121,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM122,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Lampeni,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM123,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM124,Human observation,2016-5/2016-8,Plantae,Mangifera sp.,Genus,Mangga babi,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Pancang
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM125,Human observation,2016-5/2016-8,Plantae,Macaranga tanarius,Species,Mara,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM126,Human observation,2016-5/2016-8,Plantae,Drypetes ovalis,Species,Kakaduan,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM127,Human observation,2016-5/2016-8,Plantae,Endiandra rubescens,Species,Ki bangkong,,,,ID,4,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM128,Human observation,2016-5/2016-8,Plantae,Clidema hirta,Species,Herendong bulu,,,,ID,5,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM129,Human observation,2016-5/2016-8,Plantae,Orania sylvicola,Species,Iwul,,,,ID,70,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM130,Human observation,2016-5/2016-8,Plantae,Garcinia rostrata,Species,Reungrang,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM131,Human observation,2016-5/2016-8,Plantae,Bellucia axinanthera,Species,Herendong besar,,,,ID,4,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM132,Human observation,2016-5/2016-8,Plantae,Aporosa nitida,Species,Ki sawo,,,,ID,4,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM133,Human observation,2016-5/2016-8,Plantae,Ardisia elliptica,Species,Ki tahun,,,,ID,4,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM134,Human observation,2016-5/2016-8,Plantae,Terminalia bellirica,Species,Jeret,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM135,Human observation,2016-5/2016-8,Plantae,Syzgyium densiflora,Species,Kupalalai,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM136,Human observation,2016-5/2016-8,Plantae,Parinari sumatrana,Species,Ki toke,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM137,Human observation,2016-5/2016-8,Plantae,Canarium denticulatum,Species,Ki sasah,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM138,Human observation,2016-5/2016-8,Plantae,Phoebe opaca,Species,Ki teleus,,,,ID,2,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM139,Human observation,2016-5/2016-8,Plantae,Austroeupatorium inufolium,Species,Kirinyuh,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM140,Human observation,2016-5/2016-8,Plantae,Xerospermum noronhianum,Species,Ki caah,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM141,Human observation,2016-5/2016-8,Plantae,Nephelium mutalibe,Species,Rambutan hutan,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM142,Human observation,2016-5/2016-8,Plantae,Protium javanicum,Species,Ki tumila,,,,ID,3,Individuals,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM143,Human observation,2016-5/2016-8,Plantae,Mangifera sp.,Genus,Mangga babi,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM144,Human observation,2016-5/2016-8,Plantae,Knema laurina,Species,Ki laja,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017HS-MF007-TR003,IPB-2017HS-MF007-TR003-EM145,Human observation,2016-5/2016-8,Plantae,Engelhardita spicata,Species,Ki hujan,,,,ID,1,Individual,,Present,TR is Tumbuhan Iwul tinggi | Semai
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE001,Human observation,2015-11/2016-8,Animalia,Macaca fascicularis,Species,Monyet ekor panjang,,,,ID,50,Individuals,,Present,Identification based on Direct observations | Feces | Feed
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE002,Human observation,2015-11/2016-8,Animalia,Trachypithecus auratus,Species,Lutung Jawa,,,,ID,38,Individuals,,Present,Direct observations | Feces | Feed
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE003,Human observation,2015-11/2016-8,Animalia,Calosciurus notatus,Species,Bajing kelapa,,,,ID,17,Individuals,,Present,Direct observations | Feces | Feed | Nest
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE004,Human observation,2015-11/2016-8,Animalia,Tupaica javanica,Species,Tupai kekes,,,,ID,7,Individuals,,Present,Feed | Nest
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE005,Human observation,2015-11/2016-8,Animalia,Paradoxurus,Species,Musang luwak,,,,ID,2,Individuals,,Present,Identification based on Footprints | Feed
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE006,Human observation,2015-11/2016-8,Animalia,Sus scrofa,Species,Suidae,,,,ID,4,Individuals,,Present,Identification based on Footprints | Soil excavation
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE007,Human observation,2015-11/2016-8,Animalia,Proinailurus bengalensis,Species,Meong congkok,,,,ID,2,Individuals,,Present,Identification based on  Voice | Footprints | Feces
+IPB-2017ME-MF008-LT001,IPB-2017ME-MF008-LT001-VE008,Human observation,2015-11/2016-8,Animalia,Aonyx cinerea,Species,Sero ambrang,,,,ID,2,Individuals,,Present,Identification based on  Voice | Footprints | Feces
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE009,Human observation,2015-11/2016-8,Animalia,Cynopterus titthaecheilus,Species,Codot besar,,,,ID,3,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE010,Human observation,2015-11/2016-8,Animalia,Cynopterus minutus,Species,Codot mini,,,,ID,2,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE011,Human observation,2015-11/2016-8,Animalia,Cynopterus brachyotis,Species,Codot krawar,,,,ID,13,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE012,Human observation,2015-11/2016-8,Animalia,Cynopterus horsfieldi,Species,Codot horfieldi,,,,ID,2,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE013,Human observation,2015-11/2016-8,Animalia,Cynopterus sphinx,Species,Codot barong,,,,ID,10,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE014,Human observation,2015-11/2016-8,Animalia,Macroglossus sabrinus,Species,Cecadu pisang besar,,,,ID,9,Individuals,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE015,Human observation,2015-11/2016-8,Animalia,Myotis muricola,Species,Lasiwen biasa,,,,ID,1,Individual,,Present,
+IPB-2017ME-MF008-MI002,IPB-2017ME-MF008-MI002-VE016,Human observation,2015-11/2016-8,Animalia,Scotophilus kuhlii,Species,Pedamasia,,,,ID,1,Individual,,Present,
+IPB-2017ME-MF008-PK003,IPB-2017ME-MF008-PK003-VE017,Human observation,2015-11/2016-8,Animalia,Rattus tiomanicus,Species,Tikus belukar,,,,ID,5,Individuals,,Present,
+IPB-2017ME-MF008-PK003,IPB-2017ME-MF008-PK003-VE018,Human observation,2015-11/2016-8,Animalia,Rattus sp.,Genus,Tikus A,,,,ID,1,Indivual,,Present,

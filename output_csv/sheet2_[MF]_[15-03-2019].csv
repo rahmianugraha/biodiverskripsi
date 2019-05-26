@@ -1,0 +1,136 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE001,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,40,Individuals,,Present,
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE002,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,4,Individuals,,Present,
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE003,Human Observation,2014-05/2014-06,Animalia,Limnonectes cf modestus,Genus,,,,,ID,12,Individuals,,Present,Species endemic | Limnonectes cf modestus (cf = common form)
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE004,Human Observation,2014-05/2014-06,Animalia,Limnonectes larvaepartus,Species,,,,,ID,1,Individual,,Present,Species endemic
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE005,Human Observation,2014-05/2014-06,Animalia,Polypedates iskandari,Species,,,,,ID,1,Individual,,Present,Species endemic
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE006,Human Observation,2014-05/2014-06,Animalia,Duttaphyrynus melanostictus,Species,Kodok buduk,,,,ID,8,Individuals,,Present,
+IPB-2015NA-MF013-KT001,IPB-2015NA-MF013-KT001-VE007,Human Observation,2014-05/2014-06,Animalia,Ingerphynus celebensis,Species,,,,,ID,4,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE008,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,10,Individuals,,Present,
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE009,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,5,Individuals,,Present,
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE010,Human Observation,2014-05/2014-06,Animalia,Limnonectes heinrichi,Species,,,,,ID,24,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE011,Human Observation,2014-05/2014-06,Animalia,Limnonectes cf modestus,Genus,,,,,ID,176,Individuals,,Present,Species endemic | Limnonectes cf modestus (cf = common form)
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE012,Human Observation,2014-05/2014-06,Animalia,Limnonectes larvaepartus,Species,,,,,ID,5,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE013,Human Observation,2014-05/2014-06,Animalia,Hylarana mocquardii,Species,,,,,ID,67,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE014,Human Observation,2014-05/2014-06,Animalia,Hylarana macrops,Species,,,,,ID,14,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-KJ002,IPB-2015NA-MF013-KJ002-VE015,Human Observation,2014-05/2014-06,Animalia,Ingerophrynus celebensis,Species,,,,,ID,33,Individuals,,Present,
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE001,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,56,Individuals,,Present,
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE002,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,11,Individuals,,Present,
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE003,Human Observation,2014-05/2014-06,Animalia,Limnonectes heinrichi,Species,,,,,ID,50,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE004,Human Observation,2014-05/2014-06,Animalia,Limnonectes cf modestus,Genus,,,,,ID,344,Individuals,,Present,Species endemic | Limnonectes cf modestus (cf = common form)
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE005,Human Observation,2014-05/2014-06,Animalia,Occidozyga semipalmata,Species,,,,,ID,6,Individuals,,Present,
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE006,Human Observation,2014-05/2014-06,Animalia,Occidozyga celebensis,Species,,,,,ID,6,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE007,Human Observation,2014-05/2014-06,Animalia,Hylarana celebensis,Species,,,,,ID,6,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE008,Human Observation,2014-05/2014-06,Animalia,Hylarana mocquardii,Species,,,,,ID,61,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE009,Human Observation,2014-05/2014-06,Animalia,Hylarana macrops,Species,,,,,ID,6,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE010,Human Observation,2014-05/2014-06,Animalia,Polypedates iskandari,Species,,,,,ID,17,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-DE001,IPB-2015NA-MF013-DE001-VE011,Human Observation,2014-05/2014-06,Animalia,Ingerophrynus celebensis,Species,,,,,ID,11,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE012,Human Observation,2014-05/2014-06,Animalia,Limnonectes heinrichi,Species,,,,,ID,33,Individuals,,Present,
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE013,Human Observation,2014-05/2014-06,Animalia,Limnonectes cf modestus,Genus,,,,,ID,519,Individuals,,Present,Species endemic | Limnonectes cf modestus (cf = common form)
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE014,Human Observation,2014-05/2014-06,Animalia,Occidozyga celebensis,Species,,,,,ID,5,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE015,Human Observation,2014-05/2014-06,Animalia,Hylarana mocquardii,Species,,,,,ID,233,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE016,Human Observation,2014-05/2014-06,Animalia,Hylarana macrops,Species,,,,,ID,86,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE017,Human Observation,2014-05/2014-06,Animalia,Rhacoporus georgii,Species,,,,,ID,57,Individuals,,Present,Species endemic
+IPB-2015NA-MF013-HS002,IPB-2015NA-MF013-HS002-VE018,Human Observation,2014-05/2014-06,Animalia,Ingerophrynus celebensis,Species,,,,,ID,62,Individuals,,Present,Species endemic
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE019,Human Observation,2014-05/2014-06,Animalia,Duttaphyrynus melanostictus,Species,Kodok buduk,,,,ID,32,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE020,Human Observation,2014-05/2014-06,Animalia,Ingerophyrnus biporcatus,Species,Kodok puru hutan,,,,ID,30,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE021,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,1,Individual,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE022,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,2,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE023,Human Observation,2014-05/2014-06,Animalia,Limnonectes macrodon,Species,Kodok batu,,,,ID,2,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE024,Human Observation,2014-05/2014-06,Animalia,Amnirana nicobariensis,Species,Kongkang jangkrik,,,,ID,6,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE025,Human Observation,2014-05/2014-06,Animalia,Chalcorana chalconota,Species,Kongkang kolam,,,,ID,24,Individuals,,Present,
+IPB-2017FK-MF014-HD001,IPB-2017FK-MF014-HD001-VE026,Human Observation,2014-05/2014-06,Animalia,Hylarana erythraea,Species,Kongkang gading,,,,ID,8,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE026,Human Observation,2014-05/2014-06,Animalia,Duttaphyrynus melanostictus,Species,Kodok buduk,,,,ID,1,Individual,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE027,Human Observation,2014-05/2014-06,Animalia,Ingerophrynus biporcatus,Species,Kodok puru hutan,,,,ID,4,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE028,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,28,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE029,Human Observation,2014-05/2014-06,Animalia,Occidozyga sumatrana,Species,Bancet rawa,,,,ID,81,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE030,Human Observation,2014-05/2014-06,Animalia,Microhyla achatina,Species,Percil Jawa,,,,ID,33,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE031,Human Observation,2014-05/2014-06,Animalia,Amnirana nicobariensis,Species,Kongkang jangkrik,,,,ID,1,Individual,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE032,Human Observation,2014-05/2014-06,Animalia,Chalcorana chalconota,Species,Kongkang kolam,,,,ID,2,Individuals,,Present,
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE033,Human Observation,2014-05/2014-06,Animalia,Pulchrana cf baramica,Genus,Kongkang baram,,,,ID,2,Individuals,,Present,Pulcharana cf baramica (cf = common form)
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE034,Human Observation,2014-05/2014-06,Animalia,Polypedates leucomystax,Species,Katak-pohon bergaris,,,,ID,3,Individuals,,Present,No individual count
+IPB-2017FK-MF014-HH002,IPB-2017FK-MF014-HH002-VE035,Human Observation,2014-05/2014-06,Animalia,Rhacoporus reinwardtii,Species,Katak pohon hijau,,,,ID,2,Individuals,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE001,Human Observation,2014-05/2014-06,Animalia,Duttaphyrynus melanostictus,Species,Kodok buduk,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE002,Human Observation,2014-05/2014-06,Animalia,Ingerophyrnus biporcatus,Species,Kodok puru hutan,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE003,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE004,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE005,Human Observation,2014-05/2014-06,Animalia,Limnonectes microdiscus,Species,Bangkong kerdil,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE006,Human Observation,2014-05/2014-06,Animalia,Polypedates leucomystax,Species,Katak pohon bergaris,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE007,Human Observation,2014-05/2014-06,Animalia,Hylarana chalconata,Species,Kongkang kolam,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE008,Human Observation,2014-05/2014-06,Animalia,Leptobrachium hasseltii,Species,Katak serasah,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE009,Human Observation,2014-05/2014-06,Animalia,Cytodactylus marmoratus,Species,Cecak batu,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE010,Human Observation,2014-05/2014-06,Animalia,Gekko gecko,Species,Tokek,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE011,Human Observation,2014-05/2014-06,Animalia,Hemidactylus frenatus,Species,Cecak kayu,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE012,Human Observation,2014-05/2014-06,Animalia,Bronchocela jubata,Species,Bunglon surai,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-TR001,IPB-2016AP-MF015-TR001-VE013,Human Observation,2014-05/2014-06,Animalia,Lycodon subcinctus,Species,Ular cecak belang,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE014,Human Observation,2014-05/2014-06,Animalia,Duttaphyrynus melanostictus,Species,Kodok buduk,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE015,Human Observation,2014-05/2014-06,Animalia,Ingerophyrnus biporcatus,Species,Kodok puru hutan,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE016,Human Observation,2014-05/2014-06,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE017,Human Observation,2014-05/2014-06,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE018,Human Observation,2014-05/2014-06,Animalia,Limnonectes microdiscus,Species,Bangkong kerdil,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE019,Human Observation,2014-05/2014-06,Animalia,Polypedates leucomystax,Species,Katak pohon bergaris,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE020,Human Observation,2014-05/2014-06,Animalia,Bungarus candidus,Species,Ular weling,,,,ID,,,,Present,No individual count
+IPB-2016AP-MF015-AK002,IPB-2016AP-MF015-AK002-VE021,Human Observation,2014-05/2014-06,Animalia,Gekko gecko,Species,Tokek,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-AR001,IPB-2015YM-MF016-AR001-VE022,Human Observation,2014-05-20/2014-05-27,Animalia,Ingerphynus divergens,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-AR001,IPB-2015YM-MF016-AR001-VE023,Human Observation,2014-05-20/2014-05-27,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-AR001,IPB-2015YM-MF016-AR001-VE024,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes malesianus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-AR001,IPB-2015YM-MF016-AR001-VE025,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes paramcarodon,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-AR001,IPB-2015YM-MF016-AR001-VE026,Human Observation,2014-05-20/2014-05-27,Animalia,Meristogenys phaeomerus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE027,Human Observation,2014-05-20/2014-05-27,Animalia,Ingerophrynus biporcatus,Species,Kodok puru hutan,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE028,Human Observation,2014-05-20/2014-05-27,Animalia,Phrynoidis asper,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE029,Human Observation,2014-05-20/2014-05-27,Animalia,Fejervarya cancrivora,Species,Katak sawah,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE030,Human Observation,2014-05-20/2014-05-27,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE031,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes malesianus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE032,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes paramacrodon,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE033,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconata,Species,Kongkam kolam,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE034,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates leucomystax,Species,Katak pohon bergaris,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS002,IPB-2015YM-MF016-PS002-VE035,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates otilophus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE036,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia leptopus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE037,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia spinulifer,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE038,Human Observation,2014-05-20/2014-05-27,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE039,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes paramacrodon,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE040,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconata,Species,Kongkam kolam,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE041,Human Observation,2014-05-20/2014-05-27,Animalia,Meristogenys phaeomerus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE042,Human Observation,2014-05-20/2014-05-27,Animalia,Nyxtixalus pictus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE043,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates macrotis,Species,Katak pohon bertelinga gelap,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PJ003,IPB-2015YM-MF016-PJ003-VE044,Human Observation,2014-05-20/2014-05-27,Animalia,Rhacoporus pardalis,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE045,Human Observation,2014-05-20/2014-05-27,Animalia,Ingerophrynus divergens,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE046,Human Observation,2014-05-20/2014-05-27,Animalia,Fejervarya limnocharis,Species,Katak tegalan,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE047,Human Observation,2014-05-20/2014-05-27,Animalia,Leptolalax gracilis,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE048,Human Observation,2014-05-20/2014-05-27,Animalia,Microhyla borneensis,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE049,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana baramica,Species,Kongkang baram,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE050,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconata,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE051,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana glandulosa,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE052,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates leucomystax,Species,Katak pohon bergaris,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE053,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates macrotis,Species,Katak pohon bertelinga gelap,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PS004,IPB-2015YM-MF016-PJ003-VE054,Human Observation,2014-05-20/2014-05-27,Animalia,Polypedates otilophus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL005,IPB-2015YM-MF016-SL005-VE0060,Human Observation,2014-05-20/2014-05-27,Animalia,Phrynoidis asper,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL005,IPB-2015YM-MF016-SL005-VE0061,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes paramacrodon,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL005,IPB-2015YM-MF016-SL005-VE0062,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana baramica,Species,Kongkang baram,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL005,IPB-2015YM-MF016-SL005-VE0063,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconata,Species,Kongkam kolam,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN006,IPB-2015YM-MF016-PN006-VE0064,Human Observation,2014-05-20/2014-05-27,Animalia,Megophyrs nasuta,Species,Katak bertanduk hidung panjang,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0065,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia leptopus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0066,Human Observation,2014-05-20/2014-05-27,Animalia,Leptophyne borbonica,Species,Kodok jam pasir,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0067,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes ibanorum,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0068,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes kuhlii,Species,Bangkong tuli,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0069,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana erythraea,Species,Kongkang gading,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0070,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana nicobariensis,Species,Kongkang jangkrik,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-SL007,IPB-2015YM-MF016-SL007-VE0071,Human Observation,2014-05-20/2014-05-27,Animalia,Meristogenys phaeomerus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0072,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia leptopus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0073,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia spinulifer,Species,Katak ramping berduri,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0074,Human Observation,2014-05-20/2014-05-27,Animalia,Leptophryne borbonica,Species,Kodok jam pasir,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0075,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes kuhlii,Species,Bangkong tuli,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0076,Human Observation,2014-05-20/2014-05-27,Animalia,Leptolalax gracilis,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0077,Human Observation,2014-05-20/2014-05-27,Animalia,Leptolalax hamidi,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0078,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconata,Species,Kongkam kolam,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0079,Human Observation,2014-05-20/2014-05-27,Animalia,Meristogenys phaemerus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-PN008,IPB-2015YM-MF016-PN008-VE0080,Human Observation,2014-05-20/2014-05-27,Animalia,Staurois natator,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0081,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia leptopus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0082,Human Observation,2014-05-20/2014-05-27,Animalia,Ansonia spinulifer,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0083,Human Observation,2014-05-20/2014-05-27,Animalia,Ingerophyrnus divergens,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0084,Human Observation,2014-05-20/2014-05-27,Animalia,Leptophryne borbonica,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0085,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes kuhlii,Species,Bangkong tuli,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0086,Human Observation,2014-05-20/2014-05-27,Animalia,Limnonectes paramcrodon,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0087,Human Observation,2014-05-20/2014-05-27,Animalia,Hylarana chalconota,Species,Kongkam kolam,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0088,Human Observation,2014-05-20/2014-05-27,Animalia,Meristogenys phaeomerus,Species,,,,,ID,,,,Present,No individual count
+IPB-2015YM-MF016-BZ009,IPB-2015YM-MF016-BZ009-VE0089,Human Observation,2014-05-20/2014-05-27,Animalia,Staurois natator,Species,,,,,ID,,,,Present,No individual count

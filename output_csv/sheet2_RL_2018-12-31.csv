@@ -1,0 +1,597 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,identificationReferences,remarks
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-EM001,HumanObservation,2016-02/04,Plantae,Tridax procumbens,Species,,-6.3458333,106.8208333,,ID,168,Individuals,,,,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-EM002,HumanObservation,2016-02/04,Plantae,Asystasia gangetica,Species,,-6.3458333,106.8208333,,ID,216,Individuals,,,,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-EM003,HumanObservation,2016-02/04,Plantae,Cyanthillium cinereum,Species,,-6.3458333,106.8208333,,ID,136,Individuals,,,,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-EM004,HumanObservation,2016-02/04,Plantae,Oxalis barrelieri,Species,,-6.3458333,106.8208333,,ID,127,Individuals,,,,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN001,HumanObservation,2016-02/04,Animalia,Papilio demoleus,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN002,HumanObservation,2016-02/04,Animalia,Appias olferna,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN003,HumanObservation,2016-02/04,Animalia,Delias hyparete,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN004,HumanObservation,2016-02/04,Animalia,Eurema hecabe,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN005,HumanObservation,2016-02/04,Animalia,Leptosia nina,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN006,HumanObservation,2016-02/04,Animalia,Catopsilia pomona,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN007,HumanObservation,2016-02/04,Animalia,Delias periboea,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN008,HumanObservation,2016-02/04,Animalia,Junonia orithya,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN009,HumanObservation,2016-02/04,Animalia,Hypolimnas bolina,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN010,HumanObservation,2016-02/04,Animalia,Ypthima horsfieldii,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016UH-RL017-LT001,UI-2016UH-RL017-LT001-TN011,HumanObservation,2016-02/04,Animalia,Junonia almana,Species,,-6.3458333,106.8208333,,ID,,,,,Practical guide to the butterflies of Bogor Botanical Garden. Peggie.2006.,
+UI-2016AV-RL018-QS1SP1,UI-2016AV-RL018-QS1SP1-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS1SP1,UI-2016AV-RL018-QS1SP1-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS1SP1,UI-2016AV-RL018-QS1SP1-EM003,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP2,UI-2016AV-RL018-QS1SP2-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP2,UI-2016AV-RL018-QS1SP2-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS1SP2,UI-2016AV-RL018-QS1SP2-EM003,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,5,Individuals,,,,
+UI-2016AV-RL018-QS1SP2,UI-2016AV-RL018-QS1SP2-EM004,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS1SP3,UI-2016AV-RL018-QS1SP3-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS1SP3,UI-2016AV-RL018-QS1SP3-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP3,UI-2016AV-RL018-QS1SP3-EM003,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS1SP3,UI-2016AV-RL018-QS1SP3-EM004,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS1SP4,UI-2016AV-RL018-QS1SP4-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP4,UI-2016AV-RL018-QS1SP4-EM002,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS1SP4,UI-2016AV-RL018-QS1SP4-EM003,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP4,UI-2016AV-RL018-QS1SP4-EM004,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP4,UI-2016AV-RL018-QS1SP4-EM005,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS1SP5,UI-2016AV-RL018-QS1SP5-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-QS1SP5,UI-2016AV-RL018-QS1SP5-EM002,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,1,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS1SP5,UI-2016AV-RL018-QS1SP5-EM003,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,3,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS1SP6,UI-2016AV-RL018-QS1SP6-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,1,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS1SP6,UI-2016AV-RL018-QS1SP6-EM002,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP1,UI-2016AV-RL018-QS2SP1-EM001,HumanObservation,2016-05,Plantae,Xylocarpus granatum,Species,,1.05,103.3666667,,ID,7,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP2,UI-2016AV-RL018-QS2SP2-EM001,HumanObservation,2016-05,Plantae,Xylocarpus granatum,Species,,1.05,103.3666667,,ID,7,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP2,UI-2016AV-RL018-QS2SP2-EM002,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP3,UI-2016AV-RL018-QS2SP3-EM001,HumanObservation,2016-05,Plantae,Xylocarpus granatum,Species,,1.05,103.3666667,,ID,3,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP3,UI-2016AV-RL018-QS2SP3-EM002,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP3,UI-2016AV-RL018-QS2SP3-EM003,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,3,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP4,UI-2016AV-RL018-QS2SP4-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP4,UI-2016AV-RL018-QS2SP4-EM002,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,3,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP5,UI-2016AV-RL018-QS2SP5-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,1,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP5,UI-2016AV-RL018-QS2SP5-EM002,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,4,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP6,UI-2016AV-RL018-QS2SP6-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS2SP6,UI-2016AV-RL018-QS2SP6-EM002,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP1,UI-2016AV-RL018-QS3SP1-EM001,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP1,UI-2016AV-RL018-QS3SP1-EM002,HumanObservation,2016-05,Plantae,Sonneratia alba,Species,,1.05,103.3666667,,ID,3,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP2,UI-2016AV-RL018-QS3SP2-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP2,UI-2016AV-RL018-QS3SP2-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,2,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP2,UI-2016AV-RL018-QS3SP2-EM003,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,5,Individuals,,,Smithsonian handbooks: shells 2nd ed. Dance. 2002.,
+UI-2016AV-RL018-QS3SP2,UI-2016AV-RL018-QS3SP2-EM004,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS3SP2,UI-2016AV-RL018-QS3SP2-EM005,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS3SP3,UI-2016AV-RL018-QS3SP3-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS3SP3,UI-2016AV-RL018-QS3SP3-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS3SP3,UI-2016AV-RL018-QS3SP3-EM003,HumanObservation,2016-05,Plantae,Rhizopora apiculata,Species,,1.05,103.3666667,,ID,5,Individuals,,,,
+UI-2016AV-RL018-QS3SP3,UI-2016AV-RL018-QS3SP3-EM004,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS3SP3,UI-2016AV-RL018-QS3SP3-EM005,HumanObservation,2016-05,Plantae,Scyphiphora hydrophyllacea,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS3SP4,UI-2016AV-RL018-QS3SP4-EM001,HumanObservation,2016-05,Plantae,Rhizopora stylosa,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS3SP4,UI-2016AV-RL018-QS3SP4-EM002,HumanObservation,2016-05,Plantae,Rhizopora mucronata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS3SP4,UI-2016AV-RL018-QS3SP4-EM003,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS3SP4,UI-2016AV-RL018-QS3SP4-EM004,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-QS3SP5,UI-2016AV-RL018-QS3SP5-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-QS3SP5,UI-2016AV-RL018-QS3SP5-EM002,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-QS3SP6,UI-2016AV-RL018-QS3SP6-EM001,HumanObservation,2016-05,Plantae,Lumnitzera racemosa,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-QS3SP6,UI-2016AV-RL018-QS3SP6-EM002,HumanObservation,2016-05,Plantae,Bruguiera gymnorrhiza,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP1,UI-2016AV-RL018-PRS1SP1-MA001,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP1,UI-2016AV-RL018-PRS1SP1-MA002,HumanObservation,2016-05,Animalia,Turritella terebra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP1,UI-2016AV-RL018-PRS1SP1-MA003,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP2,UI-2016AV-RL018-PRS1SP2-MA001,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS1SP2,UI-2016AV-RL018-PRS1SP2-MA002,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP2,UI-2016AV-RL018-PRS1SP2-MA003,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS1SP2,UI-2016AV-RL018-PRS1SP2-MA004,HumanObservation,2016-05,Animalia,Turritella terebra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP2,UI-2016AV-RL018-PRS1SP2-MA005,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA003,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA004,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA005,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,5,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA006,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS1SP3,UI-2016AV-RL018-PRS1SP3-MA007,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP4,UI-2016AV-RL018-PRS1SP4-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP4,UI-2016AV-RL018-PRS1SP4-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP4,UI-2016AV-RL018-PRS1SP4-MA003,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP4,UI-2016AV-RL018-PRS1SP4-MA004,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS1SP4,UI-2016AV-RL018-PRS1SP4-MA005,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS1SP5,UI-2016AV-RL018-PRS1SP5-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS1SP5,UI-2016AV-RL018-PRS1SP5-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP5,UI-2016AV-RL018-PRS1SP5-MA003,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS1SP6,UI-2016AV-RL018-PRS1SP6-MA001,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS2SP1,UI-2016AV-RL018-PRS2SP1-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP1,UI-2016AV-RL018-PRS2SP1-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS2SP1,UI-2016AV-RL018-PRS2SP1-MA003,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP1,UI-2016AV-RL018-PRS2SP1-MA004,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP2,UI-2016AV-RL018-PRS2SP2-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS2SP2,UI-2016AV-RL018-PRS2SP2-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP2,UI-2016AV-RL018-PRS2SP2-MA003,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS2SP2,UI-2016AV-RL018-PRS2SP2-MA004,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP3,UI-2016AV-RL018-PRS2SP3-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP3,UI-2016AV-RL018-PRS2SP3-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS2SP3,UI-2016AV-RL018-PRS2SP3-MA003,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP3,UI-2016AV-RL018-PRS2SP3-MA004,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP3,UI-2016AV-RL018-PRS2SP3-MA005,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP4,UI-2016AV-RL018-PRS2SP4-MA001,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP4,UI-2016AV-RL018-PRS2SP4-MA002,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP4,UI-2016AV-RL018-PRS2SP4-MA003,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS2SP5,UI-2016AV-RL018-PRS2SP5-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS2SP5,UI-2016AV-RL018-PRS2SP5-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS2SP6,UI-2016AV-RL018-PRS2SP6-MA001,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS3SP1,UI-2016AV-RL018-PRS3SP1-MA001,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP1,UI-2016AV-RL018-PRS3SP1-MA002,HumanObservation,2016-05,Animalia,Turritella terebra,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP1,UI-2016AV-RL018-PRS3SP1-MA003,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP2,UI-2016AV-RL018-PRS3SP2-MA001,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP2,UI-2016AV-RL018-PRS3SP2-MA002,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP2,UI-2016AV-RL018-PRS3SP2-MA003,HumanObservation,2016-05,Animalia,Turritella terebra,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP2,UI-2016AV-RL018-PRS3SP2-MA004,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA001,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA002,HumanObservation,2016-05,Animalia,Nerita undata,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA003,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,5,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA004,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA005,HumanObservation,2016-05,Animalia,Nerita balteata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP3,UI-2016AV-RL018-PRS3SP3-MA006,HumanObservation,2016-05,Animalia,Littorina melanostoma,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP4,UI-2016AV-RL018-PRS3SP4-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP4,UI-2016AV-RL018-PRS3SP4-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP4,UI-2016AV-RL018-PRS3SP4-MA003,HumanObservation,2016-05,Animalia,Littorina scabra,Species,,1.05,103.3666667,,ID,3,Individuals,,,,
+UI-2016AV-RL018-PRS3SP4,UI-2016AV-RL018-PRS3SP4-MA004,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,4,Individuals,,,,
+UI-2016AV-RL018-PRS3SP5,UI-2016AV-RL018-PRS3SP5-MA001,HumanObservation,2016-05,Animalia,Terebralia sulcata,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP5,UI-2016AV-RL018-PRS3SP5-MA002,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP5,UI-2016AV-RL018-PRS3SP5-MA003,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016AV-RL018-PRS3SP6,UI-2016AV-RL018-PRS3SP6-MA001,HumanObservation,2016-05,Animalia,Telescopium telescopium,Species,,1.05,103.3666667,,ID,1,Individuals,,,,
+UI-2016AV-RL018-PRS3SP6,UI-2016AV-RL018-PRS3SP6-MA002,HumanObservation,2016-05,Animalia,Chicoreus capucinus,Species,,1.05,103.3666667,,ID,2,Individuals,,,,
+UI-2016MR-RL019-S001,UI-2016MR-RL019-S001-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis niloticus,Species,Nila,-6.3458333,106.8208333,,ID,55,Individuals,,,,
+UI-2016MR-RL019-S001,UI-2016MR-RL019-S001-VE002,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis mossambicus,Species,Mujair,-6.3458333,106.8208333,,ID,7,Individuals,,,,
+UI-2016MR-RL019-S001,UI-2016MR-RL019-S001-VE003,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,161,Individuals,,,,
+UI-2016MR-RL019-S001,UI-2016MR-RL019-S001-VE004,HumanObservation,2016-03-05/04-09,Animalia,Poecilia reticulata,Species,Ikan seribu,-6.3458333,106.8208333,,ID,8,Individuals,,,,
+UI-2016MR-RL019-S001,UI-2016MR-RL019-S001-VE005,HumanObservation,2016-03-05/04-09,Animalia,Oxyeleotris marmorata,Species,Betutu,-6.3458333,106.8208333,,ID,5,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis mossambicus,Species,Mujair,-6.3458333,106.8208333,,ID,3,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE002,HumanObservation,2016-03-05/04-09,Animalia,Amphilophus citrinellus,Species,Red devil,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE003,HumanObservation,2016-03-05/04-09,Animalia,Trichopodus pectoralis,Species,Sepat siam,-6.3458333,106.8208333,,ID,4,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE004,HumanObservation,2016-03-05/04-09,Animalia,Trichopodus trichopterus,Species,Sepat jawa,-6.3458333,106.8208333,,ID,28,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE005,HumanObservation,2016-03-05/04-09,Animalia,Channa striata,Species,Gabus,-6.3458333,106.8208333,,ID,4,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE006,HumanObservation,2016-03-05/04-09,Animalia,Clarias batrachus,Species,Lele lokal,-6.3458333,106.8208333,,ID,3,Individuals,,,,
+UI-2016MR-RL019-S002,UI-2016MR-RL019-S002-VE007,HumanObservation,2016-03-05/04-09,Animalia,Atractosteus spatula,Species,Ikan aligator,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S003,UI-2016MR-RL019-S003-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis niloticus,Species,Nila,-6.3458333,106.8208333,,ID,139,Individuals,,,,
+UI-2016MR-RL019-S003,UI-2016MR-RL019-S003-VE002,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis mossambicus,Species,Mujair,-6.3458333,106.8208333,,ID,27,Individuals,,,,
+UI-2016MR-RL019-S003,UI-2016MR-RL019-S003-VE003,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,43,Individuals,,,,
+UI-2016MR-RL019-S003,UI-2016MR-RL019-S003-VE004,HumanObservation,2016-03-05/04-09,Animalia,Channa striata,Species,Gabus,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S003,UI-2016MR-RL019-S003-VE005,HumanObservation,2016-03-05/04-09,Animalia,Barbodes binotatus,Species,Benteur,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis niloticus,Species,Nila,-6.3458333,106.8208333,,ID,76,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE002,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis mossambicus,Species,Mujair,-6.3458333,106.8208333,,ID,7,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE003,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,14,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE004,HumanObservation,2016-03-05/04-09,Animalia,Trichopsis vittata,Species,Cupang sawah,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE005,HumanObservation,2016-03-05/04-09,Animalia,Channa striata,Species,Gabus,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S004,UI-2016MR-RL019-S004-VE006,HumanObservation,2016-03-05/04-09,Animalia,Poecilia reticulata,Species,Ikan seribu,-6.3458333,106.8208333,,ID,49,Individuals,,,,
+UI-2016MR-RL019-S005,UI-2016MR-RL019-S005-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis niloticus,Species,Nila,-6.3458333,106.8208333,,ID,2,Individuals,,,,
+UI-2016MR-RL019-S005,UI-2016MR-RL019-S005-VE002,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis mossambicus,Species,Mujair,-6.3458333,106.8208333,,ID,7,Individuals,,,,
+UI-2016MR-RL019-S005,UI-2016MR-RL019-S005-VE003,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,5,Individuals,,,,
+UI-2016MR-RL019-S005,UI-2016MR-RL019-S005-VE004,HumanObservation,2016-03-05/04-09,Animalia,Trichopsis vittata,Species,Cupang sawah,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S005,UI-2016MR-RL019-S005-VE005,HumanObservation,2016-03-05/04-09,Animalia,Poecilia reticulata,Species,Ikan seribu,-6.3458333,106.8208333,,ID,24,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE001,HumanObservation,2016-03-05/04-09,Animalia,Oreochromis niloticus,Species,Nila,-6.3458333,106.8208333,,ID,7,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE002,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,17,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE003,HumanObservation,2016-03-05/04-09,Animalia,Trichopodus trichopterus,Species,Sepat jawa,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE004,HumanObservation,2016-03-05/04-09,Animalia,Clarias batrachus,Species,Lele lokal,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE005,HumanObservation,2016-03-05/04-09,Animalia,Poecilia reticulata,Species,Ikan seribu,-6.3458333,106.8208333,,ID,39,Individuals,,,,
+UI-2016MR-RL019-S006,UI-2016MR-RL019-S006-VE006,HumanObservation,2016-03-05/04-09,Animalia,Barbodes binotatus,Species,Benteur,-6.3458333,106.8208333,,ID,6,Individuals,,,,
+UI-2016MR-RL019-S007,UI-2016MR-RL019-S007-VE001,HumanObservation,2016-03-05/04-09,Animalia,Pterygoplichtys pardalis,Species,Sapu-sapu,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S007,UI-2016MR-RL019-S007-VE002,HumanObservation,2016-03-05/04-09,Animalia,Channa striata,Species,Gabus,-6.3458333,106.8208333,,ID,1,Individuals,,,,
+UI-2016MR-RL019-S007,UI-2016MR-RL019-S007-VE003,HumanObservation,2016-03-05/04-09,Animalia,Poecilia reticulata,Species,Ikan seribu,-6.3458333,106.8208333,,ID,2,Individuals,,,,
+UI-2016MR-RL019-S007,UI-2016MR-RL019-S007-VE004,HumanObservation,2016-03-05/04-09,Animalia,Dermogenys pusilla,Species,Julung-julung,-6.3458333,106.8208333,,ID,16,Individuals,,,,
+UI-2016MR-RL019-S007,UI-2016MR-RL019-S007-VE005,HumanObservation,2016-03-05/04-09,Animalia,Aplocheilus panchax,Species,Kepala timah,-6.3458333,106.8208333,,ID,2,Individuals,,,,
+UI-2006SF-RL020-SW001,UI-2006SF-RL020-SW001-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6476389,106.5525833,,ID,11,colonies,,,,
+UI-2006SF-RL020-SW001,UI-2006SF-RL020-SW001-MA002,HumanObservation,2005-11-11/13,Animalia,Millepora,Genus,,-5.6476389,106.5525833,,ID,2,colonies,,,,
+UI-2006SF-RL020-SW001,UI-2006SF-RL020-SW001-MA003,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW001,UI-2006SF-RL020-SW001-MA004,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6476389,106.5525833,,ID,4,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6476389,106.5525833,,ID,15,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA002,HumanObservation,2005-11-11/13,Animalia,Coeloseris,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA003,HumanObservation,2005-11-11/13,Animalia,Pavona,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA004,HumanObservation,2005-11-11/13,Animalia,Favia,Genus,,-5.6476389,106.5525833,,ID,2,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA005,HumanObservation,2005-11-11/13,Animalia,Millepora,Genus,,-5.6476389,106.5525833,,ID,5,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA006,HumanObservation,2005-11-11/13,Animalia,Pocillopora,Genus,,-5.6476389,106.5525833,,ID,3,colonies,,,,
+UI-2006SF-RL020-SW002,UI-2006SF-RL020-SW002-MA007,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6476389,106.5525833,,ID,4,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6476389,106.5525833,,ID,16,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA002,HumanObservation,2005-11-11/13,Animalia,Coeloseris,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA003,HumanObservation,2005-11-11/13,Animalia,Pavona,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA004,HumanObservation,2005-11-11/13,Animalia,Echinopora,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA005,HumanObservation,2005-11-11/13,Animalia,Favia,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA006,HumanObservation,2005-11-11/13,Animalia,Millepora,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA007,HumanObservation,2005-11-11/13,Animalia,Pocillopora,Genus,,-5.6476389,106.5525833,,ID,2,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA008,HumanObservation,2005-11-11/13,Animalia,Goniopora,Genus,,-5.6476389,106.5525833,,ID,1,colonies,,,,
+UI-2006SF-RL020-SW003,UI-2006SF-RL020-SW003-MA009,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6476389,106.5525833,,ID,4,colonies,,,,
+UI-2006SF-RL020-SE001,UI-2006SF-RL020-SE001-MA001,HumanObservation,2005-11-11/13,Animalia,Tubastrea,Genus,,-5.6456944,106.5621667,,ID,2,colonies,,,,
+UI-2006SF-RL020-SE001,UI-2006SF-RL020-SE001-MA002,HumanObservation,2005-11-11/13,Animalia,Goniastrea,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE001,UI-2006SF-RL020-SE001-MA003,HumanObservation,2005-11-11/13,Animalia,Heliopora,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE001,UI-2006SF-RL020-SE001-MA004,HumanObservation,2005-11-11/13,Animalia,Millepora,Genus,,-5.6456944,106.5621667,,ID,4,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA002,HumanObservation,2005-11-11/13,Animalia,Favites,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA003,HumanObservation,2005-11-11/13,Animalia,Fungia,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA004,HumanObservation,2005-11-11/13,Animalia,Millepora,Genus,,-5.6456944,106.5621667,,ID,4,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA005,HumanObservation,2005-11-11/13,Animalia,Merulina,Genus,,-5.6456944,106.5621667,,ID,2,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA006,HumanObservation,2005-11-11/13,Animalia,Lobophyllia,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE002,UI-2006SF-RL020-SE002-MA007,HumanObservation,2005-11-11/13,Animalia,Goniopora,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6456944,106.5621667,,ID,2,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA002,HumanObservation,2005-11-11/13,Animalia,Coeloseris,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA003,HumanObservation,2005-11-11/13,Animalia,Leptoria,Genus,,-5.6456944,106.5621667,,ID,2,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA004,HumanObservation,2005-11-11/13,Animalia,Hydnophora,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA005,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-SE003,UI-2006SF-RL020-SE003-MA006,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6456944,106.5621667,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5697222,,ID,7,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA002,HumanObservation,2005-11-11/13,Animalia,Favia,Genus,,-5.6424056,106.5697222,,ID,2,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA003,HumanObservation,2005-11-11/13,Animalia,Platygyra,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA004,HumanObservation,2005-11-11/13,Animalia,Fungia,Genus,,-5.6424056,106.5697222,,ID,2,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA005,HumanObservation,2005-11-11/13,Animalia,Heliopora,Genus,,-5.6424056,106.5697222,,ID,2,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA006,HumanObservation,2005-11-11/13,Animalia,Lobophyllia,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA007,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE001,UI-2006SF-RL020-NE001-MA008,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6424056,106.5697222,,ID,2,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5697222,,ID,5,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA002,HumanObservation,2005-11-11/13,Animalia,Fungia,Genus,,-5.6424056,106.5697222,,ID,2,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA003,HumanObservation,2005-11-11/13,Animalia,Lobophyllia,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA004,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA005,HumanObservation,2005-11-11/13,Animalia,Goniopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE002,UI-2006SF-RL020-NE002-MA006,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6424056,106.5697222,,ID,6,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5697222,,ID,5,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA002,HumanObservation,2005-11-11/13,Animalia,Favia,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA003,HumanObservation,2005-11-11/13,Animalia,Heliopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA004,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA005,HumanObservation,2005-11-11/13,Animalia,Goniopora,Genus,,-5.6424056,106.5697222,,ID,1,colonies,,,,
+UI-2006SF-RL020-NE003,UI-2006SF-RL020-NE003-MA006,HumanObservation,2005-11-11/13,Animalia,Porites,Genus,,-5.6424056,106.5697222,,ID,3,colonies,,,,
+UI-2006SF-RL020-NW001,UI-2006SF-RL020-NW001-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5622778,,ID,18,colonies,,,,
+UI-2006SF-RL020-NW001,UI-2006SF-RL020-NW001-MA002,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6424056,106.5622778,,ID,2,colonies,,,,
+UI-2006SF-RL020-NW002,UI-2006SF-RL020-NW002-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5622778,,ID,13,colonies,,,,
+UI-2006SF-RL020-NW002,UI-2006SF-RL020-NW002-MA002,HumanObservation,2005-11-11/13,Animalia,Goniopora,Genus,,-5.6424056,106.5622778,,ID,1,colonies,,,,
+UI-2006SF-RL020-NW003,UI-2006SF-RL020-NW003-MA001,HumanObservation,2005-11-11/13,Animalia,Acropora,Genus,,-5.6424056,106.5622778,,ID,12,colonies,,,,
+UI-2006SF-RL020-NW003,UI-2006SF-RL020-NW003-MA002,HumanObservation,2005-11-11/13,Animalia,Favites,Genus,,-5.6424056,106.5622778,,ID,1,colonies,,,,
+UI-2006SF-RL020-NW003,UI-2006SF-RL020-NW003-MA003,HumanObservation,2005-11-11/13,Animalia,Fungia,Genus,,-5.6424056,106.5622778,,ID,3,colonies,,,,
+UI-2006SF-RL020-NW003,UI-2006SF-RL020-NW003-MA004,HumanObservation,2005-11-11/13,Animalia,Pocillopora,Genus,,-5.6424056,106.5622778,,ID,2,colonies,,,,
+UI-2006SF-RL020-NW003,UI-2006SF-RL020-NW003-MA005,HumanObservation,2005-11-11/13,Animalia,Seriatopora,Genus,,-5.6424056,106.5622778,,ID,2,colonies,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA001,HumanObservation,2007-02/03,Animalia,Phyllidiella rudmani,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 20 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA002,HumanObservation,2007-02/03,Animalia,Phyllidiopsis krempfi,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 19 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA003,HumanObservation,2007-02/03,Animalia,Phyllidiella pustolosa,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 20 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA004,HumanObservation,2007-02/03,Animalia,Phyllidiella lizae,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 18 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA005,HumanObservation,2007-02/03,Animalia,Phyllidiella nigra,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 1.5 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA006,HumanObservation,2007-02/03,Animalia,Phyllidiopsis pipeki,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 19 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA007,HumanObservation,2007-02/03,Animalia,Phyllidiella zeylanica,Species,,-5.6,106.55,,ID,,,,,"Hongkong nudibranchs. Orr. 1981 | The systematic and phylogeny of phyllidiid nudibranchs (Doridoidea). Records of the Australian Museum Supplement. Brunckhorst. 1993 | Sea slugs of Western Australia. Wells & Bryce.1993 | Rediscription of Phyllidiopsis sinaiensis(Yonow, 1988) (nudibranch: Doridoidea: Phyllidiidae), with a review of the red sea phyllidiidae. The journal of molluscan studies. Fahrner & Schrodel. 2000 | The guild of phyllidiids from the Thousand Island National Park, Indonesia, with special reference to feeding biology and chemical ecology of Phyllidia varicose Lamark, 1801. Yasman. 2001 | Structure elucidation, biological activity, and ecology of terpene isocyanides from phyllidiid species (nudibranch) and their sponge-preys from the Thousand Island National Park, Indonesia. Yasman. 2006.",Found at 20 m depth
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA008,HumanObservation,2007-02/03,Animalia,Halichondria,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA009,HumanObservation,2007-02/03,Animalia,Hymenacidon,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA010,HumanObservation,2007-02/03,Animalia,Styllissa,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA011,HumanObservation,2007-02/03,Animalia,Myrmekioderma,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA012,HumanObservation,2007-02/03,Animalia,Dragmacidon,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007AP-RL021-PS001,UI-2007AP-RL021-PS001-MA013,HumanObservation,2007-02/03,Animalia,Axinella,Genus,,-5.6,106.55,,ID,,,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE001,HumanObservation,2006-07,Animalia,Osteochilus,Genus,,3.05647,97.32378,,,55,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE002,HumanObservation,2006-07,Animalia,Puntius binotatus,Species,,3.05647,97.32378,,,103,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE003,HumanObservation,2006-07,Animalia,Rasbora jacobsoni,Species,,3.05647,97.32378,,,21,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE004,HumanObservation,2006-07,Animalia,Rasbora merah,Species,,3.05647,97.32378,,,14,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE005,HumanObservation,2006-07,Animalia,Rasbora sumatrana,Species,,3.05647,97.32378,,,24,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE006,HumanObservation,2006-07,Animalia,Tor tambra,Species,,3.05647,97.32378,,,2,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE007,HumanObservation,2006-07,Animalia,Nemacheilus tuberigum,Species,,3.05647,97.32378,,,24,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE008,HumanObservation,2006-07,Animalia,Mystus,Genus,,3.05647,97.32378,,,8,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE009,HumanObservation,2006-07,Animalia,Ompok bimaculatus,Species,,3.05647,97.32378,,,8,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE010,HumanObservation,2006-07,Animalia,Aplocheilus panchax,Species,,3.05647,97.32378,,,2,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE011,HumanObservation,2006-07,Animalia,Acentrogobius,Genus,,3.05647,97.32378,,,4,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE012,HumanObservation,2006-07,Animalia,Betta rubra,Species,,3.05647,97.32378,,,23,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE013,HumanObservation,2006-07,Animalia,Channa striata,Species,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2007NI-RL022-CS001,UI-2007NI-RL022-CS001-VE014,HumanObservation,2006-07,Animalia,Macrognathus aculates,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE001,HumanObservation,2006-07,Animalia,Anguilla marmorata,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE002,HumanObservation,2006-07,Animalia,Lamnostoma mindora,Species,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE003,HumanObservation,2006-07,Animalia,Cyclocheilicthys,Genus,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE004,HumanObservation,2006-07,Animalia,Osteochilus,Genus,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE005,HumanObservation,2006-07,Animalia,Puntius binotatus,Species,,3.05647,97.32378,,,20,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE006,HumanObservation,2006-07,Animalia,Rasbora meinkenii,Species,,3.05647,97.32378,,,10,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE007,HumanObservation,2006-07,Animalia,Tor tambra,Species,,3.05647,97.32378,,,2,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE008,HumanObservation,2006-07,Animalia,Tor tambroides,Species,,3.05647,97.32378,,,2,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE009,HumanObservation,2006-07,Animalia,Nemacheilus tuberigum,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE010,HumanObservation,2006-07,Animalia,Rhyacichthys aspro,Species,,3.05647,97.32378,,,13,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE011,HumanObservation,2006-07,Animalia,Acentrogobius,Genus,,3.05647,97.32378,,,17,Individuals,,,,
+UI-2007NI-RL022-CS002,UI-2007NI-RL022-CS002-VE012,HumanObservation,2006-07,Animalia,Macrognathus aculates,Species,,3.05647,97.32378,,,6,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE001,HumanObservation,2006-07,Animalia,Cyclocheilicthys,Genus,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE002,HumanObservation,2006-07,Animalia,Osteochilus,Genus,,3.05647,97.32378,,,27,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE003,HumanObservation,2006-07,Animalia,Puntius binotatus,Species,,3.05647,97.32378,,,101,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE004,HumanObservation,2006-07,Animalia,Rasbora meinkenii,Species,,3.05647,97.32378,,,268,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE005,HumanObservation,2006-07,Animalia,Rasbora sumatrana,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE006,HumanObservation,2006-07,Animalia,Mystus,Genus,,3.05647,97.32378,,,4,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE007,HumanObservation,2006-07,Animalia,Doryichthys,Genus,,3.05647,97.32378,,,4,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE008,HumanObservation,2006-07,Animalia,Kuhlia marginata,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE009,HumanObservation,2006-07,Animalia,Acentrogobius,Genus,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE010,HumanObservation,2006-07,Animalia,Betta rubra,Species,,3.05647,97.32378,,,1,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE011,HumanObservation,2006-07,Animalia,Trichogaster trichopterus,Species,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2007NI-RL022-CS003,UI-2007NI-RL022-CS002-VE012,HumanObservation,2006-07,Animalia,Channa striata,Species,,3.05647,97.32378,,,3,Individuals,,,,
+UI-2009FA-RL023-S1T00,UI-2009FA-RL023-S1T00-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 34 m depth
+UI-2009FA-RL023-S1T00,UI-2009FA-RL023-S1T00-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 34 m depth
+UI-2009FA-RL023-S1T01,UI-2009FA-RL023-S1T01-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 33 cm depth
+UI-2009FA-RL023-S1T01,UI-2009FA-RL023-S1T01-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 33 cm depth
+UI-2009FA-RL023-S1T01,UI-2009FA-RL023-S1T01-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 33 cm depth
+UI-2009FA-RL023-S1T01,UI-2009FA-RL023-S1T01-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 33 cm depth
+UI-2009FA-RL023-S1T02,UI-2009FA-RL023-S1T02-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S1T02,UI-2009FA-RL023-S1T02-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S1T02,UI-2009FA-RL023-S1T02-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S1T02,UI-2009FA-RL023-S1T02-MA004,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S1T02,UI-2009FA-RL023-S1T02-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S1T03,UI-2009FA-RL023-S1T03-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S1T03,UI-2009FA-RL023-S1T03-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S1T03,UI-2009FA-RL023-S1T03-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S1T03,UI-2009FA-RL023-S1T03-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S1T04,UI-2009FA-RL023-S1T04-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T04,UI-2009FA-RL023-S1T04-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T05,UI-2009FA-RL023-S1T05-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T06,UI-2009FA-RL023-S1T06-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T06,UI-2009FA-RL023-S1T06-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T06,UI-2009FA-RL023-S1T06-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T06,UI-2009FA-RL023-S1T06-MA004,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S1T07,UI-2009FA-RL023-S1T07-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S1T07,UI-2009FA-RL023-S1T07-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S1T07,UI-2009FA-RL023-S1T07-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S1T07,UI-2009FA-RL023-S1T07-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S1T07,UI-2009FA-RL023-S1T07-MA005,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA004,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T08,UI-2009FA-RL023-S1T08-MA006,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S1T09,UI-2009FA-RL023-S1T09-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 98 cm depth
+UI-2009FA-RL023-S1T09,UI-2009FA-RL023-S1T09-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 98 cm depth
+UI-2009FA-RL023-S1T09,UI-2009FA-RL023-S1T09-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 98 cm depth
+UI-2009FA-RL023-S1T09,UI-2009FA-RL023-S1T09-MA004,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 98 cm depth
+UI-2009FA-RL023-S1T10,UI-2009FA-RL023-S1T10-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 85 cm depth
+UI-2009FA-RL023-S1T10,UI-2009FA-RL023-S1T10-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 85 cm depth
+UI-2009FA-RL023-S1T10,UI-2009FA-RL023-S1T10-MA003,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 85 cm depth
+UI-2009FA-RL023-S1T11,UI-2009FA-RL023-S1T11-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S1T11,UI-2009FA-RL023-S1T11-MA002,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S1T12,UI-2009FA-RL023-S1T12-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S1T12,UI-2009FA-RL023-S1T12-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT01,UI-2009FA-RL023-S2AT01-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT01,UI-2009FA-RL023-S2AT01-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT01,UI-2009FA-RL023-S2AT01-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT02,UI-2009FA-RL023-S2AT02-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 28 cm depth
+UI-2009FA-RL023-S2AT02,UI-2009FA-RL023-S2AT02-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 28 cm depth
+UI-2009FA-RL023-S2AT02,UI-2009FA-RL023-S2AT02-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 28 cm depth
+UI-2009FA-RL023-S2AT03,UI-2009FA-RL023-S2AT03-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT03,UI-2009FA-RL023-S2AT03-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT04,UI-2009FA-RL023-S2AT04-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 32 cm depth
+UI-2009FA-RL023-S2AT05,UI-2009FA-RL023-S2AT05-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT06,UI-2009FA-RL023-S2AT06-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT07,UI-2009FA-RL023-S2AT07-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 33 cm depth
+UI-2009FA-RL023-S2AT08,UI-2009FA-RL023-S2AT08-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT09,UI-2009FA-RL023-S2AT09-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT10,UI-2009FA-RL023-S2AT10-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 34 cm depth
+UI-2009FA-RL023-S2AT10,UI-2009FA-RL023-S2AT10-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 34 cm depth
+UI-2009FA-RL023-S2AT10,UI-2009FA-RL023-S2AT10-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 34 cm depth
+UI-2009FA-RL023-S2AT10,UI-2009FA-RL023-S2AT10-MA004,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 34 cm depth
+UI-2009FA-RL023-S2AT10,UI-2009FA-RL023-S2AT10-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 34 cm depth
+UI-2009FA-RL023-S2AT11,UI-2009FA-RL023-S2AT11-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT12,UI-2009FA-RL023-S2AT12-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT12,UI-2009FA-RL023-S2AT12-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT12,UI-2009FA-RL023-S2AT12-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT13,UI-2009FA-RL023-S2AT13-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT13,UI-2009FA-RL023-S2AT13-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT14,UI-2009FA-RL023-S2AT14-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT15,UI-2009FA-RL023-S2AT15-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT15,UI-2009FA-RL023-S2AT15-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT16,UI-2009FA-RL023-S2AT16-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2AT16,UI-2009FA-RL023-S2AT16-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2AT17,UI-2009FA-RL023-S2AT17-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT18,UI-2009FA-RL023-S2AT18-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT18,UI-2009FA-RL023-S2AT18-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT19,UI-2009FA-RL023-S2AT19-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT19,UI-2009FA-RL023-S2AT19-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT20,UI-2009FA-RL023-S2AT20-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT20,UI-2009FA-RL023-S2AT20-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT21,UI-2009FA-RL023-S2AT21-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT21,UI-2009FA-RL023-S2AT21-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT22,UI-2009FA-RL023-S2AT22-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT22,UI-2009FA-RL023-S2AT22-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT23,UI-2009FA-RL023-S2AT23-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT23,UI-2009FA-RL023-S2AT23-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT24,UI-2009FA-RL023-S2AT24-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 37 cm depth
+UI-2009FA-RL023-S2AT25,UI-2009FA-RL023-S2AT25-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT26,UI-2009FA-RL023-S2AT26-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT26,UI-2009FA-RL023-S2AT26-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT27,UI-2009FA-RL023-S2AT27-MA001,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT27,UI-2009FA-RL023-S2AT27-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT27,UI-2009FA-RL023-S2AT27-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2AT28,UI-2009FA-RL023-S2AT28-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT28,UI-2009FA-RL023-S2AT28-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT28,UI-2009FA-RL023-S2AT28-MA003,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT28,UI-2009FA-RL023-S2AT28-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT29,UI-2009FA-RL023-S2AT29-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT29,UI-2009FA-RL023-S2AT29-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT29,UI-2009FA-RL023-S2AT29-MA003,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT29,UI-2009FA-RL023-S2AT29-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT30,UI-2009FA-RL023-S2AT30-MA001,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT30,UI-2009FA-RL023-S2AT30-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT30,UI-2009FA-RL023-S2AT30-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2AT31,UI-2009FA-RL023-S2AT31-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2AT32,UI-2009FA-RL023-S2AT32-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT33,UI-2009FA-RL023-S2AT33-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT34,UI-2009FA-RL023-S2AT34-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 32 cm depth
+UI-2009FA-RL023-S2AT36,UI-2009FA-RL023-S2AT36-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2AT37,UI-2009FA-RL023-S2AT37-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2AT39,UI-2009FA-RL023-S2AT39-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2AT40,UI-2009FA-RL023-S2AT40-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2AT44,UI-2009FA-RL023-S2AT44-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT01,UI-2009FA-RL023-S2BT01-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2BT01,UI-2009FA-RL023-S2BT01-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2BT01,UI-2009FA-RL023-S2BT01-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S2BT02,UI-2009FA-RL023-S2BT02-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT02,UI-2009FA-RL023-S2BT02-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT02,UI-2009FA-RL023-S2BT02-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT02,UI-2009FA-RL023-S2BT02-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT03,UI-2009FA-RL023-S2BT03-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT03,UI-2009FA-RL023-S2BT03-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT03,UI-2009FA-RL023-S2BT03-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT03,UI-2009FA-RL023-S2BT03-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT04,UI-2009FA-RL023-S2BT04-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT04,UI-2009FA-RL023-S2BT04-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT04,UI-2009FA-RL023-S2BT04-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT04,UI-2009FA-RL023-S2BT04-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT05,UI-2009FA-RL023-S2BT05-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT05,UI-2009FA-RL023-S2BT05-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT05,UI-2009FA-RL023-S2BT05-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT05,UI-2009FA-RL023-S2BT05-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT05,UI-2009FA-RL023-S2BT05-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT06,UI-2009FA-RL023-S2BT06-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 66 cm depth
+UI-2009FA-RL023-S2BT06,UI-2009FA-RL023-S2BT06-MA002,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 66 cm depth
+UI-2009FA-RL023-S2BT06,UI-2009FA-RL023-S2BT06-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 66 cm depth
+UI-2009FA-RL023-S2BT06,UI-2009FA-RL023-S2BT06-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 66 cm depth
+UI-2009FA-RL023-S2BT07,UI-2009FA-RL023-S2BT07-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT07,UI-2009FA-RL023-S2BT07-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT07,UI-2009FA-RL023-S2BT07-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT08,UI-2009FA-RL023-S2BT08-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT08,UI-2009FA-RL023-S2BT08-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT08,UI-2009FA-RL023-S2BT08-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT08,UI-2009FA-RL023-S2BT08-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT09,UI-2009FA-RL023-S2BT09-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT09,UI-2009FA-RL023-S2BT09-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT09,UI-2009FA-RL023-S2BT09-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT09,UI-2009FA-RL023-S2BT09-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT09,UI-2009FA-RL023-S2BT09-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT10,UI-2009FA-RL023-S2BT10-MA006,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT11,UI-2009FA-RL023-S2BT11-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT11,UI-2009FA-RL023-S2BT11-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT11,UI-2009FA-RL023-S2BT11-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT11,UI-2009FA-RL023-S2BT11-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT11,UI-2009FA-RL023-S2BT11-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT12,UI-2009FA-RL023-S2BT12-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT12,UI-2009FA-RL023-S2BT12-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT12,UI-2009FA-RL023-S2BT12-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT12,UI-2009FA-RL023-S2BT12-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT12,UI-2009FA-RL023-S2BT12-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 53 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA005,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT13,UI-2009FA-RL023-S2BT13-MA006,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA005,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT14,UI-2009FA-RL023-S2BT14-MA006,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT15,UI-2009FA-RL023-S2BT15-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 60 cm depth
+UI-2009FA-RL023-S2BT16,UI-2009FA-RL023-S2BT16-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 70 cm depth
+UI-2009FA-RL023-S2BT16,UI-2009FA-RL023-S2BT16-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 70 cm depth
+UI-2009FA-RL023-S2BT17,UI-2009FA-RL023-S2BT17-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S2BT17,UI-2009FA-RL023-S2BT17-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S2BT18,UI-2009FA-RL023-S2BT18-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT18,UI-2009FA-RL023-S2BT18-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT18,UI-2009FA-RL023-S2BT18-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT18,UI-2009FA-RL023-S2BT18-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT18,UI-2009FA-RL023-S2BT18-MA005,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT19,UI-2009FA-RL023-S2BT19-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT19,UI-2009FA-RL023-S2BT19-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT19,UI-2009FA-RL023-S2BT19-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT19,UI-2009FA-RL023-S2BT19-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT19,UI-2009FA-RL023-S2BT19-MA005,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT20,UI-2009FA-RL023-S2BT20-MA006,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 52 cm depth
+UI-2009FA-RL023-S2BT21,UI-2009FA-RL023-S2BT21-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT21,UI-2009FA-RL023-S2BT21-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT21,UI-2009FA-RL023-S2BT21-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT21,UI-2009FA-RL023-S2BT21-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT21,UI-2009FA-RL023-S2BT21-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S2BT22,UI-2009FA-RL023-S2BT22-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT22,UI-2009FA-RL023-S2BT22-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT22,UI-2009FA-RL023-S2BT22-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT22,UI-2009FA-RL023-S2BT22-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT23,UI-2009FA-RL023-S2BT23-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT23,UI-2009FA-RL023-S2BT23-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT23,UI-2009FA-RL023-S2BT23-MA003,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT23,UI-2009FA-RL023-S2BT23-MA004,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT23,UI-2009FA-RL023-S2BT23-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT24,UI-2009FA-RL023-S2BT24-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT24,UI-2009FA-RL023-S2BT24-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT24,UI-2009FA-RL023-S2BT24-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT24,UI-2009FA-RL023-S2BT24-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT25,UI-2009FA-RL023-S2BT25-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT25,UI-2009FA-RL023-S2BT25-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT25,UI-2009FA-RL023-S2BT25-MA003,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT25,UI-2009FA-RL023-S2BT25-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT26,UI-2009FA-RL023-S2BT26-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT26,UI-2009FA-RL023-S2BT26-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT26,UI-2009FA-RL023-S2BT26-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S2BT27,UI-2009FA-RL023-S2BT27-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT28,UI-2009FA-RL023-S2BT28-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT29,UI-2009FA-RL023-S2BT29-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT30,UI-2009FA-RL023-S2BT30-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 49 cm depth
+UI-2009FA-RL023-S2BT31,UI-2009FA-RL023-S2BT31-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 48 cm depth
+UI-2009FA-RL023-S2BT32,UI-2009FA-RL023-S2BT32-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S2BT33,UI-2009FA-RL023-S2BT33-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S2BT34,UI-2009FA-RL023-S2BT34-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT35,UI-2009FA-RL023-S2BT35-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 38 cm depth
+UI-2009FA-RL023-S2BT36,UI-2009FA-RL023-S2BT36-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S2BT37,UI-2009FA-RL023-S2BT37-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S2BT38,UI-2009FA-RL023-S2BT38-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 43 cm depth
+UI-2009FA-RL023-S2BT39,UI-2009FA-RL023-S2BT39-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S2BT40,UI-2009FA-RL023-S2BT40-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 44 cm depth
+UI-2009FA-RL023-S3AT01,UI-2009FA-RL023-S3AT01-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 13 cm depth
+UI-2009FA-RL023-S3AT01,UI-2009FA-RL023-S3AT01-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 13 cm depth
+UI-2009FA-RL023-S3AT02,UI-2009FA-RL023-S3AT02-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 18 cm depth
+UI-2009FA-RL023-S3AT02,UI-2009FA-RL023-S3AT02-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 18 cm depth
+UI-2009FA-RL023-S3AT03,UI-2009FA-RL023-S3AT03-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 15 cm depth
+UI-2009FA-RL023-S3AT03,UI-2009FA-RL023-S3AT03-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 15 cm depth
+UI-2009FA-RL023-S3AT04,UI-2009FA-RL023-S3AT04-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 20 cm depth
+UI-2009FA-RL023-S3AT04,UI-2009FA-RL023-S3AT04-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 20 cm depth
+UI-2009FA-RL023-S3AT05,UI-2009FA-RL023-S3AT05-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 25 cm depth
+UI-2009FA-RL023-S3AT05,UI-2009FA-RL023-S3AT05-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 25 cm depth
+UI-2009FA-RL023-S3AT06,UI-2009FA-RL023-S3AT06-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S3AT06,UI-2009FA-RL023-S3AT06-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S3AT06,UI-2009FA-RL023-S3AT06-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 35 cm depth
+UI-2009FA-RL023-S3AT07,UI-2009FA-RL023-S3AT07-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S3AT07,UI-2009FA-RL023-S3AT07-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S3AT07,UI-2009FA-RL023-S3AT07-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 42 cm depth
+UI-2009FA-RL023-S3AT08,UI-2009FA-RL023-S3AT08-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT08,UI-2009FA-RL023-S3AT08-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT08,UI-2009FA-RL023-S3AT08-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT09,UI-2009FA-RL023-S3AT09-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT09,UI-2009FA-RL023-S3AT09-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT09,UI-2009FA-RL023-S3AT09-MA003,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT09,UI-2009FA-RL023-S3AT09-MA004,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT10,UI-2009FA-RL023-S3AT10-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S3AT10,UI-2009FA-RL023-S3AT10-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S3AT10,UI-2009FA-RL023-S3AT10-MA003,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 57 cm depth
+UI-2009FA-RL023-S3AT11,UI-2009FA-RL023-S3AT11-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT11,UI-2009FA-RL023-S3AT11-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT12,UI-2009FA-RL023-S3AT12-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT12,UI-2009FA-RL023-S3AT12-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 50 cm depth
+UI-2009FA-RL023-S3AT13,UI-2009FA-RL023-S3AT13-MA001,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S3AT13,UI-2009FA-RL023-S3AT13-MA002,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S3AT14,UI-2009FA-RL023-S3AT14-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S3AT15,UI-2009FA-RL023-S3AT15-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 68 cm depth
+UI-2009FA-RL023-S3AT16,UI-2009FA-RL023-S3AT16-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 60 cm depth
+UI-2009FA-RL023-S3AT17,UI-2009FA-RL023-S3AT17-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 67 cm depth
+UI-2009FA-RL023-S3AT18,UI-2009FA-RL023-S3AT18-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S3AT19,UI-2009FA-RL023-S3AT19-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 70 cm depth
+UI-2009FA-RL023-S3BT01,UI-2009FA-RL023-S3BT01-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S3BT01,UI-2009FA-RL023-S3BT01-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S3BT02,UI-2009FA-RL023-S3BT02-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S3BT02,UI-2009FA-RL023-S3BT02-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S3BT02,UI-2009FA-RL023-S3BT02-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 45 cm depth
+UI-2009FA-RL023-S3BT03,UI-2009FA-RL023-S3BT03-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S3BT03,UI-2009FA-RL023-S3BT03-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 65 cm depth
+UI-2009FA-RL023-S3BT04,UI-2009FA-RL023-S3BT04-MA001,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S3BT04,UI-2009FA-RL023-S3BT04-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 78 cm depth
+UI-2009FA-RL023-S3BT05,UI-2009FA-RL023-S3BT05-MA001,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 89 cm depth
+UI-2009FA-RL023-S3BT05,UI-2009FA-RL023-S3BT05-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 89 cm depth
+UI-2009FA-RL023-S3BT05,UI-2009FA-RL023-S3BT05-MA003,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 89 cm depth
+UI-2009FA-RL023-S3BT06,UI-2009FA-RL023-S3BT06-MA001,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 90 cm depth
+UI-2009FA-RL023-S3BT06,UI-2009FA-RL023-S3BT06-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 90 cm depth
+UI-2009FA-RL023-S3BT06,UI-2009FA-RL023-S3BT06-MA003,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 90 cm depth
+UI-2009FA-RL023-S3BT07,UI-2009FA-RL023-S3BT07-MA001,HumanObservation,2008-10,Plantae,Cymodocea serullata,Species,,-5.75,106.6166667,,,,,,,,Found at 120 cm depth
+UI-2009FA-RL023-S3BT07,UI-2009FA-RL023-S3BT07-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 120 cm depth
+UI-2009FA-RL023-S3BT07,UI-2009FA-RL023-S3BT07-MA003,HumanObservation,2008-10,Plantae,Syringodium isoetifolium,Species,,-5.75,106.6166667,,,,,,,,Found at 120 cm depth
+UI-2009FA-RL023-S3BT08,UI-2009FA-RL023-S3BT08-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 125 cm depth
+UI-2009FA-RL023-S3BT08,UI-2009FA-RL023-S3BT08-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 125 cm depth
+UI-2009FA-RL023-S4T00,UI-2009FA-RL023-S4T00-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S4T00,UI-2009FA-RL023-S4T00-MA002,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 40 cm depth
+UI-2009FA-RL023-S4T01,UI-2009FA-RL023-S4T01-MA001,HumanObservation,2008-10,Plantae,Enhalus acoroides,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S4T01,UI-2009FA-RL023-S4T01-MA002,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S4T01,UI-2009FA-RL023-S4T01-MA003,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S4T01,UI-2009FA-RL023-S4T01-MA004,HumanObservation,2008-10,Plantae,Halophila ovalis,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S4T01,UI-2009FA-RL023-S4T01-MA005,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 30 cm depth
+UI-2009FA-RL023-S4T02,UI-2009FA-RL023-S4T02-MA001,HumanObservation,2008-10,Plantae,Cymodocea rotundata,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S4T02,UI-2009FA-RL023-S4T02-MA002,HumanObservation,2008-10,Plantae,Halodule uninervis,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S4T02,UI-2009FA-RL023-S4T02-MA003,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 55 cm depth
+UI-2009FA-RL023-S4T03,UI-2009FA-RL023-S4T03-MA001,HumanObservation,2008-10,Plantae,Thalassia hemprichii,Species,,-5.75,106.6166667,,,,,,,,Found at 60 cm depth

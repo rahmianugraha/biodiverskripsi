@@ -1,0 +1,13 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UI-2013DS-TL036,UI-2013DS-TL036-ST01,2012-07-9/11,Quadrant transect,15 1x1m sized quadrant,45,square metres,ST01,,,-6.4941667,105.7958333,,ID,Java,Banten,Indonesia,Panimbang,Pantai Panimbang,
+UI-2013DS-TL036,UI-2013DS-TL036-ST02,2012-07-9/11,Quadrant transect,15 1x1m sized quadrant,45,square metres,ST02,,,-6.4941667,105.7958333,,ID,Java,Banten,Indonesia,Panimbang,Pantai Panimbang,
+UI-2013DS-TL036,UI-2013DS-TL036-ST03,2012-07-9/11,Quadrant transect,15 1x1m sized quadrant,45,square metres,ST03,,,-6.4941667,105.7958333,,ID,Java,Banten,Indonesia,Panimbang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST01,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST01,,,-6.5250222,105.6992556,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST02,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST02,,,-6.5249417,105.6997083,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST03,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST03,,,-6.5249833,105.7001861,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST04,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST04,,,-6.5226222,105.688925,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST05,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST05,,,-6.5226889,105.6894556,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST06,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST06,,,-6.5228583,105.6898778,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST07,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST07,,,-6.5118833,105.6776611,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST08,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST08,,,-6.5121667,105.6780083,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,
+UI-2013OP-TL037,UI-2013OP-TL037-ST09,2012-07-9/11,Quadrant transect,5 1x1m sized quadrant,5,square metres,ST09,,,-6.5123389,105.6783917,,ID,Java,Banten,Indonesia,Kabupaten Pandeglang,Pantai Panimbang,

@@ -1,0 +1,7 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+USU-2013PP-RS008,USU-2013PP-RS008-TR001,2012-03/06,systematic sampling,identification every 10 metre,220,metre,TR001,,,2.8229389,98.7546389,WGS84,ID,sumatra,north sumatra,simalungun,Dolok Pardamean,Togu Domu Nauli,
+USU-2013PP-RS008,USU-2013PP-RS008-TR002,2012-03/07,systematic sampling,identification every 10 metre,220,metre,TR002,,,2.8229389,98.7546389,WGS84,ID,sumatra,north sumatra,simalungun,Dolok Pardamean,Togu Domu Nauli,
+USU-2013PP-RS008,USU-2013PP-RS008-TR003,2012-03/08,systematic sampling,identification every 10 metre,220,metre,TR003,,,2.8229389,98.7546389,WGS84,ID,sumatra,north sumatra,simalungun,Dolok Pardamean,Togu Domu Nauli,
+USU-2013NT-RS009,USU-2013NT-RS009-TR001,2012-04/07,systematic sampling,identification every 10 metre,220,metre,TR001,,,3.15,99.5333333,WGS84,ID,sumatra,north sumatra,simalungun,Haranggaol Horison,Haranggaol,
+USU-2013NT-RS009,USU-2013NT-RS009-TR002,2012-04/07,systematic sampling,identification every 10 metre,220,metre,TR002,,,3.15,99.5333333,WGS84,ID,sumatra,north sumatra,simalungun,Haranggaol Horison,Haranggaol,
+USU-2013NT-RS009,USU-2013NT-RS009-TR003,2012-04/07,systematic sampling,identification every 10 metre,220,metre,TR003,,,3.15,99.5333333,WGS84,ID,sumatra,north sumatra,simalungun,Haranggaol Horison,Haranggaol,

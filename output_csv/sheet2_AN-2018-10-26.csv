@@ -1,0 +1,474 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,identificationReferences,remarks
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM001,Human observation,2015-08/11,Plantae,Sematophyllum saproxyllum,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM002,Human observation,2015-08/11,Plantae,Sematophyllum tristiculum,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM003,Human observation,2015-08/11,Plantae,Thuidium investe,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM004,Human observation,2015-08/11,Plantae,Aerobryopsis longissima,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM005,Human observation,2015-08/11,Plantae,Meteriopsis ancistrodes,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM006,Human observation,2015-08/11,Plantae,Rhacopilum spectabile,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM007,Human observation,2015-08/11,Plantae,Leucobryum javense,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM008,Human observation,2015-08/11,Plantae,Octoblepharum albidum,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM009,Human observation,2015-08/11,Plantae,Rhizogonium spiniforme,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM010,Human observation,2015-08/11,Plantae,Lejeunea flava,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM011,Human observation,2015-08/11,Plantae,Lejeunea holtii,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM012,Human observation,2015-08/11,Plantae,Lejeunea aloba,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM013,Human observation,2015-08/11,Plantae,Hygrolejeunea sp,Genus,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM014,Human observation,2015-08/11,Plantae,Frullania riojaneriensis,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM015,Human observation,2015-08/11,Plantae,Porella sp.,Genus,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM016,Human observation,2015-08/11,Plantae,Macromitrium reinwardtii,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2016AA-AN013-TR001,UGM-2016AA-AN013-TR001-EM017,Human observation,2015-08/11,Plantae,Isopterygium albescens,Spesies,,-7.3613889,110.3997222,WGS 84,ID,,,,PRESENT,,
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN001,Human observation,2015-01-18/02-17,Animalia,Crocothemis servillia,Spesies,,-7.6404167,111.13075,WGS 84,ID,14,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN002,Human observation,2015-01-18/02-17,Animalia,Diplacodes trivialis,Spesies,,-7.6404167,111.13075,WGS 84,ID,18,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN003,Human observation,2015-01-18/02-17,Animalia,Neurothemis fluctuans,Spesies,,-7.6404167,111.13075,WGS 84,ID,3,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN004,Human observation,2015-01-18/02-17,Animalia,Neurothemis ramburii,Spesies,,-7.6404167,111.13075,WGS 84,ID,32,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN005,Human observation,2015-01-18/02-17,Animalia,Neurothemis terminata,Spesies,,-7.6404167,111.13075,WGS 84,ID,4,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN006,Human observation,2015-01-18/02-17,Animalia,Orthetrum luzonicum,Spesies,,-7.6404167,111.13075,WGS 84,ID,9,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN007,Human observation,2015-01-18/02-17,Animalia,Orthetrum pruinosum,Spesies,,-7.6404167,111.13075,WGS 84,ID,74,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN008,Human observation,2015-01-18/02-17,Animalia,Orthetrum sabina,Spesies,,-7.6404167,111.13075,WGS 84,ID,65,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN009,Human observation,2015-01-18/02-17,Animalia,Pantala flavescens,Spesies,,-7.6404167,111.13075,WGS 84,ID,123,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN010,Human observation,2015-01-18/02-17,Animalia,Vestalis luctuosa,Spesies,,-7.6404167,111.13075,WGS 84,ID,33,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN011,Human observation,2015-01-18/02-17,Animalia,Heliocypha fenestrata,Spesies,,-7.6404167,111.13075,WGS 84,ID,10,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN012,Human observation,2015-01-18/02-17,Animalia,Agriocnemis femina,Spesies,,-7.6404167,111.13075,WGS 84,ID,259,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN013,Human observation,2015-01-18/02-17,Animalia,Agriocnemis pygmaea,Spesies,,-7.6404167,111.13075,WGS 84,ID,379,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN014,Human observation,2015-01-18/02-17,Animalia,Ischnura senegalensis,Spesies,,-7.6404167,111.13075,WGS 84,ID,80,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN015,Human observation,2015-01-18/02-17,Animalia,Pseudagrion pruinosum,Spesies,,-7.6404167,111.13075,WGS 84,ID,90,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR001,UGM-2015MP-AN014-TR001-TN016,Human observation,2015-01-18/02-17,Animalia,Euphaea variegata,Spesies,,-7.6404167,111.13075,WGS 84,ID,16,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN001,Human observation,2015-01-31/03-03,Animalia,Neurothemis ramburii,Spesies,,-7.6309444,111.1263333,WGS 84,ID,5,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN002,Human observation,2015-01-31/03-03,Animalia,Orthetrum glaucum,Spesies,,-7.6309444,111.1263333,WGS 84,ID,7,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN003,Human observation,2015-01-31/03-03,Animalia,Orthetrum sabina,Spesies,,-7.6309444,111.1263333,WGS 84,ID,31,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN004,Human observation,2015-01-31/03-03,Animalia,Pantala flavescens,Spesies,,-7.6309444,111.1263333,WGS 84,ID,235,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN005,Human observation,2015-01-31/03-03,Animalia,Thritemis festiva,Spesies,,-7.6309444,111.1263333,WGS 84,ID,2,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN006,Human observation,2015-01-31/03-03,Animalia,Vestalis luctuosa,Spesies,,-7.6309444,111.1263333,WGS 84,ID,15,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN007,Human observation,2015-01-31/03-03,Animalia,Heliocypha fenestrata,Spesies,,-7.6309444,111.1263333,WGS 84,ID,9,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN008,Human observation,2015-01-31/03-03,Animalia,Agriocnemis femina,Spesies,,-7.6309444,111.1263333,WGS 84,ID,38,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN009,Human observation,2015-01-31/03-03,Animalia,Agriocnemis pygmaea,Spesies,,-7.6309444,111.1263333,WGS 84,ID,29,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015MP-AN014-TR002,UGM-2015MP-AN014-TR002-TN010,Human observation,2015-01-31/03-03,Animalia,Euphaea variegata,Spesies,,-7.6309444,111.1263333,WGS 84,ID,14,,,PRESENT,"Theischinger (2009)|Heckman (2006)|Heckman|Keller (2007)|Miller 
+(1995)",
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM001,Human observation,2014-02-26/06-26,Plantae,Aerides sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM002,Human observation,2014-02-26/06-26,Plantae,Agrostophyllum sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM003,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum gibossum,Spesies,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,10,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM004,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum sp,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,10,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM005,Human observation,2014-02-26/06-26,Plantae,Coelogyne sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM006,Human observation,2014-02-26/06-26,Plantae,Dendrobium sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,41,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM007,Human observation,2014-02-26/06-26,Plantae,Eria javanica,Spesies,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,27,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM008,Human observation,2014-02-26/06-26,Plantae,Eria sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM009,Human observation,2014-02-26/06-26,Plantae,Luisia sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM010,Human observation,2014-02-26/06-26,Plantae,Pomatocalpa sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,1,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM011,Human observation,2014-02-26/06-26,Plantae,Thelasis sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,2,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM012,Human observation,2014-02-26/06-26,Plantae,Trichoglottis sp.,Genus,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,10,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR001,UGM-2015AS-AN015-TR001-EM013,Human observation,2014-02-26/06-26,Plantae,Vandopsis lissochiloides,Spesies,,-0.6422222|-0.7222222|-0.7229167|-0.7310278,127.4213889|127.4601944|127.4646111|127.4687222,WGS 84,ID,28,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM001,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,5,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM002,Human observation,2014-02-26/06-26,Plantae,Dendrobium sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,102,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM003,Human observation,2014-02-26/06-26,Plantae,Diplocaulobium sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,6,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM004,Human observation,2014-02-26/06-26,Plantae,Flikingeria sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM005,Human observation,2014-02-26/06-26,Plantae,Phreatia plantaginifolia,Spesies,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,9,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM006,Human observation,2014-02-26/06-26,Plantae,Pomatocalpa spicata,Spesies,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,2,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM007,Human observation,2014-02-26/06-26,Plantae,Pomatocalpa sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,2,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR002,UGM-2015AS-AN015-TR002-EM008,Human observation,2014-02-26/06-26,Plantae,Trichoglottis sp.,Genus,,-0.7172778|-0.7330833|-0.734611`|-0.738333,127.4841111|127.4725556|127.4745|127.4761667,WGS 84,ID,23,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM001,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum violaceum,Spesies,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,8,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM002,Human observation,2014-02-26/06-26,Plantae,Dendrobium sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,16,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM003,Human observation,2014-02-26/06-26,Plantae,Diplocaulobium sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,2,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM004,Human observation,2014-02-26/06-26,Plantae,Trichoglottis sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,2,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM005,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum violaceum,Spesies,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,20,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM006,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,13,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM007,Human observation,2014-02-26/06-26,Plantae,Dendrobium sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR003,UGM-2015AS-AN015-TR003-EM008,Human observation,2014-02-26/06-26,Plantae,Eria sp.,Genus,,-0.7378333|-0.7380833|-07388611,127.4800556|127.4816111|127.4827222,WGS 84,ID,7,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR004,UGM-2015AS-AN015-TR004-EM001,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum violaceum,Spesies,,-0.7394167|-0.7385556,127.487|127.4900556,WGS 84,ID,20,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR004,UGM-2015AS-AN015-TR004-EM002,Human observation,2014-02-26/06-26,Plantae,Bulbophyllum sp.,Genus,,-0.7394167|-0.7385556,127.487|127.4900556,WGS 84,ID,13,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR004,UGM-2015AS-AN015-TR004-EM003,Human observation,2014-02-26/06-26,Plantae,Dendrobium sp.,Genus,,-0.7394167|-0.7385556,127.487|127.4900556,WGS 84,ID,3,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2015AS-AN015-TR004,UGM-2015AS-AN015-TR004-EM004,Human observation,2014-02-26/06-26,Plantae,Eria sp.,Genus,,-0.7394167|-0.7385556,127.487|127.4900556,WGS 84,ID,7,,,PRESENT,Orchid of Indonesia  and Orchid of Sulawesi karya Handoyo (2010).,
+UGM-2014IW-AN016-TR001,UGM-2014IW-AN016-TR001-EM001,Human observation,2014-03/06,Plantae,Nervilia aragoana,,,-2.9312222,129.21925,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR001,UGM-2014IW-AN016-TR001-EM002,Human observation,2014-03/06,Plantae,Vanilla planifolia,Spesies,,-2.9312222,129.21925,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR001,UGM-2014IW-AN016-TR001-EM003,Human observation,2014-03/06,Plantae,Peristylus sp.,Genus,,-2.9312222,129.21925,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR001,UGM-2014IW-AN016-TR001-EM004,Human observation,2014-03/06,Plantae,Eulophia spectabilis,Spesies,,-2.9312222,129.21925,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR001,UGM-2014IW-AN016-TR001-EM005,Human observation,2014-03/06,Plantae,Geodorum densiflorum,Spesies,,-2.9312222,129.21925,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM001,Human observation,2014-03/06,Plantae,Vanilla planifolia,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM002,Human observation,2014-03/06,Plantae,Anoectochilus kinabaluensis,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM003,Human observation,2014-03/06,Plantae,Vrydagzynea sp,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM004,Human observation,2014-03/06,Plantae,Aphyllorchis pallida,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM005,Human observation,2014-03/06,Plantae,Calanthe sp.,Genus,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM006,Human observation,2014-03/06,Plantae,Calanthe triplicata,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM007,Human observation,2014-03/06,Plantae,Calanthe ventilabrum,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM008,Human observation,2014-03/06,Plantae,Dilochia wallichii,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM009,Human observation,2014-03/06,Plantae,Malaxis amplectens,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM010,Human observation,2014-03/06,Plantae,Malaxis sp.,Genus,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM011,Human observation,2014-03/06,Plantae,Nervilia aragoana,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR002,UGM-2014IW-AN016-TR002-EM012,Human observation,2014-03/06,Plantae,Spathoglottis plicata,Spesies,,-2.969575,129.126,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM001,Human observation,2014-03/06,Plantae,Calanthe triplicata,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM002,Human observation,2014-03/06,Plantae,Malaxis sp.,Genus,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM003,Human observation,2014-03/06,Plantae,Nervilia punctata,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM004,Human observation,2014-03/06,Plantae,Anoectochilus flavescens,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM005,Human observation,2014-03/06,Plantae,Anoectochilus kinabaluensis,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM006,Human observation,2014-03/06,Plantae,Erythrodes sp.,Genus,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM007,Human observation,2014-03/06,Plantae,Goodyera colorata,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM008,Human observation,2014-03/06,Plantae,Goodyera sp.,Genus,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM009,Human observation,2014-03/06,Plantae,Macodes petola,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM010,Human observation,2014-03/06,Plantae,Rhomboda sp.,Genus,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR003,UGM-2014IW-AN016-TR003-EM011,Human observation,2014-03/06,Plantae,Tropidia curculigoides,Spesies,,-2.8905556,129.5334194,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM001,Human observation,2014-03/06,Plantae,Malaxis sp.,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM002,Human observation,2014-03/06,Plantae,Spathoglottis plicata,Spesies,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM003,Human observation,2014-03/06,Plantae,Erythrodes sp.,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM004,Human observation,2014-03/06,Plantae,Tropidia curculigoides,Spesies,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM005,Human observation,2014-03/06,Plantae,Vrydagzynea sp.,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR004,UGM-2014IW-AN016-TR004-EM006,Human observation,2014-03/06,Plantae,Eulophia spectabilis,Spesies,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR005,UGM-2014IW-AN016-TR005-EM001,Human observation,2014-03/06,Plantae,Pterostylis papuana,Spesies,,-3.11494639,129.4822611,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR005,UGM-2014IW-AN016-TR005-EM002,Human observation,2014-03/06,Plantae,Corybas sp.,Genus,,-3.11494639,129.4822611,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR006,UGM-2014IW-AN016-TR006-EM001,Human observation,2014-03/06,Plantae,Malaxis sp.,Genus,,-3.0255167,129.3857361,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR006,UGM-2014IW-AN016-TR006-EM002,Human observation,2014-03/06,Plantae,Anoectochilus kinabaluensis,Spesies,,-3.0255167,129.3857361,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR006,UGM-2014IW-AN016-TR006-EM003,Human observation,2014-03/06,Plantae,Cheirostylis sp.,Genus,,-3.0255167,129.3857361,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR006,UGM-2014IW-AN016-TR006-EM004,Human observation,2014-03/06,Plantae,Rhomboda sp,Genus,,-3.0255167,129.3857361,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR006,UGM-2014IW-AN016-TR006-EM005,Human observation,2014-03/06,Plantae,Vrydagzynea sp.,Genus,,-3.0255167,129.3857361,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR007,UGM-2014IW-AN016-TR007-EM001,Human observation,2014-03/06,Plantae,Acanthephippium sp.,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR007,UGM-2014IW-AN016-TR007-EM002,Human observation,2014-03/06,Plantae,Nervilia punctata,Spesies,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR007,UGM-2014IW-AN016-TR007-EM003,Human observation,2014-03/06,Plantae,Zeuxine sp.,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR007,UGM-2014IW-AN016-TR007-EM004,Human observation,2014-03/06,Plantae,Vrydagzynea sp,Genus,,-3.16735,129.4822028,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR008,UGM-2014IW-AN016-TR008-EM001,Human observation,2014-03/06,Plantae,Cyrtosia nana,Spesies,,-3.1454722,129.482225,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR008,UGM-2014IW-AN016-TR008-EM002,Human observation,2014-03/06,Plantae,Platanthera sp.,Genus,,-3.1454722,129.482225,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR008,UGM-2014IW-AN016-TR008-EM003,Human observation,2014-03/06,Plantae,Tropidia curculigoides,Spesies,,-3.1454722,129.482225,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR009,UGM-2014IW-AN016-TR009-EM001,Human observation,2014-03/06,Plantae,Malaxis sp.,Genus,,-2.8454389,129.6097139,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR009,UGM-2014IW-AN016-TR009-EM002,Human observation,2014-03/06,Plantae,Nervilia aragoana,Spesies,,-2.8454389,129.6097139,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR009,UGM-2014IW-AN016-TR009-EM003,Human observation,2014-03/06,Plantae,Nervilia punctata,Spesies,,-2.8454389,129.6097139,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR009,UGM-2014IW-AN016-TR009-EM004,Human observation,2014-03/06,Plantae,Habenaria bantamensis,Spesies,,-2.8454389,129.6097139,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",
+UGM-2014IW-AN016-TR009,UGM-2014IW-AN016-TR009-EM005,Human observation,2014-03/06,Plantae,Erythrodes sp.,Genus,,-2.8454389,129.6097139,WGS 84,ID,,,,PRESENT,"Orchids of Java (Comber, 1990)| Orchids of Vietnam – Subfamilies 
+Apostasioideae, Spiranthoideae and Cypripedioideae (Averyanov, 2008)|Orchids of Vietnam – Subfamily Orchidoideae  (Averyanov, 2010), Orchids 
+of Vietnam – Subfamily Epidendroideae (Averyanov, 2011)|Mengenal 
+Anggrek Alam Indonesia (Suryowinoto, 1987)|Buku Panduan Identifikasi 
+Anggrek Merapi (Sulistyono, 2011)|Orchids of Indonesia (Handoyo, 
+2010)|Orchids of Sulawesi (Handoyo & Prasetya, 2012)|Jenis – jenis 
+Anggrek Taman Nasional Gunung Halimun (Mahyar & Sadili, 2003)",

@@ -1,0 +1,6 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UI-2014MS-TL043,UI-2014MS-TL043-ST01,2013-06-21/07-02,Modified transect sampling,12 days,12,days,ST01,,,-6.5119444/ 	-6.8713889,102.0422222/ 	105.6269444,,ID,Java,Banten,Indonesia,Taman Nasional Ujung Kulon,Cigunungpayung river,
+UI-2014MS-TL043,UI-2014MS-TL043-ST02,2013-06-21/07-02,Modified transect sampling,12 days,12,days,ST02,,,-6.5119444/ 	-6.8713889,102.0422222/ 	105.6269444,,ID,Java,Banten,Indonesia,Taman Nasional Ujung Kulon,Sungai Ciuluran,
+UI-2014MS-TL043,UI-2014MS-TL043-ST03,2013-06-21/07-02,Modified transect sampling,12 days,12,days,ST03,,,-6.5119444/ 	-6.8713889,102.0422222/ 	105.6269444,,ID,Java,Banten,Indonesia,Taman Nasional Ujung Kulon,Sungai Cibunar,
+UI-2015ZA-TL044,UI-2015ZA-TL044-ST01,2015-03/04,Point Count,6 km,6,km,ST01,,,-5.6013889,104.3927778,,ID,Java,Lampung,Indonesia,Taman Nasional Bukit Barisan Selatan,"Sumberejo, Pemerihan bawah, Pemirahan atas",
+UI-2015RA-TL045,UI-2015RA-TL045-ST01,2015-04-26/05-08,Line transect,4200 m,4200,m,ST01,,,-5.6569444,104.4058333,,ID,Sumatra,Lampung,Indonesia,Taman Nasional Bukit Barisan Selatan,Way Canguk research station,

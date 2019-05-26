@@ -1,0 +1,370 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE001,Human Observation,2007-07/2007-10,Animalia,Hipposideros bicolor,Species,,,,,,26,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE002,Human Observation,2007-07/2007-10,Animalia,Hipposideros cervinus,Species,,,,,,128,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE003,Human Observation,2007-07/2007-10,Animalia,Hipposideros cineraceus,Species,,,,,,17,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE004,Human Observation,2007-07/2007-10,Animalia,Hippsideros diadema,Species,,,,,,1,Individual,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE005,Human Observation,2007-07/2007-10,Animalia,Hipposideros larvatus,Species,,,,,,575,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE006,Human Observation,2007-07/2007-10,Animalia,Kerivoula hardwickii,Species,,,,,,3,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE007,Human Observation,2007-07/2007-10,Animalia,Kerivoula intermedia,Species,,,,,,5,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE008,Human Observation,2007-07/2007-10,Animalia,Kerivoula papillosa,Species,,,,,,12,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE009,Human Observation,2007-07/2007-10,Animalia,Kerivoula pellucida,Species,,,,,,9,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE010,Human Observation,2007-07/2007-10,Animalia,Kerivoula sp.,Genus,,,,,,1,Individual,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE011,Human Observation,2007-07/2007-10,Animalia,Murina cyclotis,Species,,,,,,4,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE012,Human Observation,2007-07/2007-10,Animalia,Murina suilla,Species,,,,,,10,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE013,Human Observation,2007-07/2007-10,Animalia,Rhinolopus affinis,Species,,,,,,152,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE014,Human Observation,2007-07/2007-10,Animalia,Rhinolopus bornensis,Species,,,,,,39,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE015,Human Observation,2007-07/2007-10,Animalia,Rhinolopus lepidus,Species,,,,,,80,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE016,Human Observation,2007-07/2007-10,Animalia,Rhinolopus trifoliatus,Species,,,,,,5,Individuals,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE017,Human Observation,2007-07/2007-10,Animalia,Megadarma spasma,Species,,,,,,1,Individual,,Present,
+IPB-2008KK-MF009-HP001,IPB-2008KK-MF009-HP001-VE018,Human Observation,2007-07/2007-10,Animalia,Nycteris tragata,Species,,,,,,4,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE019,Human Observation,2007-07/2007-10,Animalia,Hipposideros bicolor,Species,,,,,,14,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE020,Human Observation,2007-07/2007-10,Animalia,Hippsideros cervinus,Species,,,,,,22,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE021,Human Observation,2007-07/2007-10,Animalia,Hipposideros cineraceus,Species,,,,,,10,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE022,Human Observation,2007-07/2007-10,Animalia,Hippsideros larvatus,Species,,,,,,88,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE023,Human Observation,2007-07/2007-10,Animalia,Kerivoula hardwickii,Species,,,,,,53,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE024,Human Observation,2007-07/2007-10,Animalia,Kerivoula papillosa,Species,,,,,,2,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE025,Human Observation,2007-07/2007-10,Animalia,Kerivoula pellucida,Species,,,,,,5,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE026,Human Observation,2007-07/2007-10,Animalia,Kerivoula sp.,Species,,,,,,1,Individual,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE027,Human Observation,2007-07/2007-10,Animalia,Murina suilla,Species,,,,,,3,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE028,Human Observation,2007-07/2007-10,Animalia,Rhinolopus acuminatus,Species,,,,,,1,Individual,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE029,Human Observation,2007-07/2007-10,Animalia,Rhinolopus affinis,Species,,,,,,55,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE030,Human Observation,2007-07/2007-10,Animalia,Rhinilopus bornensis,Species,,,,,,7,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE031,Human Observation,2007-07/2007-10,Animalia,Rhinolopus lepidus,Species,,,,,,33,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE032,Human Observation,2007-07/2007-10,Animalia,Megadarma spasma,Species,,,,,,3,Individuals,,Present,
+IPB-2008KK-MF009-HT002,IPB-2008KK-MF009-HT002-VE033,Human Observation,2007-07/2007-10,Animalia,Nycteris tragata,Species,,,,,,7,Individuals,,Present,
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM001,Human Observation,2007-07/2007-10,Plantae,Popowia bancana,Species,Popowia,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM002,Human Observation,2007-07/2007-10,Plantae,Rinorea lanceolata,Species,Rinorea,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM003,Human Observation,2007-07/2007-10,Plantae,Saccopetalum horsefieldii,Species,Anopucuk,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM004,Human Observation,2007-07/2007-10,Plantae,Popowia bancana,Species,Popowia,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM005,Human Observation,2007-07/2007-10,Plantae,Drypetes laevis,Species,Drypetes 2,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM006,Human Observation,2007-07/2007-10,Plantae,Psedovaria sp,Genus,Suduvaria,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM007,Human Observation,2007-07/2007-10,Plantae,Croto argyratus,Species,Tima,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM008,Human Observation,2007-07/2007-10,Plantae,Rinorea lanceolata,Species,Rinorea,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM009,Human Observation,2007-07/2007-10,Plantae,Strombosia javanica,Species,Terongan,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM010,Human Observation,2007-07/2007-10,Plantae,Strombosia javanica,Species,Terongan,,,,,,,,Present,
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM011,Human Observation,2007-07/2007-10,Plantae,Dipterocarpus retusus,Species,Meluang,,,,,,,,Present,
+IPB-2008KK-MF009-VP001,IPB-2008KK-MF009-VP001-EM012,Human Observation,2007-07/2007-10,Plantae,Chisoseton sandoricocarpus,Species,Sisoseton,,,,,,,,Present,
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM013,Human Observation,2007-07/2007-10,Plantae,Bridelia monoica,Species,Klandri,,,,,,,,Present,
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM014,Human Observation,2007-07/2007-10,Plantae,Saccopetalum horsefieldii,Species,Anopucuk,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM015,Human Observation,2007-07/2007-10,Plantae,Syzigium recemosum,Species,Gelam putih,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM016,Human Observation,2007-07/2007-10,Plantae,Glochidion arborescens,Species,Cengkehan,,,,,,,,Present,Semai
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM017,Human Observation,2007-07/2007-10,Plantae,Bridelia monoica,Species,Klandri,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM018,Human Observation,2007-07/2007-10,Plantae,Dillenia excelsa,Species,Simpur,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM019,Human Observation,2007-07/2007-10,Plantae,Tetrameles nudiflora,Species,Tabu,,,,,,,,Present,Pancang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM020,Human Observation,2007-07/2007-10,Plantae,Cananga odorata,Species,Kembang,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM021,Human Observation,2007-07/2007-10,Plantae,Bridelia monoica,Species,Klandri,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM022,Human Observation,2007-07/2007-10,Plantae,Tetrameles nudiflora,Species,Tabu,,,,,,,,Present,Tiang
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM023,Human Observation,2007-07/2007-10,Plantae,Dipterocarpus retusus,Species,Meluang,,,,,,,,Present,Pohon
+IPB-2008KK-MF009-VT002,IPB-2008KK-MF009-VP001-EM024,Human Observation,2007-07/2007-10,Plantae,Macaranga sp.,Genus,Macaranga,,,,,,,,Present,Pohon
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE001,Human Observation,2016-04/2016-06,Animalia,Cynopterus brachyotis,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE002,Human Observation,2016-04/2016-06,Animalia,Cynopterus minitus,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE003,Human Observation,2016-04/2016-06,Animalia,Cynopterus horsfieldii,Species,,,,,,3,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE004,Human Observation,2016-04/2016-06,Animalia,Cynopterus sphinx,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE005,Human Observation,2016-04/2016-06,Animalia,Cynopterus tithaecheilus,Species,,,,,,11,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE006,Human Observation,2016-04/2016-06,Animalia,Macroglossus sobrinus,Species,,,,,,5,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE007,Human Observation,2016-04/2016-06,Animalia,Macroglssus minimus,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE008,Human Observation,2016-04/2016-06,Animalia,Eonycteris spelea,Species,,,,,,4,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE009,Human Observation,2016-04/2016-06,Animalia,Rhinolopus luctus,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE010,Human Observation,2016-04/2016-06,Animalia,Myotis muricola,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-TD001,IPB-2016PB-MF010-TD001-VE011,Human Observation,2016-04/2016-06,Animalia,Philetor brachypterus,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-SH002,IPB-2016AA-MF010-SH002-VE012,Human Observation,2016-04/2016-06,Animalia,Cynepterus brachyotis,Species,,,,,,6,Individuals,,Present,
+IPB-2016AA-MF010-SH002,IPB-2016AA-MF010-SH002-VE013,Human Observation,2016-04/2016-06,Animalia,Cynopterus minitus,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-SH002,IPB-2016AA-MF010-SH002-VE014,Human Observation,2016-04/2016-06,Animalia,Cynopterus horsefieldii,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-SH002,IPB-2016AA-MF010-SH002-VE015,Human Observation,2016-04/2016-06,Animalia,Macroglossus sobrinus,Species,,,,,,4,Individuals,,Present,
+IPB-2016AA-MF010-SH002,IPB-2016AA-MF010-SH002-VE016,Human Observation,2016-04/2016-06,Animalia,Eonycteris spelea,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-KK003,IPB-2016AA-MF010-KK003-VE017,Human Observation,2016-04/2016-06,Animalia,Cynepterus brachyotis,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-KK003,IPB-2016AA-MF010-KK003-VE018,Human Observation,2016-04/2016-06,Animalia,Cynopterus minitus,Species,,,,,,2,Individuals,,Present,
+IPB-2016AA-MF010-AR004,IPB-2016AA-MF010-AR004-VE019,Human Observation,2016-04/2016-06,Animalia,Cynopterus brachyotis,Species,,,,,,3,Individuals,,Present,
+IPB-2016AA-MF010-AR004,IPB-2016AA-MF010-AR004-VE020,Human Observation,2016-04/2016-06,Animalia,Cynopterus minitus,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-AR004,IPB-2016AA-MF010-AR004-VE021,Human Observation,2016-04/2016-06,Animalia,Cynopterus horsfieldii,Species,,,,,,1,Individual,,Present,
+IPB-2016AA-MF010-AR004,IPB-2016AA-MF010-AR004-VE022,Human Observation,2016-04/2016-06,Animalia,Macroglossus sobrinus,Species,,,,,,2,Individuals,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE023,Human Observation,2016-04/2016-06,Plantae,Shorea sp.,Genus,,,,,,21,Individuals,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE024,Human Observation,2016-04/2016-06,Plantae,Anisoptera sp.,Genus,,,,,,1,Individual,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE025,Human Observation,2016-04/2016-06,Plantae,Dipterocarpus sp.,Genus,,,,,,2,Individuals,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE026,Human Observation,2016-04/2016-06,Plantae,Drynobalanops sp.,Genus,,,,,,2,Individuals,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE027,Human Observation,2016-04/2016-06,Plantae,Hopea sp.,Genus,,,,,,6,Individuals,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE028,Human Observation,2016-04/2016-06,Plantae,Vatica sp.,Genus,,,,,,1,Individual,,Present,VD is Vegetasi Dipterocarpaceae
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE029,Human Observation,2016-04/2016-06,Plantae,Durio zibenthinus,Species,Durian,,,,,,,,Present,No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE030,Human Observation,2016-04/2016-06,Plantae,Eucalyptus sp.,Genus,Eukaliptus,,,,,,,,Present,No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE031,Human Observation,2016-04/2016-06,Plantae,Artocarpus heterophyllus,Species,Nangka,,,,,,,,Present,No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VD001-VE032,Human Observation,2016-04/2016-06,Plantae,Calameae,Famili,Rotan-rotanan,,,,,,,,Present,No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VS002-VE033,Human Observation,2016-04/2016-06,Plantae,Schima wallichii,Species,Puspa,,,,,,,,Present,VS is Vegetasi sawah | No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VS002-VE034,Human Observation,2016-04/2016-06,Plantae,Ceiba pentandra,Species,Kapuk,,,,,,,,Present,VS is Vegetasi sawah | No individual count
+IPB-2016AA-MF010-VD001,IPB-2016PB-MF010-VS002-VE035,Human Observation,2016-04/2016-06,Plantae,Oryza sativa,Species,Padi,,,,,,,,Present,VS is Vegetasi sawah | No individual count
+IPB-2016AA-MF010-VS002,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+IPB-2016AA-MF010-VK003,IPB-2016AA-MF010-VK003-VE036,Human Observation,2016-04/2016-06,Plantae,Hevea sp.,Genus,Karet,,,,,,,,Present,VK is Vegetasi karet | No individual count
+IPB-2016AA-MF010-VK003,IPB-2016AA-MF010-VK003-VE037,Human Observation,2016-04/2016-06,Plantae,Durio zibenthinus,Species,Durian,,,,,,,,Present,VK is Vegetasi karet | No individual count
+IPB-2016AA-MF010-VK003,IPB-2016AA-MF010-VK003-VE038,Human Observation,2016-04/2016-06,Plantae,Maesopsis eminii,Species,Kayu Afrika,,,,,,,,Present,VK is Vegetasi karet | No individual count
+IPB-2016AA-MF010-VK003,IPB-2016AA-MF010-VK003-VE039,Human Observation,2016-04/2016-06,Plantae,Mangifera indica,Species,Mangga,,,,,,,,Present,VA is Vegetasi Agroforestry | No individual count
+IPB-2016AA-MF010-VA004,IPB-2016AA-MF010-VA004-VE040,Human Observation,2016-04/2016-06,Plantae,Paraserianthes falcataria,Species,Sengon,,,,,,,,Present,VA is Vegetasi Agroforestry | No individual count
+IPB-2016AA-MF010-VA004,IPB-2016AA-MF010-VA004-VE041,Human Observation,2016-04/2016-06,Plantae,Mangifera indica,Species,Mangga,,,,,,,,Present,VA is Vegetasi Agroforestry | No individual count
+IPB-2016AA-MF010-VA004,IPB-2016AA-MF010-VA004-VE042,Human Observation,2016-04/2016-06,Plantae,Musa paradisiaca,Species,Pisang,,,,,,,,Present,VA is Vegetasi Agroforestry | No individual count
+IPB-2016AA-MF010-VA004,IPB-2016AA-MF010-VA004-VE043,Human Observation,2016-04/2016-06,Plantae,Manihot utillisima,Species,Ketela pohon,,,,,,,,Present,VA is Vegetasi Agroforestry | No individual count
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE001,Human Observation,2016-04/2016-06,Animalia,Hipposideros diadema,Species,,,,,,4,Individuals,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE002,Human Observation,2016-04/2016-06,Animalia,Scotophilus kuhlii,Species,,,,,,2,Individuals,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE003,Human Observation,2016-04/2016-06,Animalia,Pipistrellus javanicus,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE004,Human Observation,2016-04/2016-06,Animalia,Rhinolopus affinis,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE005,Human Observation,2016-04/2016-06,Animalia,Cynopterus brachyotis,Species,,,,,,7,Individuals,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE006,Human Observation,2016-04/2016-06,Animalia,Cynopterus titthacheilus,Species,,,,,,8,Individuals,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE007,Human Observation,2016-04/2016-06,Animalia,Macroglossus minimus,Species,,,,,,6,Individuals,,Present,
+IPB-2013AS-MF011-KB001,IPB-2013AS-MF011-KB001-VE008,Human Observation,2016-04/2016-06,Animalia,Cynopterus sphinx,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE009,Human Observation,2016-04/2016-06,Animalia,Hipposideros diadema,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE010,Human Observation,2016-04/2016-06,Animalia,Pipistrellus javanicus,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE011,Human Observation,2016-04/2016-06,Animalia,Kerivoula hardwickii,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE012,Human Observation,2016-04/2016-06,Animalia,Rhinolopus affinis,Species,,,,,,3,Individuals,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE013,Human Observation,2016-04/2016-06,Animalia,Cynopterus brachyotis,Species,,,,,,3,Individuals,,Present,
+IPB-2013AS-MF011-HT002,IPB-2013AS-MF011-HT002-VE014,Human Observation,2016-04/2016-06,Animalia,Macroglossus minimus,Species,,,,,,3,Individuals,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE015,Human Observation,2016-04/2016-06,Animalia,Scotophilus kuhlii,Species,,,,,,2,Individuals,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE016,Human Observation,2016-04/2016-06,Animalia,Philetor brachypterus,Species,,,,,,1,Individual,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE017,Human Observation,2016-04/2016-06,Animalia,Cynopterus brachyotis,Species,,,,,,17,Individuals,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE018,Human Observation,2016-04/2016-06,Animalia,Cynopterus titthacheilus,Species,,,,,,4,Individuals,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE019,Human Observation,2016-04/2016-06,Animalia,Macroglossus minimus,Species,,,,,,5,Individuals,,Present,
+IPB-2013AS-MF011-SW003,IPB-2013AS-MF011-SW003-VE020,Human Observation,2016-04/2016-06,Animalia,Roesettus leschenaultii,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE001,Human Observation,2016-04/2016-06,Animalia,Hemydactilus frenatus,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE002,Human Observation,2016-04/2016-06,Animalia,Hemydactilus platyurus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE003,Human Observation,2016-04/2016-06,Animalia,Eutropis multifaciata,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE004,Human Observation,2016-04/2016-06,Animalia,Duttaphyrynus melanostictus,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE005,Human Observation,2016-04/2016-06,Animalia,Phrynoidid asper,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE006,Human Observation,2016-04/2016-06,Animalia,Fejervarya cancrivora,Species,,,,,,4,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE007,Human Observation,2016-04/2016-06,Animalia,Fejervarya limnocharis,Species,,,,,,6,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE008,Human Observation,2016-04/2016-06,Animalia,Pulcharana baramica,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE009,Human Observation,2016-04/2016-06,Animalia,Kaloula pulchra,Species,,,,,,9,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE010,Human Observation,2016-04/2016-06,Animalia,Microhyla sp.,Species,,,,,,14,Individuals,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE011,Human Observation,2016-04/2016-06,Animalia,Humerana miopus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SM001,IPB-2018RR-MF012-SM001-VE012,Human Observation,2016-04/2016-06,Animalia,Hylarana erythraea,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE013,Human Observation,2016-04/2016-06,Animalia,Hemydactilus platyurus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE014,Human Observation,2016-04/2016-06,Animalia,Duttaphyrynus melanostictus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE015,Human Observation,2016-04/2016-06,Animalia,Fejervarya limnocharis,Species,,,,,,5,Individuals,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE016,Human Observation,2016-04/2016-06,Animalia,Pulcharana baramica,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE017,Human Observation,2016-04/2016-06,Animalia,Pulchrana glandulosa,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE018,Human Observation,2016-04/2016-06,Animalia,Microhyla sp.,Species,,,,,,8,Individuals,,Present,
+IPB-2018RR-MF012-SS002,IPB-2018RR-MF012-SS002-VE019,Human Observation,2016-04/2016-06,Animalia,Humerana miopus,Species,,,,,,1,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE020,Human Observation,2016-04/2016-06,Animalia,Malaphyton reticulatus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE021,Human Observation,2016-04/2016-06,Animalia,Duttaphyrynus melanostictus,Species,,,,,,2,Individual,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE022,Human Observation,2016-04/2016-06,Animalia,Fejervarya cancrivora,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE023,Human Observation,2016-04/2016-06,Animalia,Fejervarya limnocharis,Species,,,,,,6,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE024,Human Observation,2016-04/2016-06,Animalia,Pulcharana baramica,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE025,Human Observation,2016-04/2016-06,Animalia,Pulchrana glandulosa,Species,,,,,,1,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE026,Human Observation,2016-04/2016-06,Animalia,Leptobrachium sp.,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE027,Human Observation,2016-04/2016-06,Animalia,Microhyla sp.,Species,,,,,,3,Individual,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE028,Human Observation,2016-04/2016-06,Animalia,Humerana miopus,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE029,Human Observation,2016-04/2016-06,Animalia,Hylarana erythraea,Species,,,,,,1,Individuals,,Present,
+IPB-2018RR-MF012-ST003,IPB-2018RR-MF012-ST003-VE030,Human Observation,2016-04/2016-06,Animalia,Polypedates leucomystax,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE031,Human Observation,2016-04/2016-06,Animalia,Takydromus sexlineatus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE032,Human Observation,2016-04/2016-06,Animalia,Fejervarya limnocharis,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE033,Human Observation,2016-04/2016-06,Animalia,Pulchrana baramica,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE034,Human Observation,2016-04/2016-06,Animalia,Pulchrana glandulosa,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE035,Human Observation,2016-04/2016-06,Animalia,Microhyla sp.,Species,,,,,,6,Individuals,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE036,Human Observation,2016-04/2016-06,Animalia,Humerana miopus,Species,,,,,,15,Individuals,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE037,Human Observation,2016-04/2016-06,Animalia,Amnirana nicobariensis,Species,,,,,,5,Individuals,,Present,
+IPB-2018RR-MF012-KT004,IPB-2018RR-MF012-KT004-VE038,Human Observation,2016-04/2016-06,Animalia,Chalcorana chalconota,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0039,Human Observation,2016-04/2016-06,Animalia,Hemydactilus frenatus,Species,,,,,,6,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0040,Human Observation,2016-04/2016-06,Animalia,Hemydactilus platyurus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0041,Human Observation,2016-04/2016-06,Animalia,Duttaphyrynus melanostictus,Species,,,,,,4,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0042,Human Observation,2016-04/2016-06,Animalia,Fejervarya cancrivora,Species,,,,,,4,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0043,Human Observation,2016-04/2016-06,Animalia,Fejervarya limnocharis,Species,,,,,,7,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0044,Human Observation,2016-04/2016-06,Animalia,Pulchrana baramica,Species,,,,,,2,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0045,Human Observation,2016-04/2016-06,Animalia,Pulcrana glandulosa,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0046,Human Observation,2016-04/2016-06,Animalia,Microhyla sp.,Species,,,,,,4,Individuals,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0047,Human Observation,2016-04/2016-06,Animalia,Humerana miopus,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0048,Human Observation,2016-04/2016-06,Animalia,Hylarana erythraea,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0049,Human Observation,2016-04/2016-06,Animalia,Amnirana nicobariensis,Species,,,,,,1,Individual,,Present,
+IPB-2018RR-MF012-KP005,IPB-2018RR-MF012-KP005-VE0050,Human Observation,2016-04/2016-06,Animalia,Polypedates leucomystax,Species,,,,,,4,Individuals,,Present,
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM001,Human Observation,2016-04/2016-06,Plantae,Borreria latifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM002,Human Observation,2016-04/2016-06,Plantae,Axonopus compressus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM003,Human Observation,2016-04/2016-06,Plantae,Ottochloa nodosa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM004,Human Observation,2016-04/2016-06,Plantae,Nephrolepis biserrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM005,Human Observation,2016-04/2016-06,Plantae,Cyrtococcum patens,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM006,Human Observation,2016-04/2016-06,Plantae,Asystasia gangetica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM007,Human Observation,2016-04/2016-06,Plantae,Clidermia hirta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM008,Human Observation,2016-04/2016-06,Plantae,Cyperus rotundus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM009,Human Observation,2016-04/2016-06,Plantae,Spermacoce exilis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM010,Human Observation,2016-04/2016-06,Plantae,Lindernia crutacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM011,Human Observation,2016-04/2016-06,Plantae,Ocimum gratissimum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM012,Human Observation,2016-04/2016-06,Plantae,Mikania micrantha,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM013,Human Observation,2016-04/2016-06,Plantae,Imperata cylindrica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM014,Human Observation,2016-04/2016-06,Plantae,Lindernia pusilla,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM015,Human Observation,2016-04/2016-06,Plantae,Scleria sumatrensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM016,Human Observation,2016-04/2016-06,Plantae,Paspalum conjugatum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM017,Human Observation,2016-04/2016-06,Plantae,Pueraria javanica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM018,Human Observation,2016-04/2016-06,Plantae,Stenochlaena palustris,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM019,Human Observation,2016-04/2016-06,Plantae,Centotheca lappacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM020,Human Observation,2016-04/2016-06,Plantae,Phyllanthus amarus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM021,Human Observation,2016-04/2016-06,Plantae,Melastoma malabathricum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM022,Human Observation,2016-04/2016-06,Plantae,Lygodium microphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM023,Human Observation,2016-04/2016-06,Plantae,Cyathula prostrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM024,Human Observation,2016-04/2016-06,Plantae,Trema orientalis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM025,Human Observation,2016-04/2016-06,Plantae,Antidesma ghaesembila,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM026,Human Observation,2016-04/2016-06,Plantae,Ludwigia octovalvis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM027,Human Observation,2016-04/2016-06,Plantae,Cleome rutidosperma,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM028,Human Observation,2016-04/2016-06,Plantae,Centrosema pubescens,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM029,Human Observation,2016-04/2016-06,Plantae,Spermacoe brachystema,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM030,Human Observation,2016-04/2016-06,Plantae,Momordica charantia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM031,Human Observation,2016-04/2016-06,Plantae,Eleusine indica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM032,Human Observation,2016-04/2016-06,Plantae,Phymatosorus scolopendria,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VM001,IPB-2018RR-MF012-VM001-EM033,Human Observation,2016-04/2016-06,Plantae,Solanum torvum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM034,Human Observation,2016-04/2016-06,Plantae,Borreria latifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM035,Human Observation,2016-04/2016-06,Plantae,Axonopus compressus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM036,Human Observation,2016-04/2016-06,Plantae,Ottochloa nodosa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM037,Human Observation,2016-04/2016-06,Plantae,Nephrolepis biserrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM038,Human Observation,2016-04/2016-06,Plantae,Asystasia gangetica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM039,Human Observation,2016-04/2016-06,Plantae,Clidermia hirta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM040,Human Observation,2016-04/2016-06,Plantae,Spermacoce exilis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM041,Human Observation,2016-04/2016-06,Plantae,Lindernia crutacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM042,Human Observation,2016-04/2016-06,Plantae,Adiantum latifolum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM043,Human Observation,2016-04/2016-06,Plantae,Ocimum gratissimum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM044,Human Observation,2016-04/2016-06,Plantae,Oldenladia vertcillata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM045,Human Observation,2016-04/2016-06,Plantae,Mikania micrantha,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM046,Human Observation,2016-04/2016-06,Plantae,Lindernia pusilla,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM047,Human Observation,2016-04/2016-06,Plantae,Scleria sumatrensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM048,Human Observation,2016-04/2016-06,Plantae,Taenitis blechnoides,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM049,Human Observation,2016-04/2016-06,Plantae,Stenochlaena palustris,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM050,Human Observation,2016-04/2016-06,Plantae,Pouzolzia zeylanica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM051,Human Observation,2016-04/2016-06,Plantae,Dianella ensifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM052,Human Observation,2016-04/2016-06,Plantae,Chromolaena odorata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM053,Human Observation,2016-04/2016-06,Plantae,Pteris vittata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM054,Human Observation,2016-04/2016-06,Plantae,Centotheca lappacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM055,Human Observation,2016-04/2016-06,Plantae,Phyllanthus amarus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM056,Human Observation,2016-04/2016-06,Plantae,Melastoma malabathricum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM057,Human Observation,2016-04/2016-06,Plantae,Asplenium longissimum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM058,Human Observation,2016-04/2016-06,Plantae,Lygodium microphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM059,Human Observation,2016-04/2016-06,Plantae,Arcypteris irregularis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM060,Human Observation,2016-04/2016-06,Plantae,Cyrtococcum oxyphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM061,Human Observation,2016-04/2016-06,Plantae,Davallia denticulata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM062,Human Observation,2016-04/2016-06,Plantae,Biopytum sensitivum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM063,Human Observation,2016-04/2016-06,Plantae,Bolbitis heteroclita,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM064,Human Observation,2016-04/2016-06,Plantae,Cissus hastata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM065,Human Observation,2016-04/2016-06,Plantae,Scoparia dulcis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM066,Human Observation,2016-04/2016-06,Plantae,Melothria affinis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM067,Human Observation,2016-04/2016-06,Plantae,Selaginella plana,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM068,Human Observation,2016-04/2016-06,Plantae,Microlepia speluncae,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM069,Human Observation,2016-04/2016-06,Plantae,Euphorbia hirta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM070,Human Observation,2016-04/2016-06,Plantae,Melochia cocatenata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VS002,IPB-2018RR-MF012-VS002-EM071,Human Observation,2016-04/2016-06,Plantae,Urena lobata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM072,Human Observation,2016-04/2016-06,Plantae,Borreria latifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM073,Human Observation,2016-04/2016-06,Plantae,Axonopus compressus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM074,Human Observation,2016-04/2016-06,Plantae,Ottochloa nodosa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM075,Human Observation,2016-04/2016-06,Plantae,Nephrolepis biserrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM076,Human Observation,2016-04/2016-06,Plantae,Cyrtococcum patens,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM077,Human Observation,2016-04/2016-06,Plantae,Asystasia gangetica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM078,Human Observation,2016-04/2016-06,Plantae,Clidermia hirta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM079,Human Observation,2016-04/2016-06,Plantae,Paperomia pellucida,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM080,Human Observation,2016-04/2016-06,Plantae,Asplenium nidus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM081,Human Observation,2016-04/2016-06,Plantae,Spermacoce exilis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM082,Human Observation,2016-04/2016-06,Plantae,Lindernia crutacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM083,Human Observation,2016-04/2016-06,Plantae,Ocimum gratissimum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM084,Human Observation,2016-04/2016-06,Plantae,Oldenlandia verticillata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM085,Human Observation,2016-04/2016-06,Plantae,Lindernia pusilla,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM086,Human Observation,2016-04/2016-06,Plantae,Scleria sumatrensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM087,Human Observation,2016-04/2016-06,Plantae,Taenitis blechnoides,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM088,Human Observation,2016-04/2016-06,Plantae,Paspalum conjugatum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM089,Human Observation,2016-04/2016-06,Plantae,Ageratum conyzoides,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM090,Human Observation,2016-04/2016-06,Plantae,Stenochlaena palustris,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM091,Human Observation,2016-04/2016-06,Plantae,Pauzolzia zeylanica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM092,Human Observation,2016-04/2016-06,Plantae,Dianella ensifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM093,Human Observation,2016-04/2016-06,Plantae,Paspalum conjugatum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM094,Human Observation,2016-04/2016-06,Plantae,Pteris vittata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM095,Human Observation,2016-04/2016-06,Plantae,Centotheca lappacea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM096,Human Observation,2016-04/2016-06,Plantae,Elephanthopus scaber,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM097,Human Observation,2016-04/2016-06,Plantae,Phyllanthus amarus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM098,Human Observation,2016-04/2016-06,Plantae,Melastoma malabathricum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM099,Human Observation,2016-04/2016-06,Plantae,Christella dentata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM100,Human Observation,2016-04/2016-06,Plantae,Lygodium microphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM101,Human Observation,2016-04/2016-06,Plantae,Cyathula prostrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM102,Human Observation,2016-04/2016-06,Plantae,Commelina nudiflora,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM103,Human Observation,2016-04/2016-06,Plantae,Arcypteris irregularis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM104,Human Observation,2016-04/2016-06,Plantae,Ludwigia octovalvis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM105,Human Observation,2016-04/2016-06,Plantae,Pityrogramma calomelanos,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM106,Human Observation,2016-04/2016-06,Plantae,Cyrtococcum oxyphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM107,Human Observation,2016-04/2016-06,Plantae,Cyperus brevifolius,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM108,Human Observation,2016-04/2016-06,Plantae,Davallia denticulata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM109,Human Observation,2016-04/2016-06,Plantae,Centrosema pubescens,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM110,Human Observation,2016-04/2016-06,Plantae,Cissus hastata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM111,Human Observation,2016-04/2016-06,Plantae,Pericampylus glaucus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM112,Human Observation,2016-04/2016-06,Plantae,Merremia umbellata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM113,Human Observation,2016-04/2016-06,Plantae,Phyllaanthus urinaria,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM114,Human Observation,2016-04/2016-06,Plantae,Melothria affinis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM115,Human Observation,2016-04/2016-06,Plantae,Dioscorea oppsitifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM116,Human Observation,2016-04/2016-06,Plantae,Anieseia martinicensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM117,Human Observation,2016-04/2016-06,Plantae,Blechum orientale,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM118,Human Observation,2016-04/2016-06,Plantae,Panicum repens,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM119,Human Observation,2016-04/2016-06,Plantae,Rhaphidophora sylvestris,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM120,Human Observation,2016-04/2016-06,Plantae,Cyanotis cristata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM121,Human Observation,2016-04/2016-06,Plantae,Spermacoce ocymifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM122,Human Observation,2016-04/2016-06,Plantae,Elephanthopus tomentosus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM123,Human Observation,2016-04/2016-06,Plantae,Trichosanthes trifoliata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM124,Human Observation,2016-04/2016-06,Plantae,Andrographis paniculata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM125,Human Observation,2016-04/2016-06,Plantae,Lucinea sp.,Genus,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VT003,IPB-2018RR-MF012-VT003-EM126,Human Observation,2016-04/2016-06,Plantae,Pteridiumaqulinum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM127,Human Observation,2016-04/2016-06,Plantae,Borreria latifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM128,Human Observation,2016-04/2016-06,Plantae,Ottochloa nodosa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM129,Human Observation,2016-04/2016-06,Plantae,Nephrolepis biserrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM130,Human Observation,2016-04/2016-06,Plantae,Asystasia gangetica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM131,Human Observation,2016-04/2016-06,Plantae,Clidemia hirta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM132,Human Observation,2016-04/2016-06,Plantae,Cyperus rotundus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM133,Human Observation,2016-04/2016-06,Plantae,Adiantum latifolium,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM134,Human Observation,2016-04/2016-06,Plantae,Oldenladia verticillata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM135,Human Observation,2016-04/2016-06,Plantae,Mikania micrantha,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM136,Human Observation,2016-04/2016-06,Plantae,Scleria sumatrensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM137,Human Observation,2016-04/2016-06,Plantae,Paspalum conjugatum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM138,Human Observation,2016-04/2016-06,Plantae,Ageratum conyzoides,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM139,Human Observation,2016-04/2016-06,Plantae,Stenochlaena palustris,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM140,Human Observation,2016-04/2016-06,Plantae,Pouzolzia zeylanica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM141,Human Observation,2016-04/2016-06,Plantae,Coffea liberica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM142,Human Observation,2016-04/2016-06,Plantae,Phyllanthus amarus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM143,Human Observation,2016-04/2016-06,Plantae,Melastoma malabathricum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM144,Human Observation,2016-04/2016-06,Plantae,Asplenium longissimum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM145,Human Observation,2016-04/2016-06,Plantae,Calamus sp.,Genus,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM146,Human Observation,2016-04/2016-06,Plantae,Brachiaria mutica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM147,Human Observation,2016-04/2016-06,Plantae,Lygodium microphyllum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM148,Human Observation,2016-04/2016-06,Plantae,Cyathula prostrata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM149,Human Observation,2016-04/2016-06,Plantae,Geniophlebi-um percussum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM150,Human Observation,2016-04/2016-06,Plantae,Ludwigia octovalvis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM151,Human Observation,2016-04/2016-06,Plantae,Davallia denticulata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM152,Human Observation,2016-04/2016-06,Plantae,Biopytum sensitivum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM153,Human Observation,2016-04/2016-06,Plantae,Cleome rutidosperma,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM154,Human Observation,2016-04/2016-06,Plantae,Passiflora foetida,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM155,Human Observation,2016-04/2016-06,Plantae,Scoparia dulcis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM156,Human Observation,2016-04/2016-06,Plantae,Ipomoea triloba,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM157,Human Observation,2016-04/2016-06,Plantae,Melothria affinis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM158,Human Observation,2016-04/2016-06,Plantae,Hoya diversifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM159,Human Observation,2016-04/2016-06,Plantae,Synedrella nodiflora,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM160,Human Observation,2016-04/2016-06,Plantae,Bambusa sp.,Genus,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM161,Human Observation,2016-04/2016-06,Plantae,Echinochloa colona,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM162,Human Observation,2016-04/2016-06,Plantae,Oldenlandia diffusa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM163,Human Observation,2016-04/2016-06,Plantae,Coniogramme fraxinea,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM164,Human Observation,2016-04/2016-06,Plantae,Polygala venenosa,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM165,Human Observation,2016-04/2016-06,Plantae,Acrostichum aureum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VK004,IPB-2018RR-MF012-VK004-EM166,Human Observation,2016-04/2016-06,Plantae,Alternanthera sessilis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM167,Human Observation,2016-04/2016-06,Plantae,Borreria latifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM168,Human Observation,2016-04/2016-06,Plantae,Axonopus compressus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM169,Human Observation,2016-04/2016-06,Plantae,Asystasia gangetica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM170,Human Observation,2016-04/2016-06,Plantae,Cyperus rotundus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM171,Human Observation,2016-04/2016-06,Plantae,Spermacoce exilis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM172,Human Observation,2016-04/2016-06,Plantae,Ageratum haustonianum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM173,Human Observation,2016-04/2016-06,Plantae,Oldenladia verticillata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM174,Human Observation,2016-04/2016-06,Plantae,Imperata cylindrica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM175,Human Observation,2016-04/2016-06,Plantae,Scleria sumatrensis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM176,Human Observation,2016-04/2016-06,Plantae,Pennisetum setaceum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM177,Human Observation,2016-04/2016-06,Plantae,Pueraria javanica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM178,Human Observation,2016-04/2016-06,Plantae,Dianella ensifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM179,Human Observation,2016-04/2016-06,Plantae,Paspalum scrobiculatum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM180,Human Observation,2016-04/2016-06,Plantae,Chromolaena odorata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM181,Human Observation,2016-04/2016-06,Plantae,Erechtites valerianifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM182,Human Observation,2016-04/2016-06,Plantae,Phyllanthus amarus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM183,Human Observation,2016-04/2016-06,Plantae,Melastoma malabathricum,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM184,Human Observation,2016-04/2016-06,Plantae,Fimbristylis dichotoma,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM185,Human Observation,2016-04/2016-06,Plantae,Mimosa pudica,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM186,Human Observation,2016-04/2016-06,Plantae,Manihot utilissima,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM187,Human Observation,2016-04/2016-06,Plantae,Turnera ulmifolia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM188,Human Observation,2016-04/2016-06,Plantae,Commelina nudiflora,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM189,Human Observation,2016-04/2016-06,Plantae,Ludwigia octovalvis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM190,Human Observation,2016-04/2016-06,Plantae,Borreria stricta,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM191,Human Observation,2016-04/2016-06,Plantae,Cyperus brevifolius,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM192,Human Observation,2016-04/2016-06,Plantae,Chrysopogon aciculatus,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM193,Human Observation,2016-04/2016-06,Plantae,Vittaria elongata,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM194,Human Observation,2016-04/2016-06,Plantae,Momordica charantia,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM195,Human Observation,2016-04/2016-06,Plantae,Fimbristylis littoralis,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM196,Human Observation,2016-04/2016-06,Plantae,Cynodon dactylon,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM197,Human Observation,2016-04/2016-06,Plantae,Cyperus kyllinga,Species,,,,,,,,,Present,No individual count
+IPB-2018RR-MF012-VP005,IPB-2018RR-MF012-VP005-EM198,Human Observation,2016-04/2016-06,Plantae,Mitracarpus scaber,Species,,,,,,,,,Present,No individual count

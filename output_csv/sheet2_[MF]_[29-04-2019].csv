@@ -1,0 +1,447 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN001,Human Observation,2016-04/2016-07,Animalia,Graphium agamemnon,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN002,Human Observation,2016-04/2016-07,Animalia,Graphium sarpedon,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN003,Human Observation,2016-04/2016-07,Animalia,Losaria coon,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN004,Human Observation,2016-04/2016-07,Animalia,Pachliopta aristolochiae,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN005,Human Observation,2016-04/2016-07,Animalia,Papilio karna karna,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN006,Human Observation,2016-04/2016-07,Animalia,Papilio memnon,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN007,Human Observation,2016-04/2016-07,Animalia,Papilio demolion,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN008,Human Observation,2016-04/2016-07,Animalia,Chersonesia rahlia,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN009,Human Observation,2016-04/2016-07,Animalia,Danaus genutia,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN010,Human Observation,2016-04/2016-07,Animalia,Danaus melanippus,Species,,,,,ID,5,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN011,Human Observation,2016-04/2016-07,Animalia,Euploea eunice,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN012,Human Observation,2016-04/2016-07,Animalia,Euploea midamus,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN013,Human Observation,2016-04/2016-07,Animalia,Euploea mulciber,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN014,Human Observation,2016-04/2016-07,Animalia,Hypolimnas bolina,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN015,Human Observation,2016-04/2016-07,Animalia,Ideopsis vulgaris,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN016,Human Observation,2016-04/2016-07,Animalia,Junonia hedonia,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN017,Human Observation,2016-04/2016-07,Animalia,Lasippa tiga siaka,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN018,Human Observation,2016-04/2016-07,Animalia,Lebadea martha,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN019,Human Observation,2016-04/2016-07,Animalia,Mycalesis horsfieldi,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN020,Human Observation,2016-04/2016-07,Animalia,Neptis hylas,Species,,,,,ID,14,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN021,Human Observation,2016-04/2016-07,Animalia,Parantica aspasia,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN022,Human Observation,2016-04/2016-07,Animalia,Yptima baldus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN023,Human Observation,2016-04/2016-07,Animalia,Appias nero,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN024,Human Observation,2016-04/2016-07,Animalia,Catopsilia pomona,Species,,,,,ID,9,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN025,Human Observation,2016-04/2016-07,Animalia,Delias hyperate,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN026,Human Observation,2016-04/2016-07,Animalia,Delias periboea,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN027,Human Observation,2016-04/2016-07,Animalia,Eurema alitha,Species,,,,,ID,1,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN028,Human Observation,2016-04/2016-07,Animalia,Eurema blanda,Species,,,,,ID,5,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN029,Human Observation,2016-04/2016-07,Animalia,Eurema hecabe,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN030,Human Observation,2016-04/2016-07,Animalia,Eurema sari,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN031,Human Observation,2016-04/2016-07,Animalia,Leptosia nina,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN032,Human Observation,2016-04/2016-07,Animalia,Arophala sp.,Genus,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN033,Human Observation,2016-04/2016-07,Animalia,Drupadia ravindra,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN034,Human Observation,2016-04/2016-07,Animalia,Hypolycaena erylus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN035,Human Observation,2016-04/2016-07,Animalia,Loxura sp.,Genus,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN036,Human Observation,2016-04/2016-07,Animalia,Zeltus amasa amasa,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS001,IPB-2017AS-MF030-TS001-TN037,Human Observation,2016-04/2016-07,Animalia,Zizina otis,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN038,Human Observation,2016-04/2016-07,Animalia,Papilio memnon,Species,,,,,ID,5,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN039,Human Observation,2016-04/2016-07,Animalia,Losaria coon,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN040,Human Observation,2016-04/2016-07,Animalia,Papilio demolion,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN041,Human Observation,2016-04/2016-07,Animalia,Papilio helenus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN042,Human Observation,2016-04/2016-07,Animalia,Papilio polytes,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN043,Human Observation,2016-04/2016-07,Animalia,Neptis hylas,Species,,,,,ID,11,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN044,Human Observation,2016-04/2016-07,Animalia,Danaus melanippus,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN045,Human Observation,2016-04/2016-07,Animalia,Hypolimnas bolina,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN046,Human Observation,2016-04/2016-07,Animalia,Euploea mulciber,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN047,Human Observation,2016-04/2016-07,Animalia,Ideopsis vulgaris,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN048,Human Observation,2016-04/2016-07,Animalia,Mycalesis janardana,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN049,Human Observation,2016-04/2016-07,Animalia,Euploea radamanthus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN050,Human Observation,2016-04/2016-07,Animalia,Junonia iphita,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN051,Human Observation,2016-04/2016-07,Animalia,Catopsilia pomona,Species,,,,,ID,11,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN052,Human Observation,2016-04/2016-07,Animalia,Leptosia nina,Species,,,,,ID,5,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN053,Human Observation,2016-04/2016-07,Animalia,Eurema hecabe,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN054,Human Observation,2016-04/2016-07,Animalia,Eurema sari,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN055,Human Observation,2016-04/2016-07,Animalia,Eurema blanda,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN056,Human Observation,2016-04/2016-07,Animalia,Jamides alecto,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN057,Human Observation,2016-04/2016-07,Animalia,Miletus boisduvali,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-TS002,IPB-2017AS-MF030-TS002-TN058,Human Observation,2016-04/2016-07,Animalia,Zizina otis,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Faunis canens,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Neptis hylas,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Lebeda martha,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Tanecia sp.,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Ypthima baldus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Leptosia nina,Species,,,,,ID,7,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Eurema hecabe,Species,,,,,ID,1,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Zizina otis,Species,,,,,ID,6,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Jamides alecto,Species,,,,,ID,3,Individuals,,,
+IPB-2017AS-MF030-IS003,IPB-2017AS-MF030-IS003-TN059,Human Observation,2016-04/2016-07,Animalia,Drupadia ravindra,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Neptis hylas,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Mycalesis horsfieldi,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Tanecia sp.,Species,,,,,ID,2,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Mycalesis mineus,Species,,,,,ID,1,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Leptosia nina,Species,,,,,ID,6,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Eurema hecabe,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Zeltus amasa amasa,Species,,,,,ID,6,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Miletus boisduvali,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Zizina otis,Species,,,,,ID,4,Individuals,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Hypolycaena erylus,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-IS004,IPB-2017AS-MF030-IS004-TN069,Human Observation,2016-04/2016-07,Animalia,Jamides alecto,Species,,,,,ID,1,Individual,,,
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM001,Human Observation,2016-04/2016-07,Plantae,Elusia indica,Species,,,,,ID,137,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM002,Human Observation,2016-04/2016-07,Plantae,Lantana camara,Species,,,,,ID,18,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM003,Human Observation,2016-04/2016-07,Plantae,Ageratum conyzoides,Species,,,,,ID,15,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM004,Human Observation,2016-04/2016-07,Plantae,Asytasia gangetica,Species,,,,,ID,15,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM005,Human Observation,2016-04/2016-07,Plantae,Mimosa pudica,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM006,Human Observation,2016-04/2016-07,Plantae,Ixora coccinea,Species,,,,,ID,10,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM007,Human Observation,2016-04/2016-07,Plantae,Ipomea cairica,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM008,Human Observation,2016-04/2016-07,Plantae,Mikania micaranta,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM009,Human Observation,2016-04/2016-07,Plantae,Hopea bangeana,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM010,Human Observation,2016-04/2016-07,Plantae,Melastoma polyanthum,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM011,Human Observation,2016-04/2016-07,Plantae,Eragrostis sp.,Genus,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM012,Human Observation,2016-04/2016-07,Plantae,Sphagneticola trilobata,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM013,Human Observation,2016-04/2016-07,Plantae,Clidemia hirta,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM014,Human Observation,2016-04/2016-07,Plantae,Urena lobata,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM015,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,17,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM016,Human Observation,2016-04/2016-07,Plantae,Hopea bangeana,Species,,,,,ID,6,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM017,Human Observation,2016-04/2016-07,Plantae,Shorea pinanga,Species,,,,,ID,6,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM018,Human Observation,2016-04/2016-07,Plantae,Shorea plambanica,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM019,Human Observation,2016-04/2016-07,Plantae,Caliandra sp.,Genus,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM020,Human Observation,2016-04/2016-07,Plantae,Shorea leprosula,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM021,Human Observation,2016-04/2016-07,Plantae,Citrus sp.,Genus,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM022,Human Observation,2016-04/2016-07,Plantae,Durio zibenthinus,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM023,Human Observation,2016-04/2016-07,Plantae,Anthocephalus cadamba,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM024,Human Observation,2016-04/2016-07,Plantae,Hevea brasiliensis,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM025,Human Observation,2016-04/2016-07,Plantae,Schima wallichi,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM026,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM027,Human Observation,2016-04/2016-07,Plantae,Mangifera indica,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM028,Human Observation,2016-04/2016-07,Plantae,Gmelina arborea,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM029,Human Observation,2016-04/2016-07,Plantae,Sandoricum koetjape,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM030,Human Observation,2016-04/2016-07,Plantae,Shorea vatica,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM031,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM032,Human Observation,2016-04/2016-07,Plantae,Hevea brasiliensis,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM033,Human Observation,2016-04/2016-07,Plantae,Schima wallichi,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM034,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM035,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,14,Individuals,,,Pohon
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM036,Human Observation,2016-04/2016-07,Plantae,Hopea bangeana,Species,,,,,ID,9,Individuals,,,Pohon
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM037,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,4,Individuals,,,Pohon
+IPB-2017AS-MF030-VS005,IPB-2017AS-MF030-VS005-EM038,Human Observation,2016-04/2016-07,Plantae,Gmelina arborea,Species,,,,,ID,5,Individuals,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM039,Human Observation,2016-04/2016-07,Plantae,Paspalum sp.,Species,,,,,ID,56,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM040,Human Observation,2016-04/2016-07,Plantae,Ixora coccinea,Species,,,,,ID,9,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM041,Human Observation,2016-04/2016-07,Plantae,Asytasia gangetica,Species,,,,,ID,12,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM042,Human Observation,2016-04/2016-07,Plantae,Clidemia hirta,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM043,Human Observation,2016-04/2016-07,Plantae,Melastoma polyanthum,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM044,Human Observation,2016-04/2016-07,Plantae,Lantana camara,Species,,,,,ID,6,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM045,Human Observation,2016-04/2016-07,Plantae,Rostellularia sundana,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM046,Human Observation,2016-04/2016-07,Plantae,Ageratum conyzoides,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM047,Human Observation,2016-04/2016-07,Plantae,Mikania micaranta,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM048,Human Observation,2016-04/2016-07,Plantae,Mimosa pudica,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM049,Human Observation,2016-04/2016-07,Plantae,Spagneticolla trilobata,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM050,Human Observation,2016-04/2016-07,Plantae,Stachytarpheta indica,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM051,Human Observation,2016-04/2016-07,Plantae,Solanum torvum,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM052,Human Observation,2016-04/2016-07,Plantae,Schima wallichi,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM053,Human Observation,2016-04/2016-07,Plantae,Shorea leprosula,Species,,,,,ID,9,Individuals,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM054,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,6,Individuals,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM055,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,7,Individuals,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM056,Human Observation,2016-04/2016-07,Plantae,Schima wallichii,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM057,Human Observation,2016-04/2016-07,Plantae,Hopea merawan,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM058,Human Observation,2016-04/2016-07,Plantae,Hopea vatica,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM059,Human Observation,2016-04/2016-07,Plantae,Mangifera indica,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM060,Human Observation,2016-04/2016-07,Plantae,Shorea palembanica,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM061,Human Observation,2016-04/2016-07,Plantae,Hopea merawan,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM062,Human Observation,2016-04/2016-07,Plantae,Shorea leprosula,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM063,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM064,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM065,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,5,Individuals,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM066,Human Observation,2016-04/2016-07,Plantae,Shorea mecisopteris,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM067,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM068,Human Observation,2016-04/2016-07,Plantae,Shorea pinanga,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM069,Human Observation,2016-04/2016-07,Plantae,Gmelina arborea,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM070,Human Observation,2016-04/2016-07,Plantae,Dracontomelon dao,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AS-MF030-VS006,IPB-2017AS-MF030-VS006-EM071,Human Observation,2016-04/2016-07,Plantae,Sandoricum koetjape,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM072,Human Observation,2016-04/2016-07,Plantae,Paspalum sp.,Species,,,,,ID,33,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM073,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM074,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,4,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM075,Human Observation,2016-04/2016-07,Plantae,Clidemia hirta,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM076,Human Observation,2016-04/2016-07,Plantae,Aristolochia tagala,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM077,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,7,Individuals,,,Pancang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM078,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM079,Human Observation,2016-04/2016-07,Plantae,Shorea palembanica,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM080,Human Observation,2016-04/2016-07,Plantae,Hopea merawan,Species,,,,,ID,2,Individuals,,,Tiang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM081,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM082,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM083,Human Observation,2016-04/2016-07,Plantae,Shorea palembanica,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM084,Human Observation,2016-04/2016-07,Plantae,Shorea palembanica,Species,,,,,ID,8,Individuals,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM085,Human Observation,2016-04/2016-07,Plantae,Hopea merawan,Species,,,,,ID,5,Individuals,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM086,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM087,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM088,Human Observation,2016-04/2016-07,Plantae,Cinnamomum burmanii,Species,,,,,ID,2,Individuals,,,Pohon
+IPB-2017AS-MF030-VI007,IPB-2017AS-MF030-VI007-EM089,Human Observation,2016-04/2016-07,Plantae,Malaleuca leucadendron,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM090,Human Observation,2016-04/2016-07,Plantae,Eleuisin indica,Species,,,,,ID,56,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM091,Human Observation,2016-04/2016-07,Plantae,Clidemia hirta,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM092,Human Observation,2016-04/2016-07,Plantae,Melastoma polyanthum,Species,,,,,ID,12,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM093,Human Observation,2016-04/2016-07,Plantae,Solanum torvum,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM094,Human Observation,2016-04/2016-07,Plantae,Shorea selanica,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM095,Human Observation,2016-04/2016-07,Plantae,Shorea stenoptera,Species,,,,,ID,4,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM096,Human Observation,2016-04/2016-07,Plantae,Falcataria mollucana,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM097,Human Observation,2016-04/2016-07,Plantae,Aristolochia tagala,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM098,Human Observation,2016-04/2016-07,Plantae,Alstonia scholaris,Species,,,,,ID,11,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM099,Human Observation,2016-04/2016-07,Plantae,Schima wallichi,Species,,,,,ID,7,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM100,Human Observation,2016-04/2016-07,Plantae,Shorea pinanga,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM101,Human Observation,2016-04/2016-07,Plantae,Shorea leprosula,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM102,Human Observation,2016-04/2016-07,Plantae,Ceiba petandra,Species,,,,,ID,5,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM103,Human Observation,2016-04/2016-07,Plantae,Falcataria mollucana,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM104,Human Observation,2016-04/2016-07,Plantae,Citrus sp.,Genus,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM105,Human Observation,2016-04/2016-07,Plantae,Pinus merkusii,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM106,Human Observation,2016-04/2016-07,Plantae,Alstonia scholaris,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM107,Human Observation,2016-04/2016-07,Plantae,Shorea pinanga,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM108,Human Observation,2016-04/2016-07,Plantae,Alstonia scholaris,Species,,,,,ID,7,Individuals,,,Pohon
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM109,Human Observation,2016-04/2016-07,Plantae,Shorea pinanga,Species,,,,,ID,4,Individuals,,,Pohon
+IPB-2017AS-MF030-VI008,IPB-2017AS-MF030-VI008-EM110,Human Observation,2016-04/2016-07,Plantae,Shorea leprosula,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN001,Human Observation,2017-05,Animalia,Graphium agamemnon,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN002,Human Observation,2017-05,Animalia,Papilio memnon,Species,,,,,ID,4,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN003,Human Observation,2017-05,Animalia,Papilio polytes,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN004,Human Observation,2017-05,Animalia,Catochrysops strabo,Species,,,,,ID,6,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN005,Human Observation,2017-05,Animalia,Jamides pura,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN006,Human Observation,2017-05,Animalia,Delias hyperate,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN007,Human Observation,2017-05,Animalia,Eurema blanda,Species,,,,,ID,21,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN008,Human Observation,2017-05,Animalia,Eurema brigitta,Species,,,,,ID,8,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN009,Human Observation,2017-05,Animalia,Eurema hecabe,Species,,,,,ID,16,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN010,Human Observation,2017-05,Animalia,Eurema sari,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN011,Human Observation,2017-05,Animalia,Leptosia nina,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN012,Human Observation,2017-05,Animalia,Athyma nefte,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN013,Human Observation,2017-05,Animalia,Danaus melanippus,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN014,Human Observation,2017-05,Animalia,Doleschalia bisaltide,Species,,,,,ID,5,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN015,Human Observation,2017-05,Animalia,Elymnias casiphone,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN016,Human Observation,2017-05,Animalia,Euploea mulciber,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN017,Human Observation,2017-05,Animalia,Faunis canens,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN018,Human Observation,2017-05,Animalia,Ideopsis juventa,Species,,,,,ID,11,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN019,Human Observation,2017-05,Animalia,Junonia hedonia,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN020,Human Observation,2017-05,Animalia,Junonia horfsiedi,Species,,,,,ID,21,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN021,Human Observation,2017-05,Animalia,Junonia iphita,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN022,Human Observation,2017-05,Animalia,Junonia orithya,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN023,Human Observation,2017-05,Animalia,Lethe mekara,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN024,Human Observation,2017-05,Animalia,Melanitis leda,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN025,Human Observation,2017-05,Animalia,Mycalesis horfieldi,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN026,Human Observation,2017-05,Animalia,Mycalesis janardana,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN027,Human Observation,2017-05,Animalia,Mycalesis perseus,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN028,Human Observation,2017-05,Animalia,Neptis duryodana,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN029,Human Observation,2017-05,Animalia,Neptis hylas,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN030,Human Observation,2017-05,Animalia,Orsotiriaena medus,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN031,Human Observation,2017-05,Animalia,Pantoporia hordonia,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN032,Human Observation,2017-05,Animalia,Tanaecia palguna,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN033,Human Observation,2017-05,Animalia,Ypthima baldus,Species,,,,,ID,21,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN034,Human Observation,2017-05,Animalia,Ypthima horfieldii,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN035,Human Observation,2017-05,Animalia,Ypthima iarba,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN036,Human Observation,2017-05,Animalia,Ypthima nigricans,Species,,,,,ID,14,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN037,Human Observation,2017-05,Animalia,Caltoris bromus,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN038,Human Observation,2017-05,Animalia,Hasora badra,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HP001,IPB-2017AP-MF031-HP001-TN039,Human Observation,2017-05,Animalia,Notocrypta paralysos,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN040,Human Observation,2017-05,Animalia,Graphium agamemnon,Species,,,,,ID,8,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN041,Human Observation,2017-05,Animalia,Papilio memnon,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN042,Human Observation,2017-05,Animalia,Papilio polytes,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN043,Human Observation,2017-05,Animalia,Catochrysops strabo,Species,,,,,ID,5,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN044,Human Observation,2017-05,Animalia,Jamides pura,Species,,,,,ID,8,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN045,Human Observation,2017-05,Animalia,Spindasis kutu,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN046,Human Observation,2017-05,Animalia,Virachola isocrates,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN047,Human Observation,2017-05,Animalia,Zizina otis,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN048,Human Observation,2017-05,Animalia,Apias olferna,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN049,Human Observation,2017-05,Animalia,Delias hyperate,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN050,Human Observation,2017-05,Animalia,Eurema blanda,Species,,,,,ID,11,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN051,Human Observation,2017-05,Animalia,Eurema brigitta,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN052,Human Observation,2017-05,Animalia,Eurema hecabe,Species,,,,,ID,14,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN053,Human Observation,2017-05,Animalia,Eurema sari,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN054,Human Observation,2017-05,Animalia,Leptosia nina,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN055,Human Observation,2017-05,Animalia,Acraea violae,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN056,Human Observation,2017-05,Animalia,Athyma nefte,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN057,Human Observation,2017-05,Animalia,Doleschallia bisaltide,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN058,Human Observation,2017-05,Animalia,Euploea mulciber,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN059,Human Observation,2017-05,Animalia,Euploea phaenarete,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN060,Human Observation,2017-05,Animalia,Hypolimnas bolina,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN061,Human Observation,2017-05,Animalia,Ideopsis juventa,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN062,Human Observation,2017-05,Animalia,Junonia hedonia,Species,,,,,ID,25,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN063,Human Observation,2017-05,Animalia,Junonia iphita,Species,,,,,ID,12,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN064,Human Observation,2017-05,Animalia,Junonia orithya,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN065,Human Observation,2017-05,Animalia,Neptis hylas,Species,,,,,ID,11,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN066,Human Observation,2017-05,Animalia,Orsotriaena medus,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN067,Human Observation,2017-05,Animalia,Pantoporia hordonia,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN068,Human Observation,2017-05,Animalia,Tirumala limniace,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN069,Human Observation,2017-05,Animalia,Ypthima baldus,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN070,Human Observation,2017-05,Animalia,Ypthima horsfieldii,Species,,,,,ID,8,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN071,Human Observation,2017-05,Animalia,Ypthima nigricans,Species,,,,,ID,6,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN072,Human Observation,2017-05,Animalia,Ypthima philomela,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN073,Human Observation,2017-05,Animalia,Ancistroides nigrita,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HC002,IPB-2017AP-MF031-HC002-TN074,Human Observation,2017-05,Animalia,Caltoris bromus,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN075,Human Observation,2017-05,Animalia,Graphium agamemnon,Species,,,,,ID,7,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN076,Human Observation,2017-05,Animalia,Papilio polytes,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN077,Human Observation,2017-05,Animalia,Catochrysops strabo,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN078,Human Observation,2017-05,Animalia,Jamides pura,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN079,Human Observation,2017-05,Animalia,Miletus gigantes,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN080,Human Observation,2017-05,Animalia,Virachola isocrates,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN081,Human Observation,2017-05,Animalia,Catopsilia pomona,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN082,Human Observation,2017-05,Animalia,Delias hyparete,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN083,Human Observation,2017-05,Animalia,Delias periboea,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN084,Human Observation,2017-05,Animalia,Eurema blanda,Species,,,,,ID,12,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN085,Human Observation,2017-05,Animalia,Eurema brigitta,Species,,,,,ID,4,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN086,Human Observation,2017-05,Animalia,Eurema hecabe,Species,,,,,ID,25,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN087,Human Observation,2017-05,Animalia,Eurema sari,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN088,Human Observation,2017-05,Animalia,Leptosia nina,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN089,Human Observation,2017-05,Animalia,Acraea violae,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN090,Human Observation,2017-05,Animalia,Athyma nefte,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN091,Human Observation,2017-05,Animalia,Chersonesia rahria,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN092,Human Observation,2017-05,Animalia,Danaus melanippus,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN093,Human Observation,2017-05,Animalia,Doleschallia bisaltide,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN094,Human Observation,2017-05,Animalia,Euploea climena,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN095,Human Observation,2017-05,Animalia,Euripus nyctelius,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN096,Human Observation,2017-05,Animalia,Ideopsis juventa,Species,,,,,ID,4,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN097,Human Observation,2017-05,Animalia,Junonia almana,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN098,Human Observation,2017-05,Animalia,Junonia atlites,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN099,Human Observation,2017-05,Animalia,Junonia hedonia,Species,,,,,ID,13,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN100,Human Observation,2017-05,Animalia,Junonia iphita,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN101,Human Observation,2017-05,Animalia,Junonia orithya,Species,,,,,ID,12,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN102,Human Observation,2017-05,Animalia,Mycalesis horsfieldi,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN103,Human Observation,2017-05,Animalia,Mycalesis janardana,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN104,Human Observation,2017-05,Animalia,Neptis hylas,Species,,,,,ID,25,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN105,Human Observation,2017-05,Animalia,Pantoporia hordonia,Species,,,,,ID,4,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN106,Human Observation,2017-05,Animalia,Tanaecia palguna,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN107,Human Observation,2017-05,Animalia,Ypthima baldus,Species,,,,,ID,2,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN108,Human Observation,2017-05,Animalia,Ypthima horsfieldii,Species,,,,,ID,9,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN109,Human Observation,2017-05,Animalia,Ypthima nigricans,Species,,,,,ID,6,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN110,Human Observation,2017-05,Animalia,Ypthima philomela,Species,,,,,ID,3,Individuals,,,
+IPB-2017AP-MF031-HT003,IPB-2017AP-MF031-HT003-TN111,Human Observation,2017-05,Animalia,Tagiades litigiosa,Species,,,,,ID,1,Individual,,,
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM001,Human Observation,2017-05,Plantae,Asytasia gangetica,Species,,,,,ID,136,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM002,Human Observation,2017-05,Plantae,Digistaria sp.,Genus,,,,,ID,99,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM003,Human Observation,2017-05,Plantae,Rolanda fruticosa,Species,,,,,ID,78,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM004,Human Observation,2017-05,Plantae,Clidemia hirta,Species,,,,,ID,32,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM005,Human Observation,2017-05,Plantae,Pleocnemia irregularis,Species,,,,,ID,27,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM006,Human Observation,2017-05,Plantae,Rumput 2,Species,,,,,ID,29,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM007,Human Observation,2017-05,Plantae,Drymaria cordota,Species,,,,,ID,16,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM008,Human Observation,2017-05,Plantae,Lantana camara,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM009,Human Observation,2017-05,Plantae,Pandanus amaryllifolius,Species,,,,,ID,10,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM010,Human Observation,2017-05,Plantae,Selaginella willdenowii,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM011,Human Observation,2017-05,Plantae,Ageratum conyzoides,Species,,,,,ID,6,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM012,Human Observation,2017-05,Plantae,Caladium sp,Genus,,,,,ID,4,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM013,Human Observation,2017-05,Plantae,Amomum compactum,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM014,Human Observation,2017-05,Plantae,Paku 2,Famili,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM015,Human Observation,2017-05,Plantae,Bambusa vulgaris,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM016,Human Observation,2017-05,Plantae,Musa paradisiaca,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM017,Human Observation,2017-05,Plantae,Melastoma malabathricum,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM018,Human Observation,2017-05,Plantae,Ficus sp,Genus,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM019,Human Observation,2017-05,Plantae,Coffea canephora,Species,,,,,ID,22,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM020,Human Observation,2017-05,Plantae,Swietenia macrophylla,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM021,Human Observation,2017-05,Plantae,Agathis dammara,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM022,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM023,Human Observation,2017-05,Plantae,Tectona grandis,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM024,Human Observation,2017-05,Plantae,Shorea sp,Genus,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM025,Human Observation,2017-05,Plantae,Toona sureni,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM026,Human Observation,2017-05,Plantae,Altingia excelsa,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM027,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM028,Human Observation,2017-05,Plantae,Nephelium lappaceum,Species,,,,,ID,4,Individuals,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM029,Human Observation,2017-05,Plantae,Sandoricum koetjape,Species,,,,,ID,4,Individuals,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM030,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,3,Individuals,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM031,Human Observation,2017-05,Plantae,Swietenia macrophylla,Species,,,,,ID,2,Individuals,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM032,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM033,Human Observation,2017-05,Plantae,Syzygium polyanthum,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM034,Human Observation,2017-05,Plantae,Artocarpus altilis,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM035,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,63,Individuals,,,Pohon
+IPB-2017AP-MF031-VP004,IPB-2017AP-MF031-VP004-EM036,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM037,Human Observation,2017-05,Plantae,Asystasia gangestica,Species,,,,,ID,59,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM038,Human Observation,2017-05,Plantae,Sida acuta,Species,,,,,ID,28,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM039,Human Observation,2017-05,Plantae,Pennisetum purpureum,Species,,,,,ID,20,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM040,Human Observation,2017-05,Plantae,Musa paradisiaca,Species,,,,,ID,11,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM041,Human Observation,2017-05,Plantae,Melastoma malabathricum,Species,,,,,ID,11,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM042,Human Observation,2017-05,Plantae,Rumput 2,Famili,,,,,ID,23,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM043,Human Observation,2017-05,Plantae,Digittaria sp,Genus,,,,,ID,15,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM044,Human Observation,2017-05,Plantae,Mikania micrantha,Species,,,,,ID,12,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM045,Human Observation,2017-05,Plantae,Clidemia hirta,Species,,,,,ID,10,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM046,Human Observation,2017-05,Plantae,Clitoria laurifolia,Species,,,,,ID,12,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM047,Human Observation,2017-05,Plantae,Aeschynomene americana,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM048,Human Observation,2017-05,Plantae,Cymbopogon citratus,Species,,,,,ID,4,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM049,Human Observation,2017-05,Plantae,Lantana camara,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM050,Human Observation,2017-05,Plantae,Pennisetum polystachion,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM051,Human Observation,2017-05,Plantae,Melanthera biflora,Species,,,,,ID,7,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM052,Human Observation,2017-05,Plantae,Pandanus amaryllifolius,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM053,Human Observation,2017-05,Plantae,Pleocnemia irregularis,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM054,Human Observation,2017-05,Plantae,Rolandra fruticosa,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM055,Human Observation,2017-05,Plantae,Phyllanthus niruri,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM056,Human Observation,2017-05,Plantae,Centrosema molle,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM057,Human Observation,2017-05,Plantae,Clibadium surinamense,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM058,Human Observation,2017-05,Plantae,Cooffea sp,Genus,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM059,Human Observation,2017-05,Plantae,Crassocephalum crepidioides,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM060,Human Observation,2017-05,Plantae,Mimosa pudica,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM061,Human Observation,2017-05,Plantae,Mangifera caesia,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM062,Human Observation,2017-05,Plantae,Ocimum basillum,Species,,,,,ID,1,Individual,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM063,Human Observation,2017-05,Plantae,Swietenia macrophylla,Species,,,,,ID,7,Individuals,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM064,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM065,Human Observation,2017-05,Plantae,Schima wallichii,Species,,,,,ID,3,Individuals,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM066,Human Observation,2017-05,Plantae,Nephelium lappaceum,Species,,,,,ID,2,Individuals,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM067,Human Observation,2017-05,Plantae,Sandoricum koetjape,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM068,Human Observation,2017-05,Plantae,Mangifera indica,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM069,Human Observation,2017-05,Plantae,Swietenia macrophylla,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM070,Human Observation,2017-05,Plantae,Paraserianthes falcataria,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM071,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM072,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,27,Individuals,,,Pohon
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM073,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,3,Individuals,,,Pohon
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM074,Human Observation,2017-05,Plantae,Paraserianthes falcataria,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AP-MF031-VC005,IPB-2017AP-MF031-VC005-EM075,Human Observation,2017-05,Plantae,Swietenia macrophylla,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM076,Human Observation,2017-05,Plantae,Pennisetum purpureum,Species,,,,,ID,179,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM077,Human Observation,2017-05,Plantae,Asystasia gangestica,Species,,,,,ID,122,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM078,Human Observation,2017-05,Plantae,Rolandra fruticosa,Species,,,,,ID,86,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM079,Human Observation,2017-05,Plantae,Melastoma malabathricum,Species,,,,,ID,58,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM080,Human Observation,2017-05,Plantae,Lantana camara,Species,,,,,ID,70,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM081,Human Observation,2017-05,Plantae,Dicranopteris sp,Genus,,,,,ID,39,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM082,Human Observation,2017-05,Plantae,Rumput 1,Famili,,,,,ID,22,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM083,Human Observation,2017-05,Plantae,Ottochloa nodosa,Species,,,,,ID,30,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM084,Human Observation,2017-05,Plantae,Clidemia hirta,Species,,,,,ID,13,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM085,Human Observation,2017-05,Plantae,Clitoria laurifolia,Species,,,,,ID,13,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM086,Human Observation,2017-05,Plantae,Selaginella willdenowii,Species,,,,,ID,9,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM087,Human Observation,2017-05,Plantae,Manihot esculenta,Species,,,,,ID,8,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM088,Human Observation,2017-05,Plantae,Mimosa pudica,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM089,Human Observation,2017-05,Plantae,Clibadium surinamense,Species,,,,,ID,5,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM090,Human Observation,2017-05,Plantae,Pleocnemia irregularis,Species,,,,,ID,3,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM091,Human Observation,2017-05,Plantae,Phyllanthus niruri,Species,,,,,ID,2,Individuals,,,Tumbuhan bawah dan semai
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM092,Human Observation,2017-05,Plantae,Melastoma malabathricum,Species,,,,,ID,12,Individuals,,,Pancang
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM093,Human Observation,2017-05,Plantae,Schima walichii,Species,,,,,ID,4,Individuals,,,Pancang
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM094,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,1,Individual,,,Pancang
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM095,Human Observation,2017-05,Plantae,Nephelium lappaceum,Species,,,,,ID,1,Individual,,,Tiang
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM096,Human Observation,2017-05,Plantae,Pinus merkusii,Species,,,,,ID,19,Individuals,,,Pohon
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM097,Human Observation,2017-05,Plantae,Acacia mangium,Species,,,,,ID,2,Individuals,,,Pohon
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM098,Human Observation,2017-05,Plantae,Nephelium lappaceum,Species,,,,,ID,2,Individuals,,,Pohon
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM099,Human Observation,2017-05,Plantae,Artocarpus heterophyllus,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2017AP-MF031-VT006,IPB-2017AP-MF031-VT006-EM100,Human Observation,2017-05,Plantae,Sandoricum koetjape,Species,,,,,ID,1,Individual,,,Pohon
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN001,Human Observation,2009-04-03/2009-07-12,Animalia,Marpissa,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN002,Human Observation,2009-04-03/2009-07-12,Animalia,Metaphidippus,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN003,Human Observation,2009-04-03/2009-07-12,Animalia,Peckhamia,Genus,,,,,ID,16,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN004,Human Observation,2009-04-03/2009-07-12,Animalia,Phlegra,Genus,,,,,ID,3,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN005,Human Observation,2009-04-03/2009-07-12,Animalia,Hentzia,Genus,,,,,ID,14,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN006,Human Observation,2009-04-03/2009-07-12,Animalia,Synemosyna,Genus,,,,,ID,2,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN007,Human Observation,2009-04-03/2009-07-12,Animalia,Metacyrba,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN008,Human Observation,2009-04-03/2009-07-12,Animalia,Plexippus,Genus,,,,,ID,9,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN009,Human Observation,2009-04-03/2009-07-12,Animalia,Heteropoda,Genus,,,,,ID,6,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN010,Human Observation,2009-04-03/2009-07-12,Animalia,Scytodes,Genus,,,,,ID,5,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN011,Human Observation,2009-04-03/2009-07-12,Animalia,Mimetus,Genus,,,,,ID,223,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN012,Human Observation,2009-04-03/2009-07-12,Animalia,Ero,Genus,,,,,ID,17,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN013,Human Observation,2009-04-03/2009-07-12,Animalia,Tetragnatha,Genus,,,,,ID,70,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN014,Human Observation,2009-04-03/2009-07-12,Animalia,Plecterurys,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN015,Human Observation,2009-04-03/2009-07-12,Animalia,Steatoda,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN016,Human Observation,2009-04-03/2009-07-12,Animalia,Dyctyna,Genus,,,,,ID,2,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN017,Human Observation,2009-04-03/2009-07-12,Animalia,Oecobius,Genus,,,,,ID,30,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN018,Human Observation,2009-04-03/2009-07-12,Animalia,Meioneta,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN019,Human Observation,2009-04-03/2009-07-12,Animalia,Pholcus,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN020,Human Observation,2009-04-03/2009-07-12,Animalia,Psysocylus,Genus,,,,,ID,1,Individual,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN021,Human Observation,2009-04-03/2009-07-12,Animalia,Hypochilus,Genus,,,,,ID,2,Individuals,,,Sonneratia
+IPB-2010EN-MF032-SM001,IPB-2010EN-MF032-SM001-TN022,Human Observation,2009-04-03/2009-07-12,Animalia,Megahexura,Genus,,,,,ID,2,Individuals,,,Sonneratia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN023,Human Observation,2009-04-03/2009-07-12,Animalia,Metaphidippus,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN024,Human Observation,2009-04-03/2009-07-12,Animalia,Peckhamia,Genus,,,,,ID,7,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN025,Human Observation,2009-04-03/2009-07-12,Animalia,Metacyrba,Genus,,,,,ID,5,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN026,Human Observation,2009-04-03/2009-07-12,Animalia,Plexippus,Genus,,,,,ID,4,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN027,Human Observation,2009-04-03/2009-07-12,Animalia,Scytodes,Genus,,,,,ID,2,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN028,Human Observation,2009-04-03/2009-07-12,Animalia,Mimetus,Genus,,,,,ID,16,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN029,Human Observation,2009-04-03/2009-07-12,Animalia,Ero,Genus,,,,,ID,2,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN030,Human Observation,2009-04-03/2009-07-12,Animalia,Tetragnatha,Genus,,,,,ID,15,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN031,Human Observation,2009-04-03/2009-07-12,Animalia,Theridion,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN032,Human Observation,2009-04-03/2009-07-12,Animalia,Oecobius,Genus,,,,,ID,5,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN033,Human Observation,2009-04-03/2009-07-12,Animalia,Hypochilus,Genus,,,,,ID,10,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN034,Human Observation,2009-04-03/2009-07-12,Animalia,Ebo,Genus,,,,,ID,10,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN035,Human Observation,2009-04-03/2009-07-12,Animalia,Allocosa,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN036,Human Observation,2009-04-03/2009-07-12,Animalia,Uloborus,Genus,,,,,ID,3,Individuals,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN037,Human Observation,2009-04-03/2009-07-12,Animalia,Orchestina,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN038,Human Observation,2009-04-03/2009-07-12,Animalia,Hahnia,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN039,Human Observation,2009-04-03/2009-07-12,Animalia,Cyclosa,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN040,Human Observation,2009-04-03/2009-07-12,Animalia,Synema,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-HL002,IPB-2010EN-MF032-HL002-TN041,Human Observation,2009-04-03/2009-07-12,Animalia,Antrodiaetus,Genus,,,,,ID,1,Individual,,,Rhizopora | Avicennia
+IPB-2010EN-MF032-KL003,IPB-2010EN-MF032-KL003-TN042,Human Observation,2009-04-03/2009-07-12,Animalia,Maevia,Genus,,,,,ID,1,Individual,,,
+IPB-2010EN-MF032-KL003,IPB-2010EN-MF032-KL003-TN043,Human Observation,2009-04-03/2009-07-12,Animalia,Marpissa,Genus,,,,,ID,1,Individual,,,
+IPB-2010EN-MF032-KL003,IPB-2010EN-MF032-KL003-TN044,Human Observation,2009-04-03/2009-07-12,Animalia,Metaphidippus,Genus,,,,,ID,1,Individual,,,
+IPB-2010EN-MF032-KL003,IPB-2010EN-MF032-KL003-TN045,Human Observation,2009-04-03/2009-07-12,Animalia,Sarinda,Genus,,,,,ID,1,Individual,,,
+IPB-2010EN-MF032-KL003,IPB-2010EN-MF032-KL003-TN046,Human Observation,2009-04-03/2009-07-12,Animalia,Tetragnatha,Genus,,,,,ID,5,Individuals,,,

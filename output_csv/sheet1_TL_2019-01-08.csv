@@ -1,0 +1,7 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UI-2012AJ-TL034,UI-2012AJ-TL034-ST01,2010-04/09,Peterson grab,,6,months,ST01,,,-6.1072222| -6.1051111| -6.10925,106.784 |  106.781| 106.784,,ID,Java,DKI Jakarta,Indonesia,North Jakarta,Muara Karang,
+UI-2012AJ-TL034,UI-2012AJ-TL034-ST02,2010-04/09,Peterson grab,,6,months,ST02,,,-6.0913889|  -6.0913889|  -6.091,106.804|  106.802|  106.802,,ID,Java,DKI Jakarta,Indonesia,North Jakarta,Muara Baru,
+UI-2012AJ-TL034,UI-2012AJ-TL034-ST03,2010-04/09,Peterson grab,,6,months,ST03,,,-6.0918611|  -6.0918611|  -6.0856944,106.804| 106.802|  106.807,,ID,Java,DKI Jakarta,Indonesia,North Jakarta,Muara Sunda Kelapa,
+UI-2012AJ-TL034,UI-2012AJ-TL034-ST04,2010-04/09,Peterson grab,,6,months,ST04,,,-6.0949722| -6.0922222| -6.0911111,106.807|  106.805|  106.809,,ID,Java,DKI Jakarta,Indonesia,North Jakarta,Muara Tiram,
+UI-2012AJ-TL034,UI-2012AJ-TL034-ST05,2010-04/09,Peterson grab,,6,months,ST05,,,-6.0862222|  -6.0414167|  -6.08175,106.8066667| 106.8026667|  106.8066667,,ID,Java,DKI Jakarta,Indonesia,North Jakarta,Muara Tawar,
+UI-2013DH-TL035,UI-2013DH-TL035-H01,2012-06| 2012-10,Quadrant transect,108 200x20 sized quadrant,432000,square metres,H01,,,-5.6590278,104.4058333,,ID,Sumatra,Lampung,Indonesia,Taman Nasional Bukit Barisan Selatan,Stasiun Penelitian Way Canguk,
