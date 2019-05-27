@@ -28,7 +28,7 @@ for (i in 1:length(xls)){
 
 # Merged all csv (Sheet 2)
 bio_data2 = data.frame()
-# selected_column2 = c("eventID", "occurrenceID", "basisOfRecord", "eventDate", "kingdom", "scientificName", "taxonRank", "vernacularName", "decimalLatitude", "decimalLongitude", "geodeticDatum", "countryCode", "individualCount", "organismQuantity", "organismQuantityType", "occurrenceStatus", "remarks")
+selected_column2 = c("eventID", "occurrenceID", "basisOfRecord", "eventDate", "kingdom", "scientificName", "taxonRank", "vernacularName", "decimalLatitude", "decimalLongitude", "geodeticDatum", "countryCode", "individualCount", "organismQuantity", "organismQuantityType", "occurrenceStatus", "remarks")
 for (i in 1:length(xls)){
   filename = gsub('./input_xlsx/', '', xls[i]) # remove dir
   filename = gsub(regex_xls, "csv", filename) # rename xlsx/xls to csv
@@ -183,18 +183,8 @@ taksa_count <- taksa_count %>% filter(!is.na(taxaCode))
 taksa_count
 sum(taksa_count$freq)
 
-gbif_kingdom_count <- plyr::count(gbif_indo, "kingdom")
-gbif_kingdom_count <- gbif_kingdom_count %>% filter(!is.na(kingdom))
-taksa_count
-sum(gbif_kingdom_count$freq)
-
-
 # COUNT YEAR
 year_count <- plyr::count(merged_data, "publicationYear")
-year_count
-sum(year_count$freq)
-
-GBIF_matchType_count <- plyr::count(bio_bone, "GBIF_matchType")
 year_count
 sum(year_count$freq)
 
