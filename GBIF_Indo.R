@@ -9,7 +9,7 @@ bio_bone <- read_excel('All-Occurrences_20043_wo_sp.xlsx')
 nrow(bio_bone)
 sum(is.na(bio_bone_new$GBIF_genus))
 
-# DATA CLEANING
+# SCIENTIFICNAME CLEANING
 # Check for anything ended with sp., p., L., and . (dot) on scientificName field
 grep(".+sp\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
 grep(".+p\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
