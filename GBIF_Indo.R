@@ -15,9 +15,9 @@ grep(".+sp\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
 grep(".+p\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
 grep(".+\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
 # Cleanup sp., p., and . (dot)
-bio_bone$scientificName <- gsub(".+sp\\.$", '', bio_bone$scientificName)
-bio_bone$scientificName <- gsub(".+p\\.$", '', bio_bone$scientificName)
-bio_bone$scientificName <- gsub(".+\\.$", '', bio_bone$scientificName)
+bio_bone$scientificName <- trimws(gsub(".+sp\\.$", '', bio_bone$scientificName))
+bio_bone$scientificName <- trimws(gsub(".+p\\.$", '', bio_bone$scientificName))
+bio_bone$scientificName <- trimws(gsub(".+\\.$", '', bio_bone$scientificName))
 # Remove API because it's format is in JSON
 bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API'))]
 
