@@ -1,5 +1,5 @@
 #BIODIVERSKRIPSI TAXONOMY BACKBONE
-
+library("tidyverse")
 
 
 # HELPER FUNCTIONS
@@ -25,6 +25,21 @@ bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API'))]
 nrow(bio_bone)
 sum(is.na(bio_bone_new$GBIF_genus))
 
+#Bikin kolom baru kode univ ke bio_bone
+pattern_univ <- "(\\w+)-.*-[A-Z]{2}\\d{3}"
+univ<-c()
+for (i in bio_bone$occurrenceID) {
+  univ <- c(univ,str_match(i, pattern_univ)[2])
+}
+bio_bone$univCode <- univ
+#Cek
+#merged_data %>% select(occurrenceID,univCode)
+
+# COUNT UNIV
+univ_count <- plyr::count(bio_bone, "univCode")
+univ_count <- univ_count %>% filter(!is.na(univCode))
+univ_count
+sum(univ_count$freq)
 
 
 # DATA CLEANING
