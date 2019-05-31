@@ -194,11 +194,13 @@ univ_count <- univ_count %>% filter(!is.na(univCode))
 univ_count
 sum(univ_count$freq)
 
+
 #library(writexl)
 #write_xlsx(x = merged_data, path = "All Occurrences_20043_17 May.xlsx", col_names = TRUE)
 
+
 # Create + export barchart (TAXA)
-png("./output_figure/1a Taxa_20 May.png", width = 3000, height = 1500, units = 'px', res = 300)
+png("./output_figure/1a Taxa.png", width = 3000, height = 1500, units = 'px', res = 300)
 ggplot(taksa_count, aes(x=taksa_count$taxaCode, y=taksa_count$freq, fill=taksa_count$taxaCode)) +
   geom_bar(stat = "identity") +
   xlab("Taxa") + ylab("Occurrence") + theme(legend.position="right") +
@@ -210,7 +212,7 @@ dev.off()
 merged_data_taxayear <- merged_data[,c('taxaCode','publicationYear')]
 merged_data_taxayear <- merged_data_taxayear[complete.cases(merged_data_taxayear),]
 
-png("./output_figure/1b TaxaYear_20 May.png", width = 2000, height = 2000, units = 'px', res = 300)
+png("./output_figure/1b TaxaYear.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxayear, !is.na(merged_data_taxayear$taxaCode) || !is.na(merged_data_taxayear$publicationYear)), aes(publicationYear)) +
   geom_bar() + 
   facet_wrap( ~ taxaCode, ncol= 1) +
@@ -238,7 +240,7 @@ for (i in 1:nrow(merged_data)) {
 merged_data_taxaloc1 <- merged_data_taxaloc[,c('taxaCode','stateProvince')]
 merged_data_taxaloc1 <- merged_data_taxaloc1[complete.cases(merged_data_taxaloc1),]
 
-png("./output_figure/1c TaxaLocation_20 May.png", width = 2500, height = 2000, units = 'px', res = 300)
+png("./output_figure/1c TaxaLocation.png", width = 2500, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxaloc1, !is.na(merged_data_taxaloc1$taxaCode) || !is.na(merged_data_taxaloc1$stateProvince)), aes(stateProvince)) +
   geom_bar() + 
   facet_wrap( ~ taxaCode, ncol= 1) +
@@ -250,7 +252,7 @@ dev.off()
 merged_data_taxauniv <- merged_data[,c('taxaCode','univCode')]
 merged_data_taxauniv <- merged_data_taxauniv[complete.cases(merged_data_taxauniv),]
 
-png("./output_figure/1d TaxaUniv_20 May.png", width = 2000, height = 2000, units = 'px', res = 300)
+png("./output_figure/1d TaxaUniv.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxauniv, !is.na(merged_data_taxauniv$taxaCode) || !is.na(merged_data_taxauniv$univCode)), aes(univCode)) +
   geom_bar() + 
   facet_wrap( ~ taxaCode, ncol= 1) +
@@ -263,7 +265,7 @@ dev.off()
 merged_data_univtaxa <- merged_data[,c('taxaCode','univCode')]
 merged_data_univtaxa <- merged_data_univtaxa[complete.cases(merged_data_univtaxa),]
 
-png("./output_figure/1d UniTaxa_20 May.png", width = 2000, height = 2000, units = 'px', res = 300)
+png("./output_figure/1d UnivTaxa.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univtaxa, !is.na(merged_data_univtaxa$univCode) || !is.na(merged_data_univtaxa$taxaCode)), aes(taxaCode)) +
   geom_bar() + 
   facet_wrap( ~ univCode, ncol= 1) +
@@ -275,7 +277,7 @@ dev.off()
 merged_data_univyear <- merged_data[,c('univCode','publicationYear')]
 merged_data_univyear <- merged_data_univyear[complete.cases(merged_data_univyear),]
 
-png("./output_figure/1e UnivYear_20 May.png", width = 2000, height = 2000, units = 'px', res = 300)
+png("./output_figure/1e UnivYear.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univyear, !is.na(merged_data_univyear$univCode) || !is.na(merged_data_univyear$publicationYear)), aes(publicationYear)) +
   geom_bar() + 
   facet_wrap( ~ univCode, ncol= 1) +
@@ -303,7 +305,7 @@ for (i in 1:nrow(merged_data)) {
 merged_data_univloc1 <- merged_data_univloc[,c('univCode','stateProvince')]
 merged_data_univloc1 <- merged_data_univloc1[complete.cases(merged_data_univloc1),]
 
-png("./output_figure/1f UnivLocation_20 May.png", width = 2000, height = 2000, units = 'px', res = 300)
+png("./output_figure/1f UnivLocation.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univloc1, !is.na(merged_data_univloc1$univCode) || !is.na(merged_data_univloc1$stateProvince)), aes(stateProvince)) +
   geom_bar() + 
   facet_wrap( ~ univCode, ncol= 1) +
