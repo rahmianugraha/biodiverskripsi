@@ -25,6 +25,7 @@ bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API'))]
 nrow(bio_bone)
 sum(is.na(bio_bone_new$GBIF_genus))
 
+
 #Bikin kolom baru kode univ ke bio_bone
 pattern_univ <- "(\\w+)-.*-[A-Z]{2}\\d{3}"
 univ<-c()
@@ -33,7 +34,7 @@ for (i in bio_bone$occurrenceID) {
 }
 bio_bone$univCode <- univ
 #Cek
-#merged_data %>% select(occurrenceID,univCode)
+#bio_bone %>% select(occurrenceID,univCode)
 
 # COUNT UNIV
 univ_count <- plyr::count(bio_bone, "univCode")
@@ -47,8 +48,9 @@ sum(univ_count$freq)
 # SCIENTIFICNAME
 ##
 # Abnormal data cases:
-# 0. Ada p. and . (dot) di akhir X > cleanup | DONE
-# 1. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
+
+# 0. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
+# 1. Ada p. and . (dot) di akhir X > cleanup | DONE
 # 2. Ada 3 kata, kata ke-3 huruf besar V > hapus author
 # 3. Ada angka X > hapus angka, cek taxonnya di skripsi
 # 4. Ada tanda kurung di spesies V > ignore | DONE
@@ -96,6 +98,7 @@ check.invalid.scientific.names <- function() {
 }
 check.invalid.scientific.names() # we know that 113 scientific names are still invalid
 
+
 # Cleaning 1
 # Check for anything ended with p. and . (dot) on scientificName field
 grep("^[A-Za-z ]+p\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
@@ -103,8 +106,13 @@ grep("^[A-Za-z ]+\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
 # Remove p. and . (dot)
 bio_bone$scientificName <- trimws(gsub("^([A-Za-z ]+)p\\.$", '\\1', bio_bone$scientificName))
 bio_bone$scientificName <- trimws(gsub("^([A-Za-z ]+)\\.$", '\\1', bio_bone$scientificName))
+
 # Cleaning 2
-# TODO: here
+# Check "Ada 3 kata, kata ke-3 huruf besar" on scientificName field
+grep("^[A-Za-z]+\\s[a-z]+\\s[A-Z](?:[a-z]+)?$", bio_bone$scientificName, perl=TRUE, value=TRUE)
+# Remove all with capital letter on the third word
+bio_bone$scientificName <- trimws(gsub("^([A-Za-z]+\\s[a-z]+)\\s[A-Z](?:[a-z]+)?$", '\\1', bio_bone$scientificName))
+
 # Cleaning 3
 # TODO: here
 # Cleaning 5
