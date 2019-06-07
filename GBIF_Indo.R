@@ -9,7 +9,6 @@ firstup <- function(x) {
 }
 
 
-
 # IMPORT DATA
 library(readxl)
 bio_bone <- read_excel('All-Occurrences_20043_wo_sp.xlsx')
@@ -25,113 +24,6 @@ bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API'))]
 nrow(bio_bone)
 sum(is.na(bio_bone_new$GBIF_genus))
 
-
-#Bikin kolom baru kode univ ke bio_bone
-pattern_univ <- "(\\w+)-.*-[A-Z]{2}\\d{3}"
-univ<-c()
-for (i in bio_bone$occurrenceID) {
-  univ <- c(univ,str_match(i, pattern_univ)[2])
-}
-bio_bone$univCode <- univ
-#Cek
-#bio_bone %>% select(occurrenceID,univCode)
-
-# COUNT UNIV
-univ_count <- plyr::count(bio_bone, "univCode")
-univ_count <- univ_count %>% filter(!is.na(univCode))
-univ_count
-sum(univ_count$freq)
-
-
-# DATA CLEANING
-
-# SCIENTIFICNAME
-##
-# Abnormal data cases:
-
-# 0. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
-# 1. Ada p. and . (dot) di akhir X > cleanup | DONE
-# 2. Ada 3 kata, kata ke-3 huruf besar V > hapus author
-# 3. Ada angka X > hapus angka, cek taxonnya di skripsi
-# 4. Ada tanda kurung di spesies V > ignore | DONE
-# 5. Ada tanda kurung di genus X  > fix taxonRank
-# 6. Ada titik di tengah X > cek skripsi
-# 7. Ada dash di tengah V > ignore | DONE
-# 8. Ada dash di akhir V > hapus dashnya | DONE
-# 9. Ada L X > hapus L nya
-# 10. Ada cf ditengah V > kasih titik setelah cf | DONE
-# 11. Ada typos X > cek internet (Harpegnatus, Harbonatus, Calcotropis)
-##
-
-# Check for invalid rows
-normal.subspecies.rows <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+\\s(?!cf)[A-Za-z]+\\s[a-z]+$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-normal.species.rows <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+\\s[A-Za-z]+(?:\\-[a-z]+)?$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-normal.genus.rows <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-species.rows.with.brackets <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+\\s\\([A-Za-z]+\\)\\s[A-Za-z]+$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-species.rows.with.cfs <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+\\scf\\.\\s[a-z]+$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-check.invalid.scientific.names <- function() {
-  # V and "ignore" abnormal cases will be placed here
-  na_rows <- which(is.na(bio_bone$scientificName))
-  print(paste('NA:', length(na_rows)))
-  print(paste('Subspecies:', length(normal.subspecies.rows())))
-  print(paste('Species:', length(normal.species.rows()) + length(species.rows.with.brackets()) + length(species.rows.with.cfs())))
-  print(paste('Genus:', length(normal.genus.rows())))
-  print('INVALID DATA:')
-  bio_bone$scientificName[-c(
-    na_rows,
-    normal.subspecies.rows(),
-    normal.species.rows(),
-    normal.genus.rows(),
-    species.rows.with.brackets(),
-    species.rows.with.cfs()
-  )]
-}
-check.invalid.scientific.names() # we know that 113 scientific names are still invalid
-
-
-# Cleaning 1
-# Check for anything ended with p. and . (dot) on scientificName field
-grep("^[A-Za-z ]+p\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
-grep("^[A-Za-z ]+\\.$", bio_bone$scientificName, perl=TRUE, value=TRUE)
-# Remove p. and . (dot)
-bio_bone$scientificName <- trimws(gsub("^([A-Za-z ]+)p\\.$", '\\1', bio_bone$scientificName))
-bio_bone$scientificName <- trimws(gsub("^([A-Za-z ]+)\\.$", '\\1', bio_bone$scientificName))
-
-# Cleaning 2
-# Check "Ada 3 kata, kata ke-3 huruf besar" on scientificName field
-grep("^[A-Za-z]+\\s[a-z]+\\s[A-Z](?:[a-z]+)?$", bio_bone$scientificName, perl=TRUE, value=TRUE)
-# Remove all with capital letter on the third word
-bio_bone$scientificName <- trimws(gsub("^([A-Za-z]+\\s[a-z]+)\\s[A-Z](?:[a-z]+)?$", '\\1', bio_bone$scientificName))
-
-# Cleaning 3
-# TODO: here
-# Cleaning 5
-# TODO: here
-# Cleaning 6
-# TODO: here
-# Cleaning 8
-bio_bone$scientificName <- trimws(gsub("^([A-Za-z ]+)--$", '\\1', bio_bone$scientificName))
-# Cleaning 9
-# TODO: here
-# Cleaning 10
-bio_bone$scientificName <- trimws(gsub("^([A-Za-z]+\\s)cf(\\s[A-Za-z]+)$", '\\1cf.\\2', bio_bone$scientificName))
-cf.with.uppercase.species <- function(value = FALSE) {
-  return(grep("^[A-Za-z]+\\scf\\.?\\s[A-Z][a-z]+$", bio_bone$scientificName, perl=TRUE, value=value))
-}
-bio_bone$scientificName[cf.with.uppercase.species()] <- firstup(tolower((cf.with.uppercase.species(TRUE))))
-# Cleaning 11
-# TODO: here
-
 # TAXONRANK
 bio_bone$taxonRank[normal.subspecies.rows()]
 bio_bone$taxonRank[normal.subspecies.rows()] <- rep('Subspecies', length(bio_bone$taxonRank[normal.subspecies.rows()]))
@@ -142,7 +34,6 @@ bio_bone$taxonRank[species.rows.with.cfs()]
 # TODO: FIX CF TAXONRANK
 
 check.invalid.scientific.names() # all scientific names must be cleaned up
-
 
 
 # DATA PROCESSING
@@ -265,7 +156,6 @@ dev.off()
 
 #GBIF_Location
 library(car)
-library(carData)
 unique(gbif_indo$stateProvince)
 gbif_indo$stateProvince <- car::recode(gbif_indo$stateProvince, "'Jawa Barat'= 'West Java'")
 gbif_indo$stateProvince <- car::recode(gbif_indo$stateProvince, "'Sulawesi Selatan'= 'South Sulawesi'")
