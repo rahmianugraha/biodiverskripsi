@@ -68,6 +68,10 @@ for (i in bio_data1$parentEventID) {
     print(i)
   }
 }
+# Recode wrong parentEventID format
+library(car)
+bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'IPB-2011-AT-MF023'= 'IPB-2011AT-MF023'")
+
 
 # EVENTID CLEANING
 pattern_eventID <- "(\\w+-2\\d{3}\\w{2}-\\w{2}\\d{3}-.+)"
@@ -77,7 +81,6 @@ for (i in bio_data2$eventID) {
     print(i)
   }
 }
-
 #Know the differences
 setdiff(bio_data1$eventID, bio_data2$eventID)
 setdiff(bio_data2$eventID, bio_data1$eventID)
@@ -109,7 +112,6 @@ for (i in bio_data1$occurrenceID) {
 
 
 # STATEPROVINCE CLEANING
-library(car)
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('central kalimantan', 'Kalimantan Tengah', 'Central Borneo')= 'Central Kalimantan'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'West java'= 'West Java'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Special Region of Yogyakarta', 'Daerah Istimewa Yogyakarta')= 'D.I.Yogyakarta'")
@@ -135,7 +137,6 @@ summary(bio_data1$stateProvince)
 
 #Merged Sheet 1 & Sheet 2
 merged_data <- merge(unique(bio_data1), bio_data2, by = "eventID", incomparables = NA)
-
 # CHECK DUPLICATE
 merged_data <- merged_data %>% distinct()
 
@@ -195,10 +196,146 @@ univ_count
 sum(univ_count$freq)
 
 
+# DATA CLEANING
+
+# SCIENTIFICNAME
+##
+# Abnormal data cases:
+
+# 0. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
+# 1. Ada tanda kurung, double space pada spesies x, dan titik pada genus x > cleanup | DONE
+# 2. Ada kata setelah genus yang membuat genusnya tidak jelas > cleanup | DONE
+# 3. Ada kombinasi sp., sp ., Sp., dan spp. setelah genus X > cleanup | DONE
+# 4. Ada sp. setelah genus tanpa spasi > cleanup | DONE
+# 5. Ada 3 kata, kata ke-3 huruf besar V > hapus author | DONE
+# 6. Ada L X > hapus L nya | DONE (digabung dengan cleaning poin 5)
+# 7. Ada angka X > copy ke kolom remarks, hapus angka x beserta kombinasi sp.nya | DONE
+# 8. Ada jenis yang tidak teridentifikasi > ubah jadi "Plantae" | DONE
+# 9. Ada tanda kurung di spesies V > ignore | DONE
+# 10. Ada dash di tengah V > ignore | DONE
+# 11. Ada dash di akhir V > hapus dashnya | DONE
+# 12. Ada cf ditengah V > kasih titik setelah cf | DONE
+# 13. Ada typos X > cek internet (Harpegnatus, Harbonatus, Calcotropis)
+##
+
+# Check for invalid rows
+normal.subspecies.rows <- function(value = FALSE) {
+  return(grep("^[A-Za-z]+\\s(?!cf)[A-Za-z]+\\s[a-z]+$", merged_data$scientificName, perl=TRUE, value=value))
+}
+normal.species.rows <- function(value = FALSE) {
+  return(grep("^[A-Za-z]+\\s[A-Za-z]+(?:\\-[a-z]+)?$", merged_data$scientificName, perl=TRUE, value=value))
+}
+normal.genus.rows <- function(value = FALSE) {
+  return(grep("\\b(?!Plantae)^[A-Za-z]+$", merged_data$scientificName, perl=TRUE, value=value))
+}
+normal.kingdom.rows <- function(value = FALSE) {
+  return(grep("Plantae", merged_data$scientificName, perl = TRUE, value = value))
+}
+species.rows.with.brackets <- function(value = FALSE) {
+  return(grep("^[A-Za-z]+\\s\\([A-Za-z]+\\)\\s[A-Za-z]+$", merged_data$scientificName, perl=TRUE, value=value))
+}
+species.rows.with.cfs <- function(value = FALSE) {
+  return(grep("^[A-Za-z]+\\scf\\.\\s[a-z]+$", merged_data$scientificName, perl=TRUE, value=value))
+}
+check.invalid.scientific.names <- function() {
+  # V and "ignore" abnormal cases will be placed here
+  na_rows <- which(is.na(merged_data$scientificName))
+  print(paste('NA:', length(na_rows)))
+  print(paste('Subspecies:', length(normal.subspecies.rows())))
+  print(paste('Species:', length(normal.species.rows()) + length(species.rows.with.brackets()) + length(species.rows.with.cfs())))
+  print(paste('Genus:', length(normal.genus.rows())))
+  print(paste('Kingdom:', length(normal.kingdom.rows())))
+  print('INVALID DATA:')
+  merged_data$scientificName[-c(
+    na_rows,
+    normal.subspecies.rows(),
+    normal.species.rows(),
+    normal.genus.rows(),
+    normal.kingdom.rows(),
+    species.rows.with.brackets(),
+    species.rows.with.cfs()
+  )]
+}
+check.invalid.scientific.names() # we know that 2939 scientific names are still invalid
+
+
+# Cleaning 1
+# Recode words that have brackets, double space on species x, and dot (.) on genus x
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Balanus sp. (Nauplius)'= 'Balanus'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Palaquium  burckii'= 'Palaquium burckii'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Hylarana  chalconota'= 'Hylarana chalconota'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Didymoplexis  pallens'= 'Didymoplexis pallens'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Diadema  Savignyi', 'Diadema  savignyi')= 'Diadema savignyi'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Chaetodon  triangulum'= 'Chaetodon triangulum'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'C.cyperoides'= 'Cyperus cyperoides'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'E.crusgalli'= 'Echinochloa crusgalli'")
+
+# Cleaning 2
+# Recode uncorrect genus
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Steatoda Sp.male'= 'Steatoda Sp.'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Pardosa Sp.el'= 'Pardosa Sp.'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Pardosael', 'Pardosae')= 'Pardosa'")
+
+# Cleaning 3
+# Check for anything ended with sp., sp ., Sp., and spp.
+grep("^[A-Za-z]+\\s{1,2}[Ss]?p{1,2}\\s?\\.$", merged_data$scientificName, perl=TRUE, value=TRUE)
+# Remove sp., sp ., Sp., and spp.
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s{1,2}[Ss]?p{1,2}\\s?\\.$", '\\1', merged_data$scientificName))
+
+# Cleaning 4
+# Check for genus and sp. without space
+grep("^[A-Za-z]+sp\\.$", merged_data$scientificName, perl=TRUE, value=TRUE)
+# Remove sp.
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)sp\\.$", '\\1', merged_data$scientificName))
+
+# Check for anything ended with p. and . (dot)
+grep("^[A-Za-z ]+p\\.$", merged_data$scientificName, perl=TRUE, value=TRUE)
+grep("^[A-Za-z ]+\\.$", merged_data$scientificName, perl=TRUE, value=TRUE)
+
+# Cleaning 5 and 6
+# Check "Ada 3 kata, kata ke-3 huruf besar" on scientificName field
+grep("^[A-Za-z]+\\s[a-z]+\\s[A-Z](?:[a-z]+)?$", merged_data$scientificName, perl=TRUE, value=TRUE)
+grep("^[A-Za-z]+\\s[a-z]+\\s[A-Z]\\.[A-Z]?(?:.[A-Z][a-z])?(?:[a-z])?$", merged_data$scientificName, perl=TRUE, value=TRUE)
+# Remove all with capital letter on the third word
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+\\s[a-z]+)\\s[A-Z](?:[a-z]+)?$", '\\1', merged_data$scientificName))
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+\\s[a-z]+)\\s[A-Z]\\.[A-Z]?(?:.[A-Z][a-z])?(?:[a-z])?$", '\\1', merged_data$scientificName))
+
+# Cleaning 7
+# Check anything with number on scientificName field > make a variable
+sp_number <- grep("^[A-Za-z]+\\s?[Ss]?p?\\.?\\s?\\.?[A-Za-z]?\\d\\.?$", merged_data$scientificName, perl=TRUE)
+# Copy anything with number on scientificName field to remarks field
+merged_data$remarks[sp_number] <- merged_data$scientificName[sp_number]
+# Check unidentified species
+grep("^[A-Za-z]+\\s\\d$", merged_data$scientificName, perl=TRUE, value = TRUE)
+# Check anything with number on scientificName field
+grep("^[A-Za-z]+\\s?[Ss]?p?\\.?\\s?\\.?[A-Za-z]?\\d\\.?$", merged_data$scientificName, perl=TRUE, value = TRUE)
+# Remove number and words with number on scientificName field
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s?[Ss]?p?\\.?\\s?\\.?[A-Za-z]?\\d\\.?$", '\\1', merged_data$scientificName))
+
+# Cleaning 8
+# Recode unidentified species to "Plantae"
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfospesies', 'Rumput', 'Paku')= 'Plantae'")
+
+# Cleaning 11
+# Remove -- in the end
+merged_data$scientificName <- trimws(gsub("^([A-Za-z ]+)--$", '\\1', merged_data$scientificName))
+
+# Cleaning 12
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+\\s)cf(\\s[A-Za-z]+)$", '\\1cf.\\2', merged_data$scientificName))
+cf.with.uppercase.species <- function(value = FALSE) {
+  return(grep("^[A-Za-z]+\\scf\\.?\\s[A-Z][a-z]+$", merged_data$scientificName, perl=TRUE, value=value))
+}
+merged_data$scientificName[cf.with.uppercase.species()] <- firstup(tolower((cf.with.uppercase.species(TRUE))))
+
+# Cleaning 13
+# TODO: here
+
+
 #library(writexl)
 #write_xlsx(x = merged_data, path = "All Occurrences_20043_17 May.xlsx", col_names = TRUE)
 
 
+# VISUALIZATION
 # Create + export barchart (TAXA)
 png("./output_figure/1a Taxa.png", width = 3000, height = 1500, units = 'px', res = 300)
 ggplot(taksa_count, aes(x=taksa_count$taxaCode, y=taksa_count$freq, fill=taksa_count$taxaCode)) +
