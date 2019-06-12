@@ -59,7 +59,7 @@ for (i in bio_data2$occurrenceID) {
 bio_data2$occurrenceID <- temp_occ1
 
 
-library("tidyverse")
+library(tidyverse)
 # PARENTEVENTID CLEANING
 pattern_parentEventID <- "(\\w+-2\\d{3}\\w{2}-\\w{2}\\d{3})"
 for (i in bio_data1$parentEventID) {
@@ -257,7 +257,7 @@ check.invalid.scientific.names <- function() {
   )]
 }
 check.invalid.scientific.names() # we know that 2939 scientific names are still invalid
-
+which(merged_data$scientificName == "-")
 
 # Cleaning 1
 # Recode words that have brackets, double space on species x, and dot (.) on genus x
@@ -314,7 +314,7 @@ merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s?[Ss]?p?\\.?\\s?\\.?[A
 
 # Cleaning 8
 # Recode unidentified species to "Plantae"
-merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfospesies', 'Rumput', 'Paku')= 'Plantae'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfospesies', 'Rumput', 'Paku', '-')= 'Plantae'")
 
 # Cleaning 11
 # Remove -- in the end
@@ -328,11 +328,14 @@ cf.with.uppercase.species <- function(value = FALSE) {
 merged_data$scientificName[cf.with.uppercase.species()] <- firstup(tolower((cf.with.uppercase.species(TRUE))))
 
 # Cleaning 13
-# TODO: here
+# Recode typos
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Harpegnatus'= 'Harpegnathos'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Harbonatus'= 'Habronattus'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Calcotropis'= 'Calotropis'")
 
 
-#library(writexl)
-#write_xlsx(x = merged_data, path = "All Occurrences_20043_17 May.xlsx", col_names = TRUE)
+library(writexl)
+write_xlsx(x = merged_data, path = "All Occurrences_20043_scientificName clean.xlsx", col_names = TRUE)
 
 
 # VISUALIZATION

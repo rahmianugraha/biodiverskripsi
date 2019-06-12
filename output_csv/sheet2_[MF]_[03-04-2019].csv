@@ -1,0 +1,689 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN001,Human Observation,2016-02/2016-03,Animalia,Lampides boeticus,Species,,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN002,Human Observation,2016-02/2016-03,Animalia,Jamides tiglath,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN003,Human Observation,2016-02/2016-03,Animalia,Jamides celeno,Species,,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN004,Human Observation,2016-02/2016-03,Animalia,Neptis cliniodes,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN005,Human Observation,2016-02/2016-03,Animalia,Hypolimnas bolina,Species,,,,,,20,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN006,Human Observation,2016-02/2016-03,Animalia,Lethe confusa,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN007,Human Observation,2016-02/2016-03,Animalia,Junonia almana,Species,,,,,,2,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN008,Human Observation,2016-02/2016-03,Animalia,Atyina nefre,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN009,Human Observation,2016-02/2016-03,Animalia,Euploea eunice,Species,,,,,,5,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN010,Human Observation,2016-02/2016-03,Animalia,Ideopsis vulgaris,Species,,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN011,Human Observation,2016-02/2016-03,Animalia,Euploea climena,Species,,,,,,5,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN012,Human Observation,2016-02/2016-03,Animalia,Danaus chrysippus,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN013,Human Observation,2016-02/2016-03,Animalia,Neptis hylas,Species,,,,,,2,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN014,Human Observation,2016-02/2016-03,Animalia,Euploea mulciber,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN015,Human Observation,2016-02/2016-03,Animalia,Papilio helenus,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN016,Human Observation,2016-02/2016-03,Animalia,Pachliopta aristolochiae,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN017,Human Observation,2016-02/2016-03,Animalia,Papilio memnon,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN018,Human Observation,2016-02/2016-03,Animalia,Graphium sarpedon,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN019,Human Observation,2016-02/2016-03,Animalia,Papilio demoleus,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN020,Human Observation,2016-02/2016-03,Animalia,Graphium agamemnon,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN021,Human Observation,2016-02/2016-03,Animalia,Papilio polytes,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN022,Human Observation,2016-02/2016-03,Animalia,Eurema sp.,Genus,,,,,,54,Individuals,,Present,
+IPB-2017RP-MF025-AM001,IPB-2017RP-MF025-AM001-TN023,Human Observation,2016-02/2016-03,Animalia,Catopsilia pomona,Species,,,,,,63,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN024,Human Observation,2016-02/2016-03,Animalia,Jamides tiglath,Species,,,,,,4,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN025,Human Observation,2016-02/2016-03,Animalia,Lampides boeticus,Species,,,,,,4,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN026,Human Observation,2016-02/2016-03,Animalia,Danaus chrysippus,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN027,Human Observation,2016-02/2016-03,Animalia,Euploea mulciber,Species,,,,,,6,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN028,Human Observation,2016-02/2016-03,Animalia,Hypolimnas bolina,Species,,,,,,5,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN029,Human Observation,2016-02/2016-03,Animalia,Ideopsis vulgaris,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN030,Human Observation,2016-02/2016-03,Animalia,Junonia orithya,Species,,,,,,4,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN031,Human Observation,2016-02/2016-03,Animalia,Catopsilia pomona,Species,,,,,,61,Individuals,,Present,
+IPB-2017RP-MF025-AG002,IPB-2017RP-MF025-AG002-TN032,Human Observation,2016-02/2016-03,Animalia,Eurema sp.,Genus,,,,,,17,Individuals,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN033,Human Observation,2016-02/2016-03,Animalia,Leptosia nina,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN034,Human Observation,2016-02/2016-03,Animalia,Euploea eunice,Species,,,,,,2,Individuals,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN035,Human Observation,2016-02/2016-03,Animalia,Junonia hedonia,Species,,,,,,5,Individuals,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN036,Human Observation,2016-02/2016-03,Animalia,Hypolimnas bolina,Species,,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN037,Human Observation,2016-02/2016-03,Animalia,Ideopsis vulgaris,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN038,Human Observation,2016-02/2016-03,Animalia,Troides helena,Species,,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN039,Human Observation,2016-02/2016-03,Animalia,Catopsilia pomona,Species,,,,,,43,Individuals,,Present,
+IPB-2017RP-MF025-TA003,IPB-2017RP-MF025-TA003-TN040,Human Observation,2016-02/2016-03,Animalia,Eurema sp.,Genus,,,,,,36,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM001,Human Observation,2016-02/2016-03,Plantae,Lantana camara,Species,Tahi ayam,,,,,73,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM002,Human Observation,2016-02/2016-03,Plantae,Melastoma affine,Species,Harendong,,,,,22,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM003,Human Observation,2016-02/2016-03,Plantae,Calliandra haematocephala,Species,Kaliandra,,,,,17,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM004,Human Observation,2016-02/2016-03,Plantae,Imperata cylindrica Raesuch,Species,Rumput Matico,,,,,43,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM005,Human Observation,2016-02/2016-03,Plantae,Piper aduncum,Species,Matico,,,,,23,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM006,Human Observation,2016-02/2016-03,Plantae,Stachytarpheta jamaicensis,Species,Pecut kuda,,,,,12,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM007,Human Observation,2016-02/2016-03,Plantae,Eupatorium riparium,Species,Irengan,,,,,18,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM008,Human Observation,2016-02/2016-03,Plantae,Plectranthus cf. Monostachyus,Genus,Miana,,,,,12,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM009,Human Observation,2016-02/2016-03,Plantae,Eupatorium inufolium kunth,Species,Kirinyuh,,,,,27,Individuals,,Present,
+IPB-2017RP-MF025-VM004,IPB-2017RP-MF025-VM004-EM010,Human Observation,2016-02/2016-03,Plantae,Ageratum conyzoides,Species,Badotan,,,,,13,Individuals,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM011,Human Observation,2016-02/2016-03,Plantae,Wedelia biflora,Species,Wedelia,,,,,8,Individuals,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM012,Human Observation,2016-02/2016-03,Plantae,Mimosa pudica,Species,Puti malu,,,,,18,Individuals,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM013,Human Observation,2016-02/2016-03,Plantae,Callandra haematocephala,Species,Kaliandra,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM014,Human Observation,2016-02/2016-03,Plantae,Stachytarpheta jamaicensis,Species,Pecut kuda,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM015,Human Observation,2016-02/2016-03,Plantae,Plectranthus cf. Monostachyus,Genus,Miana,,,,,1,Individual,,Present,
+IPB-2017RP-MF025-VG005,IPB-2017RP-MF025-VG005-EM016,Human Observation,2016-02/2016-03,Plantae,Eupatorium inufolium Kunth,Species,Kirinyuh,,,,,3,Individuals,,Present,
+IPB-2017RP-MF025-VT006,IPB-2017RP-MF025-VT006-EM017,Human Observation,2016-02/2016-03,Plantae,Imperata cylindrica,Species,Ilalang,,,,,29,Individuals,,Present,
+IPB-2017RP-MF025-VT006,IPB-2017RP-MF025-VT006-EM018,Human Observation,2016-02/2016-03,Plantae,Synedrella nodiflora,Species,Glentang warak,,,,,58,Individuals,,Present,
+IPB-2017RP-MF025-VT006,IPB-2017RP-MF025-VT006-EM019,Human Observation,2016-02/2016-03,Plantae,Acacia decurens,Species,Akasia,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN001,Human Observation,2017-06/2017-07,Animalia,Papilio memnon,Species,,,,,,7,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN002,Human Observation,2017-06/2017-07,Animalia,Graphium agamemnon,Species,,,,,,5,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN003,Human Observation,2017-06/2017-07,Animalia,Troides helena,Species,,,,,,5,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN004,Human Observation,2017-06/2017-07,Animalia,Papilio helenus,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN005,Human Observation,2017-06/2017-07,Animalia,Papilio polytes,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN006,Human Observation,2017-06/2017-07,Animalia,Graphium sarpedon,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN007,Human Observation,2017-06/2017-07,Animalia,Junonia iphita,Species,,,,,,14,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN008,Human Observation,2017-06/2017-07,Animalia,Faunis canens,Species,,,,,,10,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN009,Human Observation,2017-06/2017-07,Animalia,Lethe confusa godana,Species,,,,,,9,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN010,Human Observation,2017-06/2017-07,Animalia,Mycalesis horsefieldii,Species,,,,,,6,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN011,Human Observation,2017-06/2017-07,Animalia,Ypthima nigricans,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN012,Human Observation,2017-06/2017-07,Animalia,Cyrestis lutea lutea,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN013,Human Observation,2017-06/2017-07,Animalia,Melanitis phedima,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN014,Human Observation,2017-06/2017-07,Animalia,Junonia atlites,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN015,Human Observation,2017-06/2017-07,Animalia,Mycalesis mineus,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN016,Human Observation,2017-06/2017-07,Animalia,Elymnias panthera,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN017,Human Observation,2017-06/2017-07,Animalia,Ypthima baldus horsefieldi,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN018,Human Observation,2017-06/2017-07,Animalia,Symbrenthia anna,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN019,Human Observation,2017-06/2017-07,Animalia,Junonia hedonia,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN020,Human Observation,2017-06/2017-07,Animalia,Tanaecia palgura,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN021,Human Observation,2017-06/2017-07,Animalia,Jamides celeno,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN022,Human Observation,2017-06/2017-07,Animalia,Pithecops corvus,Species,,,,,,11,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN023,Human Observation,2017-06/2017-07,Animalia,Prosotas gracilis,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN024,Human Observation,2017-06/2017-07,Animalia,Jamides pura,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN025,Human Observation,2017-06/2017-07,Animalia,Ponskina plateni,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN026,Human Observation,2017-06/2017-07,Animalia,Yasoda pita,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN027,Human Observation,2017-06/2017-07,Animalia,Poriskina philota,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN028,Human Observation,2017-06/2017-07,Animalia,Euchrypsos cnejus,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN029,Human Observation,2017-06/2017-07,Animalia,Allotiuus drumila,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN030,Human Observation,2017-06/2017-07,Animalia,Eurema blanda,Species,,,,,,12,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN031,Human Observation,2017-06/2017-07,Animalia,Leptosia nina,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN032,Human Observation,2017-06/2017-07,Animalia,Eurema sari,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN033,Human Observation,2017-06/2017-07,Animalia,Eurema hecabe,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN034,Human Observation,2017-06/2017-07,Animalia,Eurema alitha,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN035,Human Observation,2017-06/2017-07,Animalia,Erinota thrax,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KE001,IPB-2017MZ-MF026-KE001-TN036,Human Observation,2017-06/2017-07,Animalia,Cuphita purrea,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN037,Human Observation,2017-06/2017-07,Animalia,Graphium sarpedon,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN038,Human Observation,2017-06/2017-07,Animalia,Papilio memnon,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN039,Human Observation,2017-06/2017-07,Animalia,Troides helena,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN040,Human Observation,2017-06/2017-07,Animalia,Mycalesis horsefieldii,Species,,,,,,7,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN041,Human Observation,2017-06/2017-07,Animalia,Mycalesis moorei,Species,,,,,,7,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN042,Human Observation,2017-06/2017-07,Animalia,Tanaecia japis,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN043,Human Observation,2017-06/2017-07,Animalia,Lethe confusa godana,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN044,Human Observation,2017-06/2017-07,Animalia,Melanitis leda simessa,Species,,,,,,3,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN045,Human Observation,2017-06/2017-07,Animalia,Faunis canens,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN046,Human Observation,2017-06/2017-07,Animalia,Athyma nefte,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN047,Human Observation,2017-06/2017-07,Animalia,Thaumantis odana,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN048,Human Observation,2017-06/2017-07,Animalia,Euploea medura,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN049,Human Observation,2017-06/2017-07,Animalia,Mycalesis oroatis,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN050,Human Observation,2017-06/2017-07,Animalia,Ypthima pandocus,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN051,Human Observation,2017-06/2017-07,Animalia,Erites argentina frushtoferi,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN052,Human Observation,2017-06/2017-07,Animalia,Zizina otis,Species,,,,,,5,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN053,Human Observation,2017-06/2017-07,Animalia,Pithecops corvus,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN054,Human Observation,2017-06/2017-07,Animalia,Zizina karsandra,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN055,Human Observation,2017-06/2017-07,Animalia,Jamides pura,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN056,Human Observation,2017-06/2017-07,Animalia,Prosotas dubiosa,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN057,Human Observation,2017-06/2017-07,Animalia,Chilides lajus,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN058,Human Observation,2017-06/2017-07,Animalia,Appias olferna,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN059,Human Observation,2017-06/2017-07,Animalia,Eurema sari,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN060,Human Observation,2017-06/2017-07,Animalia,Leptosia nina,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN061,Human Observation,2017-06/2017-07,Animalia,Cepora iudith,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN062,Human Observation,2017-06/2017-07,Animalia,Eurema blanda,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN063,Human Observation,2017-06/2017-07,Animalia,Eurema hecabe sankapura,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KD002,IPB-2017MZ-MF026-KD002-TN064,Human Observation,2017-06/2017-07,Animalia,Ampittia dioscorides,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN065,Human Observation,2017-06/2017-07,Animalia,Thaumantis odana,Species,,,,,,16,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN066,Human Observation,2017-06/2017-07,Animalia,Faunis canens,Species,,,,,,10,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN067,Human Observation,2017-06/2017-07,Animalia,Erites argentina frushtoferi,Species,,,,,,8,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN068,Human Observation,2017-06/2017-07,Animalia,Mycalesis moorei,Species,,,,,,5,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN069,Human Observation,2017-06/2017-07,Animalia,Ypthima baldus horsefieldi,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN070,Human Observation,2017-06/2017-07,Animalia,Mycalesis janardana,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN071,Human Observation,2017-06/2017-07,Animalia,Mycalesis perseus cepheus,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN072,Human Observation,2017-06/2017-07,Animalia,Erites medura medura,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN073,Human Observation,2017-06/2017-07,Animalia,Mycalesis oroatis,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN074,Human Observation,2017-06/2017-07,Animalia,Mycalesis horsefieldii,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN075,Human Observation,2017-06/2017-07,Animalia,Jamides alecto,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN076,Human Observation,2017-06/2017-07,Animalia,Lampides boeticus,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN077,Human Observation,2017-06/2017-07,Animalia,Miletus boisduvali,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN078,Human Observation,2017-06/2017-07,Animalia,Eurema sari,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN079,Human Observation,2017-06/2017-07,Animalia,Catopsilia pyranthe,Species,,,,,,1,Individual,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN080,Human Observation,2017-06/2017-07,Animalia,Tercatocera archias,Species,,,,,,4,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN081,Human Observation,2017-06/2017-07,Animalia,Suastus gremius,Species,,,,,,2,Individuals,,Present,
+IPB-2017MZ-MF026-KS003,IPB-2017MZ-MF026-KS003-TN082,Human Observation,2017-06/2017-07,Animalia,Erionota thrax,Species,,,,,,1,Individual,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM001,Human Observation,2017-06/2017-07,Plantae,Selaginella plana,Species,,,,,,47,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM002,Human Observation,2017-06/2017-07,Plantae,Centela asiatica,Species,,,,,,36,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM003,Human Observation,2017-06/2017-07,Plantae,Pennisetum purpureum,Species,,,,,,29,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM004,Human Observation,2017-06/2017-07,Plantae,Stachytarpheta jamaicensis,Species,,,,,,27,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM005,Human Observation,2017-06/2017-07,Plantae,Centhoteca lappacea,Species,,,,,,25,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM006,Human Observation,2017-06/2017-07,Plantae,Chromolaena odorata,Species,,,,,,23,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM007,Human Observation,2017-06/2017-07,Plantae,Macaranga sp.,Species,,,,,,22,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM008,Human Observation,2017-06/2017-07,Plantae,Medinilla speciosa,Species,,,,,,12,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM009,Human Observation,2017-06/2017-07,Plantae,Datura fastuosa,Species,,,,,,12,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM010,Human Observation,2017-06/2017-07,Plantae,Callindra calothyrsus,Species,,,,,,12,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM011,Human Observation,2017-06/2017-07,Plantae,Ficus glandulifera,Species,,,,,,10,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM012,Human Observation,2017-06/2017-07,Plantae,Piperaceae adiantum,Species,,,,,,10,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM013,Human Observation,2017-06/2017-07,Plantae,Trichosanthes bracteata,Species,,,,,,7,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM014,Human Observation,2017-06/2017-07,Plantae,Coffea sp.,Genus,,,,,,6,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM015,Human Observation,2017-06/2017-07,Plantae,Schismatologottis calyptrata,Species,,,,,,4,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM016,Human Observation,2017-06/2017-07,Plantae,Engelhardia spicata,Species,,,,,,3,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM017,Human Observation,2017-06/2017-07,Plantae,Solanum torvum,Species,,,,,,3,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM018,Human Observation,2017-06/2017-07,Plantae,Callindra calothyrsus,Species,,,,,,10,Individuals,,Present,Pancang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM019,Human Observation,2017-06/2017-07,Plantae,Piperaceae adiantum,Species,,,,,,3,Individuals,,Present,Pancang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM020,Human Observation,2017-06/2017-07,Plantae,Chromolaena odorata,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM021,Human Observation,2017-06/2017-07,Plantae,Solanum torvum,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM022,Human Observation,2017-06/2017-07,Plantae,Schima walichii,Species,,,,,,3,Individuals,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM023,Human Observation,2017-06/2017-07,Plantae,Pinus merkusii,Species,,,,,,2,Individuals,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM024,Human Observation,2017-06/2017-07,Plantae,Tetenna laxifora,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM025,Human Observation,2017-06/2017-07,Plantae,Calliandra calothyrsus,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM026,Human Observation,2017-06/2017-07,Plantae,Cebreng,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM027,Human Observation,2017-06/2017-07,Plantae,Treina Orientalis,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM028,Human Observation,2017-06/2017-07,Plantae,Maesopsis eminii,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM029,Human Observation,2017-06/2017-07,Plantae,Persea americana,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM030,Human Observation,2017-06/2017-07,Plantae,Schefflera grandiflora,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM031,Human Observation,2017-06/2017-07,Plantae,Schima walichii,Species,,,,,,3,Individuals,,Present,Tiang
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM032,Human Observation,2017-06/2017-07,Plantae,Pinus merkusii,Species,,,,,,2,Individuals,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM033,Human Observation,2017-06/2017-07,Plantae,Tetenna laxifora,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM034,Human Observation,2017-06/2017-07,Plantae,Callindra calothyrsus,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM035,Human Observation,2017-06/2017-07,Plantae,Gliricidia sp.,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM036,Human Observation,2017-06/2017-07,Plantae,Trema orientalis,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM037,Human Observation,2017-06/2017-07,Plantae,Maesopsis eminii,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VE004,IPB-2017MZ-MF026-VE004-EM038,Human Observation,2017-06/2017-07,Plantae,Persea americana,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM039,Human Observation,2017-06/2017-07,Plantae,Selaginella plana,Species,,,,,,154,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM040,Human Observation,2017-06/2017-07,Plantae,Persea excelsa,Species,,,,,,29,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM041,Human Observation,2017-06/2017-07,Plantae,Jenis A,Famili,,,,,,13,Individuals,,Present,Tumbuhan bawah | Semai | Identification to family level
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM042,Human Observation,2017-06/2017-07,Plantae,Centhoteca lappacea,Species,,,,,,10,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM043,Human Observation,2017-06/2017-07,Plantae,Medinilla Speciosa,Species,,,,,,9,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM044,Human Observation,2017-06/2017-07,Plantae,Microstegium ciliatum,Species,,,,,,8,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM045,Human Observation,2017-06/2017-07,Plantae,Piper aduncum,Species,,,,,,7,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM046,Human Observation,2017-06/2017-07,Plantae,Oenanthe javanica,Species,,,,,,4,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM047,Human Observation,2017-06/2017-07,Plantae,Cycas rumphii,Species,,,,,,4,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM048,Human Observation,2017-06/2017-07,Plantae,Stachytarpheta jamaicensis,Species,,,,,,4,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM049,Human Observation,2017-06/2017-07,Plantae,Schefflera grandiflora,Species,,,,,,3,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM050,Human Observation,2017-06/2017-07,Plantae,Litsea cassiaefolia,Species,,,,,,3,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM051,Human Observation,2017-06/2017-07,Plantae,Prunus arborea,Species,,,,,,3,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM052,Human Observation,2017-06/2017-07,Plantae,Maesopsis eminii,Species,,,,,,2,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM053,Human Observation,2017-06/2017-07,Plantae,Disconia blumei,Species,,,,,,2,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM054,Human Observation,2017-06/2017-07,Plantae,Schima wallichii,Species,,,,,,2,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM055,Human Observation,2017-06/2017-07,Plantae,Amomum coccineum,Species,,,,,,2,Individuals,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VD005,IPB-2017MZ-MF026-VD005-EM056,Human Observation,2017-06/2017-07,Plantae,Pandanus amaryllifolius,Species,,,,,,1,Individual,,Present,Tumbuhan bawah | Semai
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM057,Human Observation,2017-06/2017-07,Plantae,Persea excelsa,Species,,,,,,3,Individuals,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM058,Human Observation,2017-06/2017-07,Plantae,Curculigo capitulata,Species,,,,,,3,Individuals,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM059,Human Observation,2017-06/2017-07,Plantae,Omalanthus populneus,Species,,,,,,2,Individuals,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM060,Human Observation,2017-06/2017-07,Plantae,Amomum coccineum,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM061,Human Observation,2017-06/2017-07,Plantae,Amomum pseudo-foetens,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM062,Human Observation,2017-06/2017-07,Plantae,Toxicodendron radicans,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM063,Human Observation,2017-06/2017-07,Plantae,Schefflera grandiflora,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM064,Human Observation,2017-06/2017-07,Plantae,piper aduncum,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM065,Human Observation,2017-06/2017-07,Plantae,Lagerstroemia laudonii,Species,,,,,,1,Individual,,Present,Pancang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM066,Human Observation,2017-06/2017-07,Plantae,Schima wallichii,Species,,,,,,2,Individuals,,Present,Tiang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM067,Human Observation,2017-06/2017-07,Plantae,Maesopsis eminii,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM068,Human Observation,2017-06/2017-07,Plantae,Cinnamomum burmanii,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM069,Human Observation,2017-06/2017-07,Plantae,Melia azedarach L.,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM070,Human Observation,2017-06/2017-07,Plantae,Altingia excelsa,Species,,,,,,1,Individual,,Present,Tiang
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM071,Human Observation,2017-06/2017-07,Plantae,Schima wallichii,Species,,,,,,31,Individuals,,Present,Pohon
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM072,Human Observation,2017-06/2017-07,Plantae,Pinus merkusii,Species,,,,,,31,Individuals,,Present,Pohon
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM073,Human Observation,2017-06/2017-07,Plantae,Maesopsis eminii,Species,,,,,,12,Individuals,,Present,Pohon
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM074,Human Observation,2017-06/2017-07,Plantae,Altingia excelsa,Species,,,,,,4,Individuals,,Present,Pohon
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM075,Human Observation,2017-06/2017-07,Plantae,Ficus benjamina L.,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017MZ-MF026-VS006,IPB-2017MZ-MF026-VS006-EM076,Human Observation,2017-06/2017-07,Plantae,Peronema canescens,Species,,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN001,Human Observation,2016-10-17/2016-11-17,Animalia,Losaria coon,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN002,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio demolion,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN003,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio memnon,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN004,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio peranthus,Species,,,,,,4,Individuals,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN005,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio polytes,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN006,Human Observation,2016-10-17/2016-11-17,Animalia,Capotsilia pomona,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN007,Human Observation,2016-10-17/2016-11-17,Animalia,Eurema sari,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN008,Human Observation,2016-10-17/2016-11-17,Animalia,Cupha erymanthis,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN009,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea radamanthus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN010,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea tulliolus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN011,Human Observation,2016-10-17/2016-11-17,Animalia,Lexias dirtea,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN012,Human Observation,2016-10-17/2016-11-17,Animalia,Melanitis leda,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN013,Human Observation,2016-10-17/2016-11-17,Animalia,Prothoe franck,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN014,Human Observation,2016-10-17/2016-11-17,Animalia,Jamides alecto,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN015,Human Observation,2016-10-17/2016-11-17,Animalia,Tongeia hainani,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-HM001,IPB-2017YS-MF027-HM001-TN016,Human Observation,2016-10-17/2016-11-17,Animalia,Zizula hylax,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN017,Human Observation,2016-10-17/2016-11-17,Animalia,Graphium agamemnon,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN018,Human Observation,2016-10-17/2016-11-17,Animalia,Losaria coon,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN019,Human Observation,2016-10-17/2016-11-17,Animalia,Pachiliopta aristolochiae,Species,,,,,,4,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN020,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio helenus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN021,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio peranthus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN022,Human Observation,2016-10-17/2016-11-17,Animalia,Capotsilia pomona,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN023,Human Observation,2016-10-17/2016-11-17,Animalia,Delias hyparete,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN024,Human Observation,2016-10-17/2016-11-17,Animalia,Cupha erymanthis,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN025,Human Observation,2016-10-17/2016-11-17,Animalia,Danaus chrysippus,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN026,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea camaralzeman,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN027,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea eunice,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN028,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea mulciber,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN029,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea tulliolus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN030,Human Observation,2016-10-17/2016-11-17,Animalia,Hypolimnas bolina,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN031,Human Observation,2016-10-17/2016-11-17,Animalia,Idea stoli,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN032,Human Observation,2016-10-17/2016-11-17,Animalia,Ideopsis juventa,Species,,,,,,9,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN033,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia almana,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN034,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia atlites,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN035,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia erigone,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN036,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia hedonia,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN037,Human Observation,2016-10-17/2016-11-17,Animalia,Neptis hylas,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN038,Human Observation,2016-10-17/2016-11-17,Animalia,Euchrysops cnejus,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN039,Human Observation,2016-10-17/2016-11-17,Animalia,Jamides celeno,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN040,Human Observation,2016-10-17/2016-11-17,Animalia,Tongeia hainani,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-PP002,IPB-2017YS-MF027-PP002-TN041,Human Observation,2016-10-17/2016-11-17,Animalia,Zizina otis,Species,,,,,,9,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN042,Human Observation,2016-10-17/2016-11-17,Animalia,Losaria coon,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN043,Human Observation,2016-10-17/2016-11-17,Animalia,Pachiliopta aristolochiae,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN044,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio peranthus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN045,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio polytes,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN046,Human Observation,2016-10-17/2016-11-17,Animalia,Capotsilia pomona,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN047,Human Observation,2016-10-17/2016-11-17,Animalia,Catopsilia pyranthe,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN048,Human Observation,2016-10-17/2016-11-17,Animalia,Cepora iudith,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN049,Human Observation,2016-10-17/2016-11-17,Animalia,Eurema hecabe,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN050,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea eunice,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN051,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea mulciber,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN052,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia almana,Species,,,,,,9,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN053,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia atlites,Species,,,,,,8,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN054,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia hedonia,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN055,Human Observation,2016-10-17/2016-11-17,Animalia,Moduza procris,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN056,Human Observation,2016-10-17/2016-11-17,Animalia,Neptis hylas,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN057,Human Observation,2016-10-17/2016-11-17,Animalia,Ypthima horsfieldii,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN058,Human Observation,2016-10-17/2016-11-17,Animalia,Everes lacturus,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN059,Human Observation,2016-10-17/2016-11-17,Animalia,Sinthusa virgo,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-SB003,IPB-2017YS-MF027-SB003-TN060,Human Observation,2016-10-17/2016-11-17,Animalia,Ancistroisdes nigrita,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN061,Human Observation,2016-10-17/2016-11-17,Animalia,Losaria coon,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN062,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio demolion,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN063,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio peranthus,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN064,Human Observation,2016-10-17/2016-11-17,Animalia,Papilio polytes,Species,,,,,,5,Individuals,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN065,Human Observation,2016-10-17/2016-11-17,Animalia,Cupha erymanthis,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN066,Human Observation,2016-10-17/2016-11-17,Animalia,Doleschalia bisaltide,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN067,Human Observation,2016-10-17/2016-11-17,Animalia,Euploea camaralzeman,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN068,Human Observation,2016-10-17/2016-11-17,Animalia,Junonia hedonia,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN069,Human Observation,2016-10-17/2016-11-17,Animalia,Tanaecia iapis,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN070,Human Observation,2016-10-17/2016-11-17,Animalia,Eooxylides tharis,Species,,,,,,1,Individual,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN071,Human Observation,2016-10-17/2016-11-17,Animalia,Jamides alecto,Species,,,,,,2,Individuals,,Present,
+IPB-2017YS-MF027-HC004,IPB-2017YS-MF027-HC004-TN072,Human Observation,2016-10-17/2016-11-17,Animalia,Jamides pura,Species,,,,,,3,Individuals,,Present,
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM001,Human Observation,2016-10-17/2016-11-17,Plantae,Ageratum conyzoides,Species,Babadotan,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM002,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Buher,,,,,24,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM003,Human Observation,2016-10-17/2016-11-17,Plantae,Rhizophora mucronata,Species,Bakau,,,,,692,Individuals,,Present,Semai
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM004,Human Observation,2016-10-17/2016-11-17,Plantae,Bruguiera gymnorrhiza,Species,Tancang,,,,,456,Individuals,,Present,Semai
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM005,Human Observation,2016-10-17/2016-11-17,Plantae,Rhizophora mucronata,Species,Bakau,,,,,250,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM006,Human Observation,2016-10-17/2016-11-17,Plantae,Nypa fruticans,Species,Nipah,,,,,13,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM007,Human Observation,2016-10-17/2016-11-17,Plantae,Lannea coromandelica,Species,Jaran,,,,,12,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM008,Human Observation,2016-10-17/2016-11-17,Plantae,Pteris sp,Species,Papakuan,,,,,15,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM009,Human Observation,2016-10-17/2016-11-17,Plantae,Rhizophora mucronata,Species,Bakau,,,,,102,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM010,Human Observation,2016-10-17/2016-11-17,Plantae,Lumnitzera rasemosa,Species,Padi-padi,,,,,21,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM011,Human Observation,2016-10-17/2016-11-17,Plantae,Avicennia alba,Species,Api-api,,,,,4,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM012,Human Observation,2016-10-17/2016-11-17,Plantae,Terminalia catappa,Species,Ketapang,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM013,Human Observation,2016-10-17/2016-11-17,Plantae,Bruguiera gymnorrhiza,Species,Tancang,,,,,108,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM014,Human Observation,2016-10-17/2016-11-17,Plantae,Sonneratia caseolaris,Species,Pidada,,,,,26,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM015,Human Observation,2016-10-17/2016-11-17,Plantae,Lannea coromandelica,Species,Jaran,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM016,Human Observation,2016-10-17/2016-11-17,Plantae,Cynometra ramiflora,Species,Kibatok,,,,,8,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VM005,IPB-2017YS-MF027-VM005-EM017,Human Observation,2016-10-17/2016-11-17,Plantae,Aglaia argentea,Species,Kakaduan,,,,,5,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM018,Human Observation,2016-10-17/2016-11-17,Plantae,Ageratum conyzoides,Species,Babadotan,,,,,602,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM018,Human Observation,2016-10-17/2016-11-17,Plantae,Crinum asiaticum,Species,Bakung,,,,,9,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM019,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Berbeuy,,,,,77,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM019,Human Observation,2016-10-17/2016-11-17,Plantae,Pemphis acidula,Species,Cantigi laut,,,,,93,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM020,Human Observation,2016-10-17/2016-11-17,Plantae,Physalis minima,Species,Cecenet,,,,,17,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM020,Human Observation,2016-10-17/2016-11-17,Plantae,Lantana camara,Species,Cente,,,,,23,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM021,Human Observation,2016-10-17/2016-11-17,Plantae,Imperata cylindrica,Species,Ilalang,,,,,172,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM021,Human Observation,2016-10-17/2016-11-17,Plantae,Cyperus brevifolius,Species,Ilat,,,,,52,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM022,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Jampang hereum,,,,,6,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM022,Human Observation,2016-10-17/2016-11-17,Plantae,Eleusine indica,Species,Jampang kuda,,,,,95,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM023,Human Observation,2016-10-17/2016-11-17,Plantae,Digtaria sp.,Genus,Jampang beureum,,,,,490,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM023,Human Observation,2016-10-17/2016-11-17,Plantae,Phaceolus sp.,Genus,Kakacangan,,,,,129,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM024,Human Observation,2016-10-17/2016-11-17,Plantae,Ipomea prescaprae,Species,Katang-katang,,,,,76,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM024,Human Observation,2016-10-17/2016-11-17,Plantae,Aldrovanda vesiculosa,Species,Kincir,,,,,206,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM025,Human Observation,2016-10-17/2016-11-17,Plantae,Eupashorium odoratum,Species,Kirinyuh,,,,,15,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM025,Human Observation,2016-10-17/2016-11-17,Plantae,Portulaca oleraceae,Species,Krokot,,,,,107,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM026,Human Observation,2016-10-17/2016-11-17,Plantae,Luffa aegyptiaca,Species,Lopang,,,,,7,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM026,Human Observation,2016-10-17/2016-11-17,Plantae,Barretia repens,Species,Mata keyeup,,,,,97,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM027,Human Observation,2016-10-17/2016-11-17,Plantae,Planchonella obovata,Species,Nanangkaan,,,,,33,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM027,Human Observation,2016-10-17/2016-11-17,Plantae,Leucas lavandulaefolia,Species,Paci-paci,,,,,20,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM028,Human Observation,2016-10-17/2016-11-17,Plantae,Pasphallum scobeculata,Species,Pingping kasir,,,,,138,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VM005-EM028,Human Observation,2016-10-17/2016-11-17,Plantae,Eupatorium odoratum,Species,Nampong,,,,,101,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM029,Human Observation,2016-10-17/2016-11-17,Plantae,Desmodium triflorum,Species,Sariawan,,,,,249,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM030,Human Observation,2016-10-17/2016-11-17,Plantae,Mikania cordata,Species,Capituheur,,,,,54,Individuals,,Present,Semai
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM031,Human Observation,2016-10-17/2016-11-17,Plantae,Bridelia monoica,Species,Kanyere badak,,,,,3,Individuals,,Present,Semai
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM032,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kiciat,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM033,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,5,Individuals,,Present,Semai
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM034,Human Observation,2016-10-17/2016-11-17,Plantae,Apama tomentosa,Species,Singa depa,,,,,18,Individuals,,Present,Semai
+IPB-2017YS-MF027-VP006,IPB-2017YS-MF027-VP006-EM035,Human Observation,2016-10-17/2016-11-17,Plantae,Gliricidia sepium,Species,Gamal,,,,,19,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM036,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus montana,Species,Amis mata,,,,,37,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM037,Human Observation,2016-10-17/2016-11-17,Plantae,Ageratum conyzoides,Species,Babandotan,,,,,63,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM038,Human Observation,2016-10-17/2016-11-17,Plantae,Crescentia sp.,Species,Brenuk,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM039,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Buher,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM040,Human Observation,2016-10-17/2016-11-17,Plantae,Mikania cordata,Species,Capituheur,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM041,Human Observation,2016-10-17/2016-11-17,Plantae,Gladium bicolor,Species,Cariang,,,,,9,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM042,Human Observation,2016-10-17/2016-11-17,Plantae,Lantana camara,Species,Cente,,,,,5,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM043,Human Observation,2016-10-17/2016-11-17,Plantae,Syzygium cumini,Species,Duwet,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM044,Human Observation,2016-10-17/2016-11-17,Plantae,Radermanchera gigantea,Species,Pedali,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM045,Human Observation,2016-10-17/2016-11-17,Plantae,Amomum dealbatum,Species,Hangasa,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM046,Human Observation,2016-10-17/2016-11-17,Plantae,Melastoma affine,Species,Harendong biasa,,,,,35,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM047,Human Observation,2016-10-17/2016-11-17,Plantae,Cassia alata,Species,Haringin,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM048,Human Observation,2016-10-17/2016-11-17,Plantae,Lygodium circinantum,Species,Hatta,,,,,6,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM049,Human Observation,2016-10-17/2016-11-17,Plantae,Passiflora feotida,Species,Hirangrung,,,,,7,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM050,Human Observation,2016-10-17/2016-11-17,Plantae,Cyperus brevifolius,Species,Ilat,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM051,Human Observation,2016-10-17/2016-11-17,Plantae,Decaspermum fruticosum,Species,Ipis kulit,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM052,Human Observation,2016-10-17/2016-11-17,Plantae,Uncaria sp.,Genus,Kalebahe,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM053,Human Observation,2016-10-17/2016-11-17,Plantae,Curcuma domestica,Species,Kanyek,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM054,Human Observation,2016-10-17/2016-11-17,Plantae,Ipomea prescaprae,Species,Katang-katang,,,,,3,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM055,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kiewurungan,,,,,3,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM056,Human Observation,2016-10-17/2016-11-17,Plantae,Eupashorium odoratum,Species,Kirinyuh,,,,,113,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM057,Human Observation,2016-10-17/2016-11-17,Plantae,Piper bantamense,Species,Kutak,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM058,Human Observation,2016-10-17/2016-11-17,Plantae,Piper ningrum,Species,Lada,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM059,Human Observation,2016-10-17/2016-11-17,Plantae,Costus speciosus,Species,Pacing,,,,,11,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM060,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Malparlo,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM061,Human Observation,2016-10-17/2016-11-17,Plantae,Mikania sp,Genus,Mikania,,,,,4,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM062,Human Observation,2016-10-17/2016-11-17,Plantae,Eupatorium odoratum,Species,Nampong,,,,,30,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM063,Human Observation,2016-10-17/2016-11-17,Plantae,Planchonella obovata,Species,Nanangkaan,,,,,13,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM064,Human Observation,2016-10-17/2016-11-17,Plantae,Flagellaria indica,Species,Oar,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM065,Human Observation,2016-10-17/2016-11-17,Plantae,Pteris sp.,Genus,Paku-pakuan,,,,,10,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM066,Human Observation,2016-10-17/2016-11-17,Plantae,Lophatherum gracile,Species,Rumput biasa,,,,,275,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM067,Human Observation,2016-10-17/2016-11-17,Plantae,Pennisetum purpureum,Species,Rumput gajahan,,,,,2239,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM068,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Rumput pirangrang,,,,,131,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM069,Human Observation,2016-10-17/2016-11-17,Plantae,Cyperus rotundus,Species,Rumput teki,,,,,186,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM070,Human Observation,2016-10-17/2016-11-17,Plantae,Coryota mitis,Species,Sayar,,,,,3,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM071,Human Observation,2016-10-17/2016-11-17,Plantae,Barringtonia macrocarpa,Species,Songgom,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM072,Human Observation,2016-10-17/2016-11-17,Plantae,Leea sambucina,Species,Sulangkar,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM073,Human Observation,2016-10-17/2016-11-17,Plantae,Amomum coccium,Species,Tepus,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM074,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum javanica,Species,Bayur,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM075,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus hispida,Species,Bisoro,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM076,Human Observation,2016-10-17/2016-11-17,Plantae,Phyllantus sp.,Species,Ciremai hutan,,,,,5,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM077,Human Observation,2016-10-17/2016-11-17,Plantae,Microros tomentosa,Species,Daruak,,,,,1,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM078,Human Observation,2016-10-17/2016-11-17,Plantae,Nauclea orientalis,Species,Gempol,,,,,13,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM079,Human Observation,2016-10-17/2016-11-17,Plantae,Cassia alata,Species,Haringin,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM080,Human Observation,2016-10-17/2016-11-17,Plantae,Antidesma bunius,Species,Huni,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM081,Human Observation,2016-10-17/2016-11-17,Plantae,Pisonia umbellifera,Species,Jambu biji,,,,,6,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM082,Human Observation,2016-10-17/2016-11-17,Plantae,Corypha elata,Species,Gebang,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM083,Human Observation,2016-10-17/2016-11-17,Plantae,Derris thyorsifolia,Species,Kawao,,,,,5,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM084,Human Observation,2016-10-17/2016-11-17,Plantae,Cinnamomum iners,Species,Kiteja,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM085,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus ampelas,Species,Kiasahan,,,,,4,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM086,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kibeureum,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM087,Human Observation,2016-10-17/2016-11-17,Plantae,Croton auypelas,Species,Kijahe,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM088,Human Observation,2016-10-17/2016-11-17,Plantae,Coffea sp,Species,Kopi,,,,,22,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM089,Human Observation,2016-10-17/2016-11-17,Plantae,Vitex pubescens,Species,Laban,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM090,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,8,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM091,Human Observation,2016-10-17/2016-11-17,Plantae,Curculigo onchicides,Species,Parasi,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM092,Human Observation,2016-10-17/2016-11-17,Plantae,Leucaena leucocephala,Species,Petai cina,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM093,Human Observation,2016-10-17/2016-11-17,Plantae,Aporosa aurita,Species,Peuris,,,,,10,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM094,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Puket,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM095,Human Observation,2016-10-17/2016-11-17,Plantae,Glochidion zeylanicum,Species,Reueun,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM096,Human Observation,2016-10-17/2016-11-17,Plantae,Syzygium polyanthum,Species,Salam,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM097,Human Observation,2016-10-17/2016-11-17,Plantae,Falcataria mollucana,Species,Sengon,,,,,12,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM098,Human Observation,2016-10-17/2016-11-17,Plantae,Musaenda frondosa,Species,Siwurungan,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM099,Human Observation,2016-10-17/2016-11-17,Plantae,Pterocymbium javanicum,Species,Tongtolok,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM100,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus hispida,Species,Bisoro,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM101,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia speciosa,Species,Bungur,,,,,9,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM102,Human Observation,2016-10-17/2016-11-17,Plantae,Gliricidia sepium,Species,Gamal,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM103,Human Observation,2016-10-17/2016-11-17,Plantae,Melastoma affine,Species,Harendong biasa,,,,,5,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM104,Human Observation,2016-10-17/2016-11-17,Plantae,Cassia alata,Species,Haringin,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM105,Human Observation,2016-10-17/2016-11-17,Plantae,Pisonia umbellifera,Species,Jambu biji,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM106,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros macrophylla,Species,Kicalung,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM107,Human Observation,2016-10-17/2016-11-17,Plantae,Erioglossum rubiginosum,Species,Kilalayu,,,,,3,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM108,Human Observation,2016-10-17/2016-11-17,Plantae,Eupashorium odoratum,Species,Kirinyuh,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM109,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM110,Human Observation,2016-10-17/2016-11-17,Plantae,Gnetum gnemon,Species,Melinjo,,,,,1,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM111,Human Observation,2016-10-17/2016-11-17,Plantae,Leucaena leucocephala,Species,Petai cina,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM112,Human Observation,2016-10-17/2016-11-17,Plantae,Parkia speciosa,Species,Pete,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM113,Human Observation,2016-10-17/2016-11-17,Plantae,Gluto rengas,Species,Renghas,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM114,Human Observation,2016-10-17/2016-11-17,Plantae,Glochidion zeylanicum,Species,Reueun,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM115,Human Observation,2016-10-17/2016-11-17,Plantae,Artocarpus sp.,Species,Tereup,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM116,Human Observation,2016-10-17/2016-11-17,Plantae,Pterocymbium javanicum,Species,Tongtolok,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM117,Human Observation,2016-10-17/2016-11-17,Plantae,Anacardium occidentale,Species,Jambu mete,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM118,Human Observation,2016-10-17/2016-11-17,Plantae,Mangifera indica,Species,Mangga,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM119,Human Observation,2016-10-17/2016-11-17,Plantae,Parkia speciosa,Species,Pete,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VS007,IPB-2017YS-MF027-VS007-EM120,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia indica,Species,Sempur,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM121,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus montana,Species,Amis Mata,,,,,125,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM122,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Arei Pantai,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM123,Human Observation,2016-10-17/2016-11-17,Plantae,Ageratum conyzoides,Species,Babadotan,,,,,42,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM124,Human Observation,2016-10-17/2016-11-17,Plantae,Donax cannaefornis,Species,Bangban,,,,,675,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM125,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia flosreginaeae,Species,Benger,,,,,7,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM126,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus fistulosa,Species,Beungi,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM127,Human Observation,2016-10-17/2016-11-17,Plantae,Areca pumida,Species,Bingbin,,,,,3,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM128,Human Observation,2016-10-17/2016-11-17,Plantae,Tinospora crispa,Species,Bratawali,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM129,Human Observation,2016-10-17/2016-11-17,Plantae,Capsisum annum,Species,Cacabean,,,,,5,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM130,Human Observation,2016-10-17/2016-11-17,Plantae,Ebenaceae,Famili,Cicalung,,,,,52,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM131,Human Observation,2016-10-17/2016-11-17,Plantae,Mikania cordata,Species,Capituheur,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM132,Human Observation,2016-10-17/2016-11-17,Plantae,Gladium bicolor,Species,Cariang,,,,,10,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM133,Human Observation,2016-10-17/2016-11-17,Plantae,Derris heterophylla,Species,Gadeul,,,,,69,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM134,Human Observation,2016-10-17/2016-11-17,Plantae,Cordiline fruticosa,Species,Hanjuang,,,,,11,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM135,Human Observation,2016-10-17/2016-11-17,Plantae,Lygodium circinantum,Species,Hatta,,,,,38,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM136,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Heurep,,,,,14,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM137,Human Observation,2016-10-17/2016-11-17,Plantae,Digitaria rhopalotriche,Species,Jampang,,,,,56,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM138,Human Observation,2016-10-17/2016-11-17,Plantae,Acronychya laurifolia,Species,Jejerukan,,,,,56,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM139,Human Observation,2016-10-17/2016-11-17,Plantae,Amomum compactum,Species,Kapol,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM140,Human Observation,2016-10-17/2016-11-17,Plantae,Piper sarmentosum,Species,Karuk,,,,,467,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM141,Human Observation,2016-10-17/2016-11-17,Plantae,Derris thyorsifolia,Species,Kawao,,,,,44,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM142,Human Observation,2016-10-17/2016-11-17,Plantae,Croton argyratus,Species,Kijaha,,,,,10,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM143,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kirangrang,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM144,Human Observation,2016-10-17/2016-11-17,Plantae,Eupashorium odoratum,Species,Kirinyuh,,,,,33,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM145,Human Observation,2016-10-17/2016-11-17,Plantae,Garcinia celebica,Species,Kirisa,,,,,315,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM146,Human Observation,2016-10-17/2016-11-17,Plantae,Arenga obtisifolia,Species,Langkap,,,,,10,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM147,Human Observation,2016-10-17/2016-11-17,Plantae,Aglaonema simplex,Species,Lolo,,,,,112,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM148,Human Observation,2016-10-17/2016-11-17,Plantae,Colocasia esculenta,Species,Lompong,,,,,5,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM149,Human Observation,2016-10-17/2016-11-17,Plantae,Luffa aegyptiaca,Species,Lopang,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM150,Human Observation,2016-10-17/2016-11-17,Plantae,Eupatorium odoratum,Species,Nampong,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM151,Human Observation,2016-10-17/2016-11-17,Plantae,Radermanchera gigantea,Species,Pedali,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM152,Human Observation,2016-10-17/2016-11-17,Plantae,Pteris sp.,Genus,Papakuan,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM153,Human Observation,2016-10-17/2016-11-17,Plantae,Pandanus sp.,Species,Pandan,,,,,38,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM154,Human Observation,2016-10-17/2016-11-17,Plantae,Curculigo onchicides,Species,Parasi,,,,,91,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM155,Human Observation,2016-10-17/2016-11-17,Plantae,Phrynium repens,Species,Patat,,,,,36,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM156,Human Observation,2016-10-17/2016-11-17,Plantae,Lepistemon binecetariferum,Species,Pulumpung,,,,,144,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM157,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Pureket,,,,,8,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM158,Human Observation,2016-10-17/2016-11-17,Plantae,Acalypha indica,Species,Rongrongman,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM159,Human Observation,2016-10-17/2016-11-17,Plantae,Calamus sp.,Species,Rotan,,,,,9,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM160,Human Observation,2016-10-17/2016-11-17,Plantae,Lophatherum gracile,Species,Rumput Biasa,,,,,3,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM161,Human Observation,2016-10-17/2016-11-17,Plantae,Panicum maximum,Species,Rumput Papakuan,,,,,16,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM162,Human Observation,2016-10-17/2016-11-17,Plantae,Zallaca edulis,Species,Salak,,,,,4,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM163,Human Observation,2016-10-17/2016-11-17,Plantae,Spathobulus ferrugineus,Species,Samangan,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM164,Human Observation,2016-10-17/2016-11-17,Plantae,Coryota mitis,Species,Sayar,,,,,45,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM165,Human Observation,2016-10-17/2016-11-17,Plantae,Pentace polyantha,Species,Sigeung,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM166,Human Observation,2016-10-17/2016-11-17,Plantae,Glochidion rubra,Species,Simpereun,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM167,Human Observation,2016-10-17/2016-11-17,Plantae,Apama tomentosa,Species,Singadepa,,,,,8,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM168,Human Observation,2016-10-17/2016-11-17,Plantae,Pipper betle,Species,Sirih,,,,,2,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM169,Human Observation,2016-10-17/2016-11-17,Plantae,Toglottis calyptrata,Species,Solempat,,,,,15,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM170,Human Observation,2016-10-17/2016-11-17,Plantae,Homalomena cordata,Species,Talas,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM171,Human Observation,2016-10-17/2016-11-17,Plantae,Eupatorium riparium,Species,Teklan,,,,,4,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM172,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Tengkele,,,,,1,Individual,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM173,Human Observation,2016-10-17/2016-11-17,Plantae,Amomum coccium,Species,Tepus,,,,,101,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM174,Human Observation,2016-10-17/2016-11-17,Plantae,Randia patula,Species,Wareng,,,,,9,Individuals,,Present,Tumbuhan bawah
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM175,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia speciosa,Species,Bungur,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM176,Human Observation,2016-10-17/2016-11-17,Plantae,Neonauchea calycina,Species,Cangcaratan,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM177,Human Observation,2016-10-17/2016-11-17,Plantae,Eleusine indica,Species,Carulang,,,,,17,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM178,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum diversifolium,Species,Cerlang,,,,,18,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM179,Human Observation,2016-10-17/2016-11-17,Plantae,Gercinia diodica,Species,Ceuri,,,,,11,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM180,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus septica,Species,Ciciap,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM181,Human Observation,2016-10-17/2016-11-17,Plantae,Dracontomeon dao,Species,Dahu,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM182,Human Observation,2016-10-17/2016-11-17,Plantae,Cracoxylon racemosum,Species,Haremeung,,,,,3,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM183,Human Observation,2016-10-17/2016-11-17,Plantae,Baccaurea javanica,Species,Heucit,,,,,22,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM184,Human Observation,2016-10-17/2016-11-17,Plantae,Litzoa elletica,Species,Huru,,,,,21,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM185,Human Observation,2016-10-17/2016-11-17,Plantae,Licualia spinosa,Species,Kaman,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM186,Human Observation,2016-10-17/2016-11-17,Plantae,Spondias pinnata,Species,Kedondong Hutan,,,,,23,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM187,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus ampelas,Species,Kiasahan,,,,,75,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM188,Human Observation,2016-10-17/2016-11-17,Plantae,Nemecylonoleae folium,Species,Kibesi,,,,,26,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM189,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros macrophylla,Species,Kicalung,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM190,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros fratescens,Species,Kigenteul,,,,,78,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM191,Human Observation,2016-10-17/2016-11-17,Plantae,Symplocus sp.,Genus,Kihuut,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM192,Human Observation,2016-10-17/2016-11-17,Plantae,Croton auypelas,Species,Kijahe,,,,,26,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM193,Human Observation,2016-10-17/2016-11-17,Plantae,Evobia latifolia,Species,Kisampang,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM194,Human Observation,2016-10-17/2016-11-17,Plantae,Polyalthia lateriflora,Species,Kilaja,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM195,Human Observation,2016-10-17/2016-11-17,Plantae,Erioglossum rubiginosum,Species,Kilalayu,,,,,15,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM196,Human Observation,2016-10-17/2016-11-17,Plantae,Derris sp.,Species,Kilangkir,,,,,15,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM197,Human Observation,2016-10-17/2016-11-17,Plantae,Cynocroches axillaris,Species,Kindog,,,,,21,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM198,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kipasan,,,,,3,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM199,Human Observation,2016-10-17/2016-11-17,Plantae,Xanthoxylum rhetsae,Species,Kitanah,,,,,12,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM200,Human Observation,2016-10-17/2016-11-17,Plantae,Saccapetalum heterophylla,Species,Kitanjung,,,,,59,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM201,Human Observation,2016-10-17/2016-11-17,Plantae,Cinnamomum iners,Species,Kiteja,,,,,4,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM202,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros aurea,Species,Kitulang,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM203,Human Observation,2016-10-17/2016-11-17,Plantae,Eugenia subglauca,Species,Kopo,,,,,19,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM204,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Koreket,,,,,12,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM205,Human Observation,2016-10-17/2016-11-17,Plantae,Caralia brachiata,Species,Kuhkuran,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM206,Human Observation,2016-10-17/2016-11-17,Plantae,Vitex pubescens,Species,Laban,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM207,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,58,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM208,Human Observation,2016-10-17/2016-11-17,Plantae,Macaranga tanarius,Species,Mara Hutan,,,,,4,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM209,Human Observation,2016-10-17/2016-11-17,Plantae,Shorea sp.,Genus,Meranti,,,,,27,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM210,Human Observation,2016-10-17/2016-11-17,Plantae,Melia azedarach,Species,Mindi,,,,,1,Individual,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM211,Human Observation,2016-10-17/2016-11-17,Plantae,Dipterocarpus trinervis,Species,Parahral,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM212,Human Observation,2016-10-17/2016-11-17,Plantae,Aporosa aurita,Species,Peuris,,,,,123,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM213,Human Observation,2016-10-17/2016-11-17,Plantae,Phrynium repens,Species,Patat,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM214,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia excelsa,Species,Segel,,,,,21,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM215,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia indica,Species,Sempur,,,,,17,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM216,Human Observation,2016-10-17/2016-11-17,Plantae,Barringtonia macrocarpa,Species,Songgom,,,,,46,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM217,Human Observation,2016-10-17/2016-11-17,Plantae,Leea sambucina,Species,Sulangkar,,,,,54,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM218,Human Observation,2016-10-17/2016-11-17,Plantae,Artocarpus elastica,Species,Teurep,,,,,2,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM219,Human Observation,2016-10-17/2016-11-17,Plantae,Stelechocarpus burahol,Species,Turalak,,,,,7,Individuals,,Present,Semai
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM220,Human Observation,2016-10-17/2016-11-17,Plantae,Salacia macrophylla,Species,Arei kecepot,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM221,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia flosreginaeae,Species,Benger,,,,,4,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM222,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus glamerata,Species,Beunying,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM223,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia speciosa,Species,Bungur,,,,,7,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM224,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum diversifolium,Species,Cerlang,,,,,15,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM225,Human Observation,2016-10-17/2016-11-17,Plantae,Litzoa elletica,Species,Huru,,,,,10,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM226,Human Observation,2016-10-17/2016-11-17,Plantae,Decaspermum fruticosum,Species,Ipis kulit,,,,,5,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM227,Human Observation,2016-10-17/2016-11-17,Plantae,Derris thyorsifolia,Species,Kawao,,,,,3,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM228,Human Observation,2016-10-17/2016-11-17,Plantae,Terminalia catappa,Species,Ketapang,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM229,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus gibbosa,Species,Kiara,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM230,Human Observation,2016-10-17/2016-11-17,Plantae,Nemecylonoleae folium,Species,Kibesi,,,,,59,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM231,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros macrophylla,Species,Kicalung,,,,,10,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM232,Human Observation,2016-10-17/2016-11-17,Plantae,Cynocroches axillaris,Species,Kindog,,,,,19,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM233,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros fratescens,Species,Kigenteul,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM234,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus ampelas,Species,Kiasahan,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM235,Human Observation,2016-10-17/2016-11-17,Plantae,Symplocus sp.,Species,Kihuut,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM236,Human Observation,2016-10-17/2016-11-17,Plantae,Croton auypelas,Species,Kijahe,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM237,Human Observation,2016-10-17/2016-11-17,Plantae,Erioglossum rubiginosum,Species,Kilalayu,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM238,Human Observation,2016-10-17/2016-11-17,Plantae,Evobia latifolia,Species,Kisampang,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM239,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kitaki,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM240,Human Observation,2016-10-17/2016-11-17,Plantae,Xanthoxylum rhetsae,Species,Kitanah,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM241,Human Observation,2016-10-17/2016-11-17,Plantae,Saccapetalum heterophylla,Species,Kitanjung,,,,,94,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM242,Human Observation,2016-10-17/2016-11-17,Plantae,Cinnamomum iners,Species,Kiteja,,,,,6,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM243,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros aurea,Species,Kitulang,,,,,9,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM244,Human Observation,2016-10-17/2016-11-17,Plantae,Eugenia subglauca,Species,Kopo,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM245,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Koreket,,,,,17,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM246,Human Observation,2016-10-17/2016-11-17,Plantae,Vitex pubescens,Species,Laban,,,,,6,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM247,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia angustifolia,Species,Lame,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM248,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia spectabilis,Species,Lame peucang,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM249,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,20,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM250,Human Observation,2016-10-17/2016-11-17,Plantae,Macaranga tanarius,Species,Mara hutan,,,,,8,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM251,Human Observation,2016-10-17/2016-11-17,Plantae,Shorea sp.,Species,Meranti,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM252,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus collasa,Species,Pangsor,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM253,Human Observation,2016-10-17/2016-11-17,Plantae,Laportea stimulans,Species,Pulus,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM254,Human Observation,2016-10-17/2016-11-17,Plantae,Gluto rengas,Species,Renghas,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM255,Human Observation,2016-10-17/2016-11-17,Plantae,Syzygium polyanthum,Species,Salam,,,,,2,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM256,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia excelsa,Species,Segel,,,,,22,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM257,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia indica,Species,Sempur,,,,,6,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM258,Human Observation,2016-10-17/2016-11-17,Plantae,Pentace polyantha,Species,Sigeung,,,,,4,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM259,Human Observation,2016-10-17/2016-11-17,Plantae,Barringtonia macrocarpa,Species,Songgom,,,,,36,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM260,Human Observation,2016-10-17/2016-11-17,Plantae,Leea sambucina,Species,Sulangkar,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM261,Human Observation,2016-10-17/2016-11-17,Plantae,Eugenia cuprea,Species,Tembaga,,,,,5,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM262,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Tengkele,,,,,4,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM263,Human Observation,2016-10-17/2016-11-17,Plantae,Artocarpus elastica,Species,Teurep,,,,,1,Individual,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM264,Human Observation,2016-10-17/2016-11-17,Plantae,Pterocymbium javanicum,Species,Tongtolok,,,,,3,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM265,Human Observation,2016-10-17/2016-11-17,Plantae,Stelechocarpus burahol,Species,Turalak,,,,,4,Individuals,,Present,Pancang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM266,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum javanica,Species,Bayur,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM267,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia speciosa,Species,Bungur,,,,,3,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM268,Human Observation,2016-10-17/2016-11-17,Plantae,Neonauchea calycina,Species,Cangcaratan,,,,,3,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM269,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum diversifolium,Species,Cerlang,,,,,5,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM270,Human Observation,2016-10-17/2016-11-17,Plantae,Gercinia diodica,Species,Ceuri,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM271,Human Observation,2016-10-17/2016-11-17,Plantae,Dracontomeon dao,Species,Dahu,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM272,Human Observation,2016-10-17/2016-11-17,Plantae,Microros tomentosa,Species,Daruak,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM273,Human Observation,2016-10-17/2016-11-17,Plantae,Sterculia coccinea,Species,Hantap,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM274,Human Observation,2016-10-17/2016-11-17,Plantae,Litzoa elletica,Species,Huru,,,,,6,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM275,Human Observation,2016-10-17/2016-11-17,Plantae,Eugenia subglauca,Species,Kopo,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM276,Human Observation,2016-10-17/2016-11-17,Plantae,Sandoricum koetjape,Species,Kecapi,,,,,1,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM277,Human Observation,2016-10-17/2016-11-17,Plantae,Nemecylonoleae folium,Species,Kibesi,,,,,6,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM278,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros macrophylla,Species,Kicalung,,,,,3,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM279,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros fratescens,Species,Kigenteul,,,,,3,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM280,Human Observation,2016-10-17/2016-11-17,Plantae,Croton auypelas,Species,Kijahe,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM281,Human Observation,2016-10-17/2016-11-17,Plantae,Cananga odorata,Species,Kikembang,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM282,Human Observation,2016-10-17/2016-11-17,Plantae,Erioglossum rubiginosum,Species,Kilalayu,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM283,Human Observation,2016-10-17/2016-11-17,Plantae,Chisocheton sp,Species,Kilangir,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM284,Human Observation,2016-10-17/2016-11-17,Plantae,Cynocroches axillaris,Species,Kindog,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM285,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kipasan,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM286,Human Observation,2016-10-17/2016-11-17,Plantae,Evobia latifolia,Species,Kisampang,,,,,3,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM287,Human Observation,2016-10-17/2016-11-17,Plantae,Exoecaria virgata,Species,Kisereh,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM288,Human Observation,2016-10-17/2016-11-17,Plantae,Saccapetalum heterophylla,Species,Kitanjung,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM289,Human Observation,2016-10-17/2016-11-17,Plantae,Cinnamomum iners,Species,Kiteja,,,,,5,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM290,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros aurea,Species,Kitulang,,,,,7,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM291,Human Observation,2016-10-17/2016-11-17,Plantae,Vitex pubescens,Species,Laban,,,,,8,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM292,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia angustifolia,Species,Lame,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM293,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia spectabilis,Species,Lame peucang,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM294,Human Observation,2016-10-17/2016-11-17,Plantae,Ardisia humilis,Species,Lampeni,,,,,1,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM295,Human Observation,2016-10-17/2016-11-17,Plantae,Pometia pinnata,Species,Leungsir,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM296,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Mamanguan,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM297,Human Observation,2016-10-17/2016-11-17,Plantae,Macaranga tanarius,Species,Mara hutan,,,,,4,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM298,Human Observation,2016-10-17/2016-11-17,Plantae,Aporosa aurita,Species,Peuris,,,,,14,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM299,Human Observation,2016-10-17/2016-11-17,Plantae,Oroxylum indicum,Species,Pongporang,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM300,Human Observation,2016-10-17/2016-11-17,Plantae,Laportea stimulans,Species,Pulus,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM301,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia excelsa,Species,Segel,,,,,5,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM302,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia indica,Species,Sempur,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM303,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Tamaga,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM304,Human Observation,2016-10-17/2016-11-17,Plantae,Sumbariopsis ralbicans,Species,Tangkele,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM305,Human Observation,2016-10-17/2016-11-17,Plantae,Curcuma xanthoriza,Species,Tegel,,,,,1,Individual,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM306,Human Observation,2016-10-17/2016-11-17,Plantae,Artocarpus sp.,Species,Teureup,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM307,Human Observation,2016-10-17/2016-11-17,Plantae,Pterocymbium javanicum,Species,Tongtolok,,,,,2,Individuals,,Present,Tiang
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM308,Human Observation,2016-10-17/2016-11-17,Plantae,Lagerstroemia speciosa,Species,Bungur,,,,,102,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM309,Human Observation,2016-10-17/2016-11-17,Plantae,Neonauchea calycina,Species,Cangcaratan,,,,,10,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM310,Human Observation,2016-10-17/2016-11-17,Plantae,Moringa citrifolia,Species,Cangkudu,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM311,Human Observation,2016-10-17/2016-11-17,Plantae,Pterospermum diversifolium,Species,Cerlang,,,,,32,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM312,Human Observation,2016-10-17/2016-11-17,Plantae,Gercinia diodica,Species,Ceuri,,,,,6,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM313,Human Observation,2016-10-17/2016-11-17,Plantae,Pentace polyantha,Species,Sigeung,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM314,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Curalak,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM315,Human Observation,2016-10-17/2016-11-17,Plantae,Dracontomeon dao,Species,Dahu,,,,,10,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM316,Human Observation,2016-10-17/2016-11-17,Plantae,Terminalia sp.,Genus,Dalumpit,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM317,Human Observation,2016-10-17/2016-11-17,Plantae,Microros tomentosa,Species,Daruak,,,,,12,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM318,Human Observation,2016-10-17/2016-11-17,Plantae,Bischofia javanica,Species,Gadog,,,,,7,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM319,Human Observation,2016-10-17/2016-11-17,Plantae,Nauclea orientalis,Species,Gempol,,,,,17,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM320,Human Observation,2016-10-17/2016-11-17,Plantae,Anthocephalus chinensis,Species,Hanjak,,,,,7,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM321,Human Observation,2016-10-17/2016-11-17,Plantae,Sterculia coccinea,Species,Hantap,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM322,Human Observation,2016-10-17/2016-11-17,Plantae,Cracoxylon racemosum,Species,Haremeung,,,,,7,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM323,Human Observation,2016-10-17/2016-11-17,Plantae,Baccaurea javanica,Species,Heucit,,,,,16,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM324,Human Observation,2016-10-17/2016-11-17,Plantae,Antidesma bunius,Species,Huni,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM325,Human Observation,2016-10-17/2016-11-17,Plantae,Litzoa elletica,Species,Huru,,,,,10,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM326,Human Observation,2016-10-17/2016-11-17,Plantae,Anthocephalus cadamba,Species,Jabon,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM327,Human Observation,2016-10-17/2016-11-17,Plantae,Tectona grandis,Species,Jati,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM328,Human Observation,2016-10-17/2016-11-17,Plantae,Paraserianthes sp,Species,Jeunjing,,,,,2,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM329,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kamaricing,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM330,Human Observation,2016-10-17/2016-11-17,Plantae,Bradelia monoros,Species,Kanyere,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM331,Human Observation,2016-10-17/2016-11-17,Plantae,Sandoricum koetjape,Species,Kecapi,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM332,Human Observation,2016-10-17/2016-11-17,Plantae,Spondias dulcis,Species,Kedondong,,,,,11,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM333,Human Observation,2016-10-17/2016-11-17,Plantae,Spondias pinnata,Species,Kedondong hutan,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM334,Human Observation,2016-10-17/2016-11-17,Plantae,Horsfieldia irya,Species,Kelapaciung,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM335,Human Observation,2016-10-17/2016-11-17,Plantae,Cananga odorata,Species,Kikembang,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM336,Human Observation,2016-10-17/2016-11-17,Plantae,Terminalia catappa,Species,Ketapang,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM337,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus gibbosa,Species,Kiara,,,,,12,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM338,Human Observation,2016-10-17/2016-11-17,Plantae,Cynometra ramiflora,Species,Kibatok,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM339,Human Observation,2016-10-17/2016-11-17,Plantae,Miremia vitvolia,Species,Kibereum,,,,,4,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM340,Human Observation,2016-10-17/2016-11-17,Plantae,Nemecylonoleae folium,Species,Kibesi,,,,,12,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM341,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros macrophylla,Species,Kicalung,,,,,13,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM342,Human Observation,2016-10-17/2016-11-17,Plantae,Bombax malabaricum,Species,Kidangdeur,,,,,7,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM343,Human Observation,2016-10-17/2016-11-17,Plantae,Reinwardtiodendron humile,Species,Kieuncal,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM344,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros fratescens,Species,Kigenteul,,,,,9,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM345,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus ampelas,Species,Kiasahan,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM346,Human Observation,2016-10-17/2016-11-17,Plantae,Symplocus sp.,Genus,Kihuut,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM347,Human Observation,2016-10-17/2016-11-17,Plantae,Croton auypelas,Species,Kijahe,,,,,6,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM348,Human Observation,2016-10-17/2016-11-17,Plantae,Stombossia javanica,Species,Kikacang,,,,,9,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM349,Human Observation,2016-10-17/2016-11-17,Plantae,Cananga odorata,Species,Kikembang,,,,,19,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM350,Human Observation,2016-10-17/2016-11-17,Plantae,Cordia subcordata,Species,Kikenal,,,,,12,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM351,Human Observation,2016-10-17/2016-11-17,Plantae,Chisocheton sp,Species,Kilangir,,,,,8,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM352,Human Observation,2016-10-17/2016-11-17,Plantae,Cynocroches axillaris,Species,Kindog,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM353,Human Observation,2016-10-17/2016-11-17,Plantae,Breynia cernua,Species,Kipare,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM354,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Kipasan,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM355,Human Observation,2016-10-17/2016-11-17,Plantae,Evobia latifolia,Species,Kisampang,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM356,Human Observation,2016-10-17/2016-11-17,Plantae,Exoecaria virgata,Species,Kisereh,,,,,4,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM357,Human Observation,2016-10-17/2016-11-17,Plantae,Xanthoxylum rhetsae,Species,Kitanah,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM358,Human Observation,2016-10-17/2016-11-17,Plantae,Saccapetalum heterophylla,Species,Kitanjung,,,,,12,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM359,Human Observation,2016-10-17/2016-11-17,Plantae,Cinnamomum iners,Species,Kiteja,,,,,5,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM360,Human Observation,2016-10-17/2016-11-17,Plantae,Leea indica,Species,Kituak,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM361,Human Observation,2016-10-17/2016-11-17,Plantae,Diospyros aurea,Species,Kitulang,,,,,9,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM362,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus variegata,Species,Kondang,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM363,Human Observation,2016-10-17/2016-11-17,Plantae,Eugenia subglauca,Species,Kopo,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM364,Human Observation,2016-10-17/2016-11-17,Plantae,Vitex pubescens,Species,Laban,,,,,143,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM365,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia angustifolia,Species,Lame,,,,,8,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM366,Human Observation,2016-10-17/2016-11-17,Plantae,Alstonia spectabilis,Species,Lame peucang,,,,,5,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM367,Human Observation,2016-10-17/2016-11-17,Plantae,Ficus retusa,Species,Leleus,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM368,Human Observation,2016-10-17/2016-11-17,Plantae,Pometia pinnata,Species,Leungsir,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM369,Human Observation,2016-10-17/2016-11-17,Plantae,Pongamia pinnata,Species,Malapari,,,,,8,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM370,Human Observation,2016-10-17/2016-11-17,Plantae,Macaranga tanarius,Species,Mara hutan,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM371,Human Observation,2016-10-17/2016-11-17,Plantae,Melia azedarach,Species,Mindi,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM372,Human Observation,2016-10-17/2016-11-17,Plantae,Radermanchera gigantea,Species,Pedali,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM373,Human Observation,2016-10-17/2016-11-17,Plantae,Dipterocarpus trinervis,Species,Parahral,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM374,Human Observation,2016-10-17/2016-11-17,Plantae,Aporosa aurita,Species,Peuris,,,,,41,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM375,Human Observation,2016-10-17/2016-11-17,Plantae,Laportea stimulans,Species,Pulus,,,,,5,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM376,Human Observation,2016-10-17/2016-11-17,Plantae,Phrynium repens,Species,Patat,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM377,Human Observation,2016-10-17/2016-11-17,Plantae,Gluto rengas,Species,Renghas,,,,,5,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM378,Human Observation,2016-10-17/2016-11-17,Plantae,Syzygium polyanthum,Species,Salam,,,,,18,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM379,Human Observation,2016-10-17/2016-11-17,Plantae,Desmodium triflorum,Species,Sariawan,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM380,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia excelsa,Species,Segel,,,,,34,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM381,Human Observation,2016-10-17/2016-11-17,Plantae,Dillenia indica,Species,Sempur,,,,,35,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM382,Human Observation,2016-10-17/2016-11-17,Plantae,Pentace polyantha,Species,Sigeung,,,,,4,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM383,Human Observation,2016-10-17/2016-11-17,Plantae,Barringtonia macrocarpa,Species,Songgom,,,,,1,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM384,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Tamaga,,,,,3,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM385,Human Observation,2016-10-17/2016-11-17,Plantae,Curcuma xanthoriza,Species,Tegel,,,,,2,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM386,Human Observation,2016-10-17/2016-11-17,Plantae,Artocarpus sp.,Species,Teureup,,,,,18,Individuals,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM387,Human Observation,2016-10-17/2016-11-17,Plantae,-,Kingdom,Tilalayu,,,,,1,Individual,,Present,Pohon
+IPB-2017YS-MF027-VH008,IPB-2017YS-MF027-VH008-EM388,Human Observation,2016-10-17/2016-11-17,Plantae,Pterocymbium javanicum,Species,Tongtolok,,,,,8,Individuals,,Present,Pohon
