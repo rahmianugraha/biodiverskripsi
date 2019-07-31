@@ -11,18 +11,38 @@ firstup <- function(x) {
 
 # IMPORT DATA
 library(readxl)
-bio_bone <- read_excel('All-Occurrences_20043_wo_sp.xlsx')
+#bio_bone <- read_excel('All-Occurrences_20043_wo_sp.xlsx')
 #convert("All-Occurrences_20043_wo_sp.xlsx", "All-Occurrences_20043_wo_sp.csv")
-#bio_bone <- read.csv(
-#file = "All-Occurrences_20043_wo_sp.csv",
-#header = TRUE)
+bio_bone <- read.csv(
+  file = "All-Occurrences_20043_23-Juli_merge.csv",
+  header = TRUE)
 
 # Remove API because it's format is in JSON
-bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API'))]
+bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API_name'))]
 
 # Check Data
 nrow(bio_bone)
-sum(is.na(bio_bone_new$GBIF_genus))
+sum(is.na(bio_bone$GBIF_genus))
+
+#Check rows with "0" (there are 52 rows)
+which(bio_bone$GBIF_Kingdom == "0")
+#Recode wrong scientificName
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Ansoniainulifer'= 'Ansonia spinulifer'")
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Cyathodiumruceanum'= 'Cyathodium spruceanum'")
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Oscillatorialendida'= 'Oscillatoria splendida'")
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Spyrogira'= 'Spirogyra'")
+
+#Check rows with "#N/A" (there are 73 rows)
+which(bio_bone$GBIF_Kingdom == "#N/A")
+#Recode wrong scientificName
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Rhododendron jacanicum'= 'Rhododendron javanicum'")
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Vaccinium cf. korthalsii'= 'Vaccinium korthalsii'")
+bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Faefraea'= 'Fagraea'")
+
+
+library(writexl)
+write_xlsx(x = bio_bone, path = "All Occurrences_20043_30 Juli (sementara).xlsx", col_names = TRUE)
+
 
 # TAXONRANK
 bio_bone$taxonRank[normal.subspecies.rows()]

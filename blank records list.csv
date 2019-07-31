@@ -1,33 +1,52 @@
-occurrenceID,kingdom,scientificName
-IPB-2000NI-ST001-PL002-TN001,animalia,
-IPB-2000NI-ST001-PL002-TN004,animalia,
-IPB-2004DR-RN016-SKBR2-FN020,Animalia,
-IPB-2004DR-RN016-SKBR3-FN019,Animalia,
-IPB-2017HF-ST003-TR004-TN037,animalia,
-IPB-2017NH-ST002-TR002-TN003,animalia,
-IPB-2017YS-MF027-VH008-EM188,Plantae,
-IPB-2017YS-MF027-VH008-EM230,Plantae,
-IPB-2017YS-MF027-VH008-EM277,Plantae,
-IPB-2017YS-MF027-VH008-EM340,Plantae,
-UGM-2005SP-BA025-Primary-TN028,Animalia,
-UGM-2005SP-BA025-Rubber-TN015,Animalia,
-UGM-2005SP-BA025-Secondary-TN017,Animalia,
-UGM-2013MN-AN023-TS002-MA096,Animalia,
-UGM-2016BA-BA020-HPT-VE078,Animalia,
-UGM-2016KS-BA021-Pa-EM016,Plantae,
-UI-2010DU-RL005-CS002-FN004,Animalia,
-UI-2014RA-TL041-HA01-EM018,Plantae,
-UI-2014WM-RL010-GP001-EM012,Plantae,
-UNIPA-2012ON-AU006-06-EM010,Plantae,
-USU-2011EN-RS011-ST001-MA056,animalia,
-USU-2011EN-RS011-ST002-MA056,animalia,
-USU-2011EN-RS011-ST003-MA056,animalia,
-USU-2011EN-RS011-ST004-MA056,animalia,
-USU-2016SA-MU006-ST001-FN009,Plantae,
-USU-2016SA-MU006-ST001-FN009,Animalia,
-USU-2016SA-MU006-ST002-FN008,Plantae,
-USU-2016SA-MU006-ST002-FN008,Animalia,
-USU-2016SA-MU006-ST003-FN008,Animalia,
-USU-2016SA-MU006-ST003-FN008,Plantae,
-USU-2016SA-MU006-ST004-FN008,Animalia,
-USU-2016SA-MU006-ST004-FN008,Plantae,
+8101,Ansonia spinulifer
+8113,Ansonia spinulifer
+8121,Ansonia spinulifer
+8711,Halticella
+8716,Halticella
+8723,Halticella
+10812,Cyathodium spruceanum
+10819,Cyathodium spruceanum
+10831,Cyathodium spruceanum
+10847,Cyathodium spruceanum
+10854,Cyathodium spruceanum
+10860,Cyathodium spruceanum
+10865,Cyathodium spruceanum
+10876,Cyathodium spruceanum
+10909,Cyathodium spruceanum
+10917,Cyathodium spruceanum
+10931,Cyathodium spruceanum
+10957,Cyathodium spruceanum
+10973,Cyathodium spruceanum
+10980,Cyathodium spruceanum
+10989,Cyathodium spruceanum
+10995,Cyathodium spruceanum
+11042,Euglena
+11047,Homolozon vermiculare
+11051,Micrococcus
+11057,Oscillatoria splendida
+11100,Euglena
+11104,Homalozoa vermiculare
+11108,Micrococcus
+11114,Oscillatoria splendida
+11158,Homalozoa vermiculare
+11165,Oscillatoria splendida
+17778,Pinnnularia
+17803,Pinnnularia
+17832,Pinnnularia
+17838,Turbinaria
+17842,Turbinaria
+17870,Turbinaria
+17966,Uronema
+17984,Microspora
+17986,Uronema
+17989,Cerataulina
+18000,Microspora
+18002,Uronema
+18006,Cerataulina
+18110,Spirogyra
+18116,Nauplius
+18127,Spirogyra
+18132,Nauplius
+18146,Spirogyra
+18151,Nauplius
+18153,Brachionus
