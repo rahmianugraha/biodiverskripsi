@@ -1,2 +1,9 @@
 eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
-UNIPA-2002AS-HS007-KM001,UNIPA-2002AS-HS007-KM001-VE001,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,8,,,2001-10/2001-11,Didalam Skripsi tidak disebutkan tanggal penelitian
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE001,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,2001-10/2001-11,Didalam Skripsi tidak disebutkan tanggal penelitian
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE002,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE003,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE004,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE005,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE006,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE007,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,
+UNIPA-2002AS-HS007-NA001,UNIPA-2002AS-HS007-NA001-VE008,Human Observation,2001-12-27/2002-02-25,Animalia,Spilocuscus maculatus,Spesies,Rambab magnan/Rambab mangawak,-1.076681,134.834596,WGS84,ID,1,,,,

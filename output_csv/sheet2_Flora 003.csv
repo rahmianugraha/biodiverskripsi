@@ -1,45 +1,10 @@
 eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-1.029206,134.064325,WGS84,ID,,,,present,di desa mupi tidak disebutkan jumlah Varanus indicus yang ditemukan | di dalam skripsi disebutkan ada 3 varanus indicus yang di jadikan smpel spesimen tetapi tidak disebutkan letak pengambilannya
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-1.029206,134.064325,WGS84,ID,,,,present,di desa mupi tidak disebutkan jumlah Varanus prasinus yang ditemukan
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE003,living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,Phot mingras,-1.029206,134.064325,WGS84,ID,,,,present,di desa mupi tidak disebutkan jumlah Varanus salvadorii yang ditemukan
-UNIPA-2001ER-AF003-CAPA002,UNIPA-2001ER-AF003-CAPA002-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-1.092696,134.04037,WGS84,ID,,,,present,di desa acemo tidak disebutkan jumlah varanus indicus yang ditemukan
-UNIPA-2001ER-AF003-CAPA002,UNIPA-2001ER-AF003-CAPA002-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-1.092696,134.04037,WGS84,ID,,,,present,di desa acemo tidak disebutkan jumlah varanus  prasinus yang ditemukan | di dalam skripsi disebutkan ada 5 varanus prasinus yang di jadikan sampel  spesimen tetapi tidak disebutkan letak pengambilannya
-UNIPA-2001ER-AF003-CAPA002,UNIPA-2001ER-AF003-CAPA002-VE003,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,phot mingras,-1.092696,134.04037,WGS84,ID,,,,present,di desa acemo tidak disebutkan jumlah varanus salvadorii yang ditemukan
-UNIPA-2001ER-AF003-CAPA003,UNIPA-2001ER-AF003-CAPA003-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-1.150096,134.109258,WGS84,ID,,,,present,di desa warkapi tidak disebutkan jumlah Varanus indicus yang ditemukan
-UNIPA-2001ER-AF003-CAPA003,UNIPA-2001ER-AF003-CAPA003-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-1.150096,134.109258,WGS84,ID,,,,present,di desa warkapi tidak disebutkan jumlah Varanus prasinus yang ditemukan
-UNIPA-2001ER-AF003-CAPA003,UNIPA-2001ER-AF003-CAPA003-VE003,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,Phot mingras,-1.150096,134.109258,WGS84,ID,,,,present,di desa warakapi tidak disebutkan jumlah varanus salvadorii yang ditemukan | di dalam skripsi disebutkan ada 1 varanus salvadorii yang di jadikan sampel spesimen tetapi tidak disebutkan letak pengambilannya
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-1.029206,134.064325,WGS84,ID,1,,,present,di desa mupi tidak disebutkan jumlah Varanus indicus yang ditemukan | di dalam skripsi disebutkan ada 3 varanus indicus yang di jadikan smpel spesimen tetapi tidak disebutkan letak pengambilannya
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,phot dry,-1.029206,134.064325,WGS84,ID,1,,,present,di desa mupi tidak disebutkan jumlah Varanus prasinus yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE003,living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot mingras,-1.029206,134.064325,WGS84,ID,1,,,present,di desa mupi tidak disebutkan jumlah Varanus salvadorii yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE004,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,Phot syei,-1.092696,134.04037,WGS84,ID,1,,,present,di desa acemo tidak disebutkan jumlah varanus indicus yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE005,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-1.092696,134.04037,WGS84,ID,1,,,present,di desa acemo tidak disebutkan jumlah varanus  prasinus yang ditemukan | di dalam skripsi disebutkan ada 5 varanus prasinus yang di jadikan sampel  spesimen tetapi tidak disebutkan letak pengambilannya
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE006,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot mingras,-1.092696,134.04037,WGS84,ID,1,,,present,di desa acemo tidak disebutkan jumlah varanus salvadorii yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE007,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,Phot syei,-1.150096,134.109258,WGS84,ID,1,,,present,di desa warkapi tidak disebutkan jumlah Varanus indicus yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE008,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-1.150096,134.109258,WGS84,ID,1,,,present,di desa warkapi tidak disebutkan jumlah Varanus prasinus yang ditemukan
+UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE009,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,Phot mingras,-1.150096,134.109258,WGS84,ID,1,,,present,di desa warakapi tidak disebutkan jumlah varanus salvadorii yang ditemukan | di dalam skripsi disebutkan ada 1 varanus salvadorii yang di jadikan sampel spesimen tetapi tidak disebutkan letak pengambilannya

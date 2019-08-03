@@ -27,6 +27,9 @@ for (i in 1:length(xls)){
   if ("" %in% data_in_file$parentEventID) {
     print(paste("Empty data: ", filename))
   }
+  if ("" %in% data_in_file$eventID) { 
+    print(paste("Empty data: ", filename)) 
+  }
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
 
@@ -41,6 +44,12 @@ for (i in 1:length(xls)){
   data_in_file = read.csv(
     file = filename_output,
     header = TRUE)
+  if ("" %in% data_in_file$eventID) { 
+    print(paste("Empty data: ", filename)) 
+  }
+  if ("" %in% data_in_file$occurrenceID) { 
+    print(paste("Empty data: ", filename)) 
+  }
   bio_data2 = rbind(bio_data2, subset(data_in_file, select=selected_column2))
 }
 
@@ -115,9 +124,9 @@ for (i in bio_data1$occurrenceID) {
 # STATEPROVINCE CLEANING
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('central kalimantan', 'Kalimantan Tengah', 'Central Borneo')= 'Central Kalimantan'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'West java'= 'West Java'")
-bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Special Region of Yogyakarta', 'Daerah Istimewa Yogyakarta')= 'D.I.Yogyakarta'")
+bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Special Region of Yogyakarta', 'Daerah Istimewa Yogyakarta', 'D.I.Y Yogyakarta', 'DIY Yogyakarta')= 'D.I.Yogyakarta'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Jawa Timur'= 'East Java'")
-bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Papua Barat', 'WEST PAPUA')= 'West Papua'")
+bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Papua Barat', 'WEST PAPUA', 'PAPUA BARAT')= 'West Papua'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Middle Java', 'Cental Java')= 'Central Java'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Sulawesi Selatan'= 'South Sulawesi'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'PAPUA'= 'Papua'")
@@ -127,7 +136,6 @@ bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Bogor | DKI Ja
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Lampung| Bengkulu'= 'Lampung | Bengkulu'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'West Sumatera'= 'West Sumatra'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Minahasa'= 'North Sulawesi'")
-bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'D.I.Y Yogyakarta'= 'D.I.Yogyakarta'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Sulawesi Tenggara'= 'Southeast Sulawesi'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'CENTRAL JAVA'= 'Central Java'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'East Borneo'= 'East Kalimantan'")
