@@ -25,7 +25,7 @@ for (i in 1:length(xls)){
     header = TRUE)
   # Check whether is there any empty parentEventID 
   if ("" %in% data_in_file$parentEventID) {
-    print(paste("Empty data: ", data_in_file$parentEventID[data_in_file$parentEventID == ""]))
+    print(paste("Empty data: ", filename))
   }
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
@@ -327,6 +327,10 @@ merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfos
 merged_data$scientificName <- trimws(gsub("^([A-Za-z ]+)--$", '\\1', merged_data$scientificName))
 
 # Cleaning 12
+firstup <- function(x) {
+  substr(x, 1, 1) <- toupper(substr(x, 1, 1))
+  return(x)
+}
 merged_data$scientificName <- trimws(gsub("^([A-Za-z]+\\s)cf(\\s[A-Za-z]+)$", '\\1cf.\\2', merged_data$scientificName))
 cf.with.uppercase.species <- function(value = FALSE) {
   return(grep("^[A-Za-z]+\\scf\\.?\\s[A-Z][a-z]+$", merged_data$scientificName, perl=TRUE, value=value))
@@ -335,10 +339,16 @@ merged_data$scientificName[cf.with.uppercase.species()] <- firstup(tolower((cf.w
 
 # Cleaning 13
 # Recode typos
-merged_data$scientificName <- car::recode(merged_data$scientificName, "'Harpegnatus'= 'Harpegnathos'")
-merged_data$scientificName <- car::recode(merged_data$scientificName, "'Harbonatus'= 'Habronattus'")
-merged_data$scientificName <- car::recode(merged_data$scientificName, "'Calcotropis'= 'Calotropis'")
-
+convert("typo_lookup.xlsx", "typo_lookup.csv")
+typo_lookup <- read.csv(
+  file = "typo_lookup.csv",
+  header = TRUE)
+unlink("typo_lookup.csv")
+typos <- merged_data$scientificName %in% typo_lookup$typo
+merged_data$scientificName[which(typos)]
+typo_lookup_str <- setNames(as.character(typo_lookup$correction), typo_lookup$typo)
+merged_data$scientificName <- dplyr::recode(merged_data$scientificName, !!!typo_lookup_str)
+merged_data$scientificName[which(typos)]
 
 library(writexl)
 write_xlsx(x = merged_data, path = "All Occurrences_20043_scientificName clean.xlsx", col_names = TRUE)
