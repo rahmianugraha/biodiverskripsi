@@ -72,11 +72,6 @@ for (i in bio_data1$parentEventID) {
     print(i)
   }
 }
-# Recode wrong parentEventID format
-library(car)
-bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'IPB-2011-AT-MF023'= 'IPB-2011AT-MF023'")
-bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'UNIPA-2000PAD-AF001'= 'UNIPA-2000PD-AF001'")
-bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'UNIPA-2006EYS-AF002'= 'UNIPA-2006ES-AF002'")
 
 
 # EVENTID CLEANING
