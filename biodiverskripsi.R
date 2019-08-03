@@ -283,10 +283,10 @@ merged_data$scientificName <- car::recode(merged_data$scientificName, "'Pardosa 
 merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Pardosael', 'Pardosae')= 'Pardosa'")
 
 # Cleaning 3
-# Check for anything ended with sp., sp ., Sp., and spp.
-grep("^[A-Za-z]+\\s{1,2}[Ss]?p{1,2}\\s?\\.$", merged_data$scientificName, perl=TRUE, value=TRUE)
-# Remove sp., sp ., Sp., and spp.
-merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s{1,2}[Ss]?p{1,2}\\s?\\.$", '\\1', merged_data$scientificName))
+# Check for anything ended with sp, sp., sp ., Sp., and spp.
+grep("^[A-Za-z]+\\s{1,2}[Ss]?p{1,2}\\s?\\.?$", merged_data$scientificName, perl=TRUE, value=TRUE)
+# Remove sp, sp., sp ., Sp., and spp.
+merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s{1,2}[Ss]?p{1,2}\\s?\\.?$", '\\1', merged_data$scientificName))
 
 # Cleaning 4
 # Check for genus and sp. without space
