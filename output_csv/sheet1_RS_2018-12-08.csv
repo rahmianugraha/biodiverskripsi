@@ -1,26 +1,10 @@
 parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
-USU-2017NZ-RS005,USU-2017NZ-RS005-ST001,2015-10/2016-02,Line transect,25 plot  every station,50,metre,ST001,,,1.4162555999999999,97.0677306,WGS84,ID,Sumatra,north Sumatra,Nias Utara,Lahewa,Pantai Tureloto,tourism place | fisher activity | dominated by coral
+USU-2017NZ-RS005,USU-2017NZ-RS005-ST001,2015-10/2016-02,Line transect,25 plot  every station,50,metre,ST001,,,1.4162556,97.0677306,WGS84,ID,Sumatra,north Sumatra,Nias Utara,Lahewa,Pantai Tureloto,tourism place | fisher activity | dominated by coral
 USU-2017NZ-RS005,USU-2017NZ-RS005-ST002,2015-10/2016-02,Line transect,25 plot  every station,50,metre,ST002,,,1.3991194,97.1112778,WGS84,ID,Sumatra,north Sumatra,Nias Utara,Lahewa,Pantai Turedawela,coconut plantation | no population activity | dominated by coral and rock
-USU-2017NZ-RS005,USU-2017NZ-RS005-ST003,2015-10/2016-02,Line transect,25 plot  every station,50,metre,ST003,,,1.4158360999999999,97.0640556,WGS84,ID,Sumatra,north Sumatra,Nias Utara,Lahewa,Pantai Toyolawa,tourism place | fisher activity | dominated by coral
-USU-2017VP-RS006,USU-2017VP-RS006-ST001,2016-04,Purposive Sampling,6 repeat Using surber net,0.09,metre sqare,ST001,,,2.9178888999999999,98.9288056,WGS84,ID,Sumatra,north Sumatra,Simalungun,Panombeian Panei,Marjandi Embong,0.09 is the size of surber Net | no activity location
-USU-2017VP-RS006,USU-2017VP-RS006-ST002,2016-04,Purposive Sampling,6 repeat Using surber net,0.09,metre sqare,ST002,,,2.9191110999999998,98.9341667,WGS84,ID,Sumatra,north Sumatra,Simalungun,Panombeian Panei,Marjandi Embong,0.09 is the size of surber Net |sand mining location
+USU-2017NZ-RS005,USU-2017NZ-RS005-ST003,2015-10/2016-02,Line transect,25 plot  every station,50,metre,ST003,,,1.4158361,97.0640556,WGS84,ID,Sumatra,north Sumatra,Nias Utara,Lahewa,Pantai Toyolawa,tourism place | fisher activity | dominated by coral
+USU-2017VP-RS006,USU-2017VP-RS006-ST001,2016-04,Purposive Sampling,6 repeat Using surber net,0.09,metre sqare,ST001,,,2.9178889,98.9288056,WGS84,ID,Sumatra,north Sumatra,Simalungun,Panombeian Panei,Marjandi Embong,0.09 is the size of surber Net | no activity location
+USU-2017VP-RS006,USU-2017VP-RS006-ST002,2016-04,Purposive Sampling,6 repeat Using surber net,0.09,metre sqare,ST002,,,2.9191111,98.9341667,WGS84,ID,Sumatra,north Sumatra,Simalungun,Panombeian Panei,Marjandi Embong,0.09 is the size of surber Net |sand mining location
 USU-2017VP-RS006,USU-2017VP-RS006-ST003,2016-04,Purposive Sampling,6 repeat Using surber net,0.09,metre sqare,ST003,,,2.9201389,98.9375,WGS84,ID,Sumatra,north Sumatra,Simalungun,Panombeian Panei,Marjandi Embong,0.09 is the size of surber Net |turism place
-USU-2017RS-RS007,USU-2017RS-RS007-ST001,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST001,,,2.7688527999999999,99.1257639,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,control
-USU-2017RS-RS007,USU-2017RS-RS007-ST002,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST002,,,2.7703000000000002,99.1274917,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,turism place
-USU-2017RS-RS007,USU-2017RS-RS007-ST003,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST003,,,2.7870721999999999,99.1570194,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,’,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,”,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,’,,,,,,,,,
+USU-2017RS-RS007,USU-2017RS-RS007-ST001,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST001,,,2.7688528,99.1257639,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,control
+USU-2017RS-RS007,USU-2017RS-RS007-ST002,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST002,,,2.7703,99.1274917,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,turism place
+USU-2017RS-RS007,USU-2017RS-RS007-ST003,2016-04/05,Purposive Sampling,50 repeat every station,12.56,metre sqare,ST003,,,2.7870722,99.1570194,WGS84,ID,Sumatra,north Sumatra,Simalungun,Hatonduhan,Sungai Horas,

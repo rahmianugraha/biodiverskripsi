@@ -23,6 +23,10 @@ for (i in 1:length(xls)){
   data_in_file = read.csv(
     file = filename_output,
     header = TRUE)
+  # Check whether is there any empty parentEventID 
+  if ("" %in% data_in_file$parentEventID) {
+    print(paste("Empty data: ", data_in_file$parentEventID[data_in_file$parentEventID == ""]))
+  }
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
 
@@ -71,6 +75,8 @@ for (i in bio_data1$parentEventID) {
 # Recode wrong parentEventID format
 library(car)
 bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'IPB-2011-AT-MF023'= 'IPB-2011AT-MF023'")
+bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'UNIPA-2000PAD-AF001'= 'UNIPA-2000PD-AF001'")
+bio_data1$parentEventID <- car::recode(bio_data1$parentEventID, "'UNIPA-2006EYS-AF002'= 'UNIPA-2006ES-AF002'")
 
 
 # EVENTID CLEANING
