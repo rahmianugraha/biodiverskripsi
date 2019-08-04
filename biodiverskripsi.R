@@ -265,7 +265,7 @@ check.invalid.scientific.names <- function() {
     species.rows.with.cfs()
   )]
 }
-check.invalid.scientific.names() # we know that 2939 scientific names are still invalid
+check.invalid.scientific.names() # we know that 2831 scientific names are still invalid
 which(merged_data$scientificName == "-")
 
 # Cleaning 1
@@ -281,9 +281,8 @@ merged_data$scientificName <- car::recode(merged_data$scientificName, "'E.crusga
 
 # Cleaning 2
 # Recode uncorrect genus
-merged_data$scientificName <- car::recode(merged_data$scientificName, "'Steatoda Sp.male'= 'Steatoda Sp.'")
-merged_data$scientificName <- car::recode(merged_data$scientificName, "'Pardosa Sp.el'= 'Pardosa Sp.'")
-merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Pardosael', 'Pardosae')= 'Pardosa'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "'Steatoda Sp.male'= 'Steatoda'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Pardosael', 'Pardosae', 'Pardosa Sp.el')= 'Pardosa'")
 
 # Cleaning 3
 # Check for anything ended with sp, sp., sp ., Sp., and spp.
@@ -322,8 +321,9 @@ grep("^[A-Za-z]+\\s?[Ss]?p?\\.?\\s?\\.?[A-Za-z]?\\d\\.?$", merged_data$scientifi
 merged_data$scientificName <- trimws(gsub("^([A-Za-z]+)\\s?[Ss]?p?\\.?\\s?\\.?[A-Za-z]?\\d\\.?$", '\\1', merged_data$scientificName))
 
 # Cleaning 8
-# Recode unidentified species to "Plantae"
-merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfospesies', 'Rumput', 'Paku', '-')= 'Plantae'")
+# Recode unidentified species
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Morfospesies', 'Rumput', 'Paku', '-', 'Jenis A')= 'Plantae'")
+merged_data$scientificName <- car::recode(merged_data$scientificName, "c('Spesies A', 'Species B', 'Species C')= 'Animalia'")
 
 # Cleaning 11
 # Remove -- in the end
