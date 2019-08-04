@@ -1,2 +1,4 @@
 parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
-UNIPA-2001ER-AF003,UNIPA-2001ER-AF003-CAPA001,2001-03-12/2001-05-20,Observation,pemasangan jerat,3,jenis,CAPA001-Dm,,,-1.029206,134.064325,WGS84,ID,PAPUA,PAPUA BARAT,Manokwari,Manokwari selatan,"Desa mupi, Desa acemo, Desa warkapi",
+UNIPA-2001ER-AF002,UNIPA-2001ER-AF002-CAPA001,2001-03-12/2001-05-20,Observastion,pemasangan jerat,3,jenis,CAPA001-Dm,,,-1.029206,134.064325,WGS84,ID,PAPUA,PAPUA BARAT,Manokwari,Manokwari selatan,Desa mupi,DM adalah Desa mupi
+UNIPA-2001ER-AF002,UNIPA-2001ER-AF002-CAPA002,2001-03-12/2001-05-20,Observastion,pemasangan jerat,3,jenis,CAPA002-Da,,,-1.0926959999999999,134.04037,WGS84,ID,PAPUA,PAPUA BARAT,Manokwari,Manokwari selatan,Desa acemo,Da adalah Desa acemo
+UNIPA-2001ER-AF002,UNIPA-2001ER-AF002-CAPA003,2001-03-12/2001-05-20,Observastion,pemasangan jerat,3,jenis,CAPA003-Dw,,,-1.150096,134.109258,WGS84,ID,PAPUA,PAPUA BARAT,Manokwari,Manokwari selatan,Desa warkapi,Dw adalah Desa warkapi

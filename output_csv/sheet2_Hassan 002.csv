@@ -1,5 +1,3 @@
 eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
-UNCEN-2000HP-HS002-CA001,UNCEN-2000HP-HS002-CA001-VE001,Human Observation,1999-09-16/1999-10-07,Animalia,Phalanger orientalis,Spesies,,-1.152256,134.10189,WGS84,ID,1,,,Present,
-UNCEN-2000HP-HS002-CA001,UNCEN-2000HP-HS002-CA001-VE002,Human Observation,1999-09-16/1999-10-07,Animalia,Phalanger orientalis,Spesies,,-1.152256,134.10189,WGS84,ID,1,,,Present,
-UNCEN-2000HP-HS002-CA001,UNCEN-2000HP-HS002-CA001-VE003,Human Observation,1999-09-16/1999-10-07,Animalia,Phalanger orientalis,Spesies,,-1.152256,134.10189,WGS84,ID,1,,,Present,
-UNCEN-2000HP-HS002-PW001,UNCEN-2000HP-HS002-PW001-VE001,Human Observation,1999-09-16/1999-10-07,Animalia,Spilocuscus maculatus,Spesies,,-1.152256,134.10189,WGS84,ID,1,,,Present,
+UNCEN-2000HP-HS002-CA001,UNCEN-2000HP-HS002-CA001-VE001,Human Observation,1999-09-16/1999-10-07,Animalia,Phalanger orientalis,Spesies,,-1.152256,134.10189,WGS84,ID,3,,,1999-09-16/1999-10-07,
+UNCEN-2000HP-HS002-PW001,UNCEN-2000HP-HS002-PW001-VE001,Human Observation,1999-09-16/1999-10-07,Animalia,Spilocuscus maculatus,Spesies,,-1.152256,134.10189,WGS84,ID,1,,,1999-09-16/1999-10-07,
