@@ -1,15 +1,15 @@
 # # Lookup Table Extractor
 # This code compares the biodiverskripsi data with the data
 # given by kak Didit after she pulled and merged it with GBIF database
-# Biodiverskripsi: All Occurrences_20043_scientificName clean.xlsx
+# Biodiverskripsi: All Occurrences_19173_4 August.xlsx
 # Biodiverskripsi + GBIF: All-Occurrences_20043_23-Juli_merge.csv
 
 
 library(rio)
 original_data <- merged_data
-# convert("All Occurrences_20043_scientificName clean.xlsx", "All Occurrences_20043_scientificName clean.csv")
+# convert("All Occurrences_19173_4 August.xlsx", "All Occurrences_19173_4 August.csv")
 # original_data <- read.csv(
-#   file = "All Occurrences_20043_scientificName clean.csv",
+#   file = "All Occurrences_19173_4 August.csv",
 #   header = TRUE)
 bio_gbif_data <- read.csv(
   file = "All-Occurrences_20043_23-Juli_merge.csv",

@@ -1,10 +1,10 @@
-#install.packages("rio")
-#install.packages("tidyverse")
-#install.packages("car")
-#install.packages("writexl")
+install.packages("rio")
+install.packages("tidyverse")
+install.packages("car")
+install.packages("writexl")
 
-#install.packages('stringr')
-#install.packages('openxlsx')
+install.packages('stringr')
+install.packages('openxlsx')
 
 setwd(".")
 #Convert xls & xlsx to csv
