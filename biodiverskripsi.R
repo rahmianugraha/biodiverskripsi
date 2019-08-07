@@ -354,7 +354,7 @@ merged_data$scientificName <- dplyr::recode(merged_data$scientificName, !!!typo_
 merged_data$scientificName[which(typos)]
 
 library(writexl)
-write_xlsx(x = merged_data, path = "All Occurrences_19173_4 August.xlsx", col_names = TRUE)
+write_xlsx(x = merged_data, path = "All Occurrences_19681_6 August.xlsx", col_names = TRUE)
 
 
 # VISUALIZATION
