@@ -12,7 +12,7 @@ library(rio)
 regex_xls = "xlsx|xls"
 xls <- dir(path = "./input_xlsx", pattern = regex_xls, full.names = TRUE)
 
-# Merged all csv (Sheet 1)
+# Split all csv (Sheet 1)
 bio_data1 = data.frame()
 selected_column1 = c('parentEventID', "eventID", "stateProvince")
 for (i in 1:length(xls)){
@@ -33,7 +33,7 @@ for (i in 1:length(xls)){
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
 
-# Merged all csv (Sheet 2)
+# Split all csv (Sheet 2)
 bio_data2 = data.frame()
 selected_column2 = c("eventID", "occurrenceID", "basisOfRecord", "eventDate", "kingdom", "scientificName", "taxonRank", "vernacularName", "decimalLatitude", "decimalLongitude", "geodeticDatum", "countryCode", "individualCount", "organismQuantity", "organismQuantityType", "occurrenceStatus", "remarks")
 for (i in 1:length(xls)){
@@ -354,7 +354,27 @@ merged_data$scientificName <- dplyr::recode(merged_data$scientificName, !!!typo_
 merged_data$scientificName[which(typos)]
 
 library(writexl)
-write_xlsx(x = merged_data, path = "All Occurrences_19681_6 August.xlsx", col_names = TRUE)
+write_xlsx(x = merged_data, path = "All Occurrences_19681_7 August.xlsx", col_names = TRUE)
+
+
+# Merge Sampling Events
+# Merged all csv (Sheet 1)
+bio_data1 = data.frame()
+selected_column1 = c('parentEventID', "eventID", "stateProvince")
+for (i in 1:length(xls)){
+  convert(xls[i], filename_output, in_opts=list(which=1))
+  data_in_file = read.csv(
+    file = filename_output,
+    header = TRUE)
+  # Check whether is there any empty parentEventID 
+  if ("" %in% data_in_file$parentEventID) {
+    print(paste("Empty data: ", filename))
+  }
+  if ("" %in% data_in_file$eventID) { 
+    print(paste("Empty data: ", filename)) 
+  }
+  bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
+}
 
 
 # VISUALIZATION
