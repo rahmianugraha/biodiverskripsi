@@ -205,10 +205,7 @@ univ_count
 sum(univ_count$freq)
 
 
-# DATA CLEANING
-
-# SCIENTIFICNAME
-##
+# SCIENTIFIC NAME DATA CLEANING
 # Abnormal data cases:
 
 # 0. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
@@ -353,28 +350,9 @@ typo_lookup_str <- setNames(as.character(typo_lookup$correction), typo_lookup$ty
 merged_data$scientificName <- dplyr::recode(merged_data$scientificName, !!!typo_lookup_str)
 merged_data$scientificName[which(typos)]
 
+# Write cleaned data to xlsx
 library(writexl)
 write_xlsx(x = merged_data, path = "All Occurrences_19681_7 August.xlsx", col_names = TRUE)
-
-
-# Merge Sampling Events
-# Merged all csv (Sheet 1)
-bio_data1 = data.frame()
-selected_column1 = c('parentEventID', "eventID", "stateProvince")
-for (i in 1:length(xls)){
-  convert(xls[i], filename_output, in_opts=list(which=1))
-  data_in_file = read.csv(
-    file = filename_output,
-    header = TRUE)
-  # Check whether is there any empty parentEventID 
-  if ("" %in% data_in_file$parentEventID) {
-    print(paste("Empty data: ", filename))
-  }
-  if ("" %in% data_in_file$eventID) { 
-    print(paste("Empty data: ", filename)) 
-  }
-  bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
-}
 
 
 # VISUALIZATION
@@ -464,7 +442,7 @@ ggplot(subset(merged_data_univyear, !is.na(merged_data_univyear$univCode) || !is
   xlab('Year') + ylab('Occurrence')
 dev.off()
 
-#Create + export barchart (UNIV WITH LOCATION)
+# Create + export barchart (UNIV WITH LOCATION)
 merged_data$stateProvince <- as.character(merged_data$stateProvince)
 merged_data_univloc <- merged_data[FALSE,]
 for (i in 1:nrow(merged_data)) {
