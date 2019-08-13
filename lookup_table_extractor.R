@@ -7,9 +7,9 @@
 
 library(rio)
 original_data <- merged_data
-# convert("All Occurrences_19173_4 August.xlsx", "All Occurrences_19173_4 August.csv")
+# convert("All Occurrences_19681_6 August.xlsx", "All Occurrences_19681_6 August.csv")
 # original_data <- read.csv(
-#   file = "All Occurrences_19173_4 August.csv",
+#   file = "All Occurrences_19681_6 August.csv",
 #   header = TRUE)
 bio_gbif_data <- read.csv(
   file = "All-Occurrences_20043_23-Juli_merge.csv",

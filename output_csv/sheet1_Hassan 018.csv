@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2008BH-HS018,UNIPA-2008BH-HS018-SM001,2007-06-04/2007-09,Deskriptif survey,Pembuatan Transek,57,Individu,Bintuni,,,-1.819193,133.178289,WGS84,ID,PAPUA,Papua barat,Bintuni,Bintuni,Sungai Muturi,didalam skripsi tidak disebutkan jumlah individu dari vegetasi

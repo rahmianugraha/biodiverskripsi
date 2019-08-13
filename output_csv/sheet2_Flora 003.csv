@@ -1,4 +1,4 @@
 eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-0.9532,133.834,WGS84,ID,3,,,present,
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-0.9532,133.834,WGS84,ID,5,,,present,
-UNIPA-2001ER-AF003-CAPA001,UNIPA-2001ER-AF003-CAPA001-VE003,living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,Phot mingras,-0.9532,133.834,WGS84,ID,1,,,present,
+UNIPA-2001ER-AM003-CAPA001,UNIPA-2001ER-AM003-CAPA001-VE001,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus indicus,spesies,Phot syei,-0.9532,133.834,WGS84,ID,3,,,present,
+UNIPA-2001ER-AM003-CAPA001,UNIPA-2001ER-AM003-CAPA001-VE002,Living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus prasinus,spesies,phot dry,-0.9532,133.834,WGS84,ID,5,,,present,
+UNIPA-2001ER-AM003-CAPA001,UNIPA-2001ER-AM003-CAPA001-VE003,living specimen,2001-03-12/2001-05-20,ANIMALIA,Varanus salvadorii,spesies,Phot mingras,-0.9532,133.834,WGS84,ID,1,,,present,

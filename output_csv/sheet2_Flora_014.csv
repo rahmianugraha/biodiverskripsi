@@ -1,0 +1,9 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2013DS-AM014-PK001,UNIPA-2013DS-AM014-PK001-MA001,Human observasi,2012-06|2012-08,Animalia,Holothuria scabra,Spesies,Teripang pasir,1.919964,136.348064,WGS84,ID,4,,,Present,MA Adalah Taxa code atau Taxa groub
+UNIPA-2013DS-AM014-PK001,UNIPA-2013DS-AM014-PK001-MA002,Human observasi,2012-06|2012-08,Animalia,Bohadschia similis,Spesies,Teripang susu,1.919964,136.348064,WGS84,ID,2,,,Present,
+UNIPA-2013DS-AM014-PM002,UNIPA-2013DS-AM014-PM002-MA001,Human observasi,2012-06|2012-08,Animalia,Holothuria edulis,Spesies,Teripang hitam,1.919964,136.348064,WGS84,ID,4,,,Present,
+UNIPA-2013DS-AM014-PM002,UNIPA-2013DS-AM014-PM002-MA002,Human observasi,2012-06|2012-08,Animalia,Holothuria hilla,Spesies,Teripang bencong,1.919964,136.348064,WGS84,ID,8,,,Present,
+UNIPA-2013DS-AM014-PK003,UNIPA-2013DS-AM014-PK003-MA001,Human observasi,2012-06|2012-08,Animalia,Holothuria scabra,Spesies,Teripang pasir,1.919964,136.348064,WGS84,ID,5,,,Present,
+UNIPA-2013DS-AM014-PK003,UNIPA-2013DS-AM014-PK003-MA002,Human observasi,2012-06|2012-08,Animalia,Bohadschia similis,Spesies,Teripang susu,1.919964,136.348064,WGS84,ID,4,,,Present,
+UNIPA-2013DS-AM014-PK003,UNIPA-2013DS-AM014-PK003-MA003,Human observasi,2012-06|2012-08,Animalia,Stichopus horrens,Spesies,Teripang karet,1.919964,136.348064,WGS84,ID,5,,,Present,
+UNIPA-2013DS-AM014-PK003,UNIPA-2013DS-AM014-PK003-MA004,Human observasi,2012-06|2012-08,Animalia,stichopus herrmanni,Spesies,Teripang malam,1.919964,136.348064,WGS84,ID,3,,,Present,

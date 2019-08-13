@@ -1,0 +1,2 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2004ND-AM007-KS001,UNIPA-2004ND-AM007-KSOO1- VE001,Human observasi,2002-012-4/2002-012-13,Animalia,Varanus indicus,Spesies,Biawak,0.888368,131.202984,WGS84,ID,1,,,present,

@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2014MM-AM012,UNIPA-2014MM-AM012-SA001,2014-04|2014-05,Metode deskriptif dan teknik observasi,Pengamatan lansung,9,Individu,Sungai andai,,,0.916553,134.007253,WGS84,ID,PAPUA,PAPUA BARAT,MANOKWARI,ANDAI,SUNGAI ANDAI,Tidak disebutkan tanggal penelitian

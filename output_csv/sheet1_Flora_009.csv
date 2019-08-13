@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2015DR-AM009,UNIPA-2005DR-AM009-PM001,2005-01-30|2005-02-28,Metode deskriptif dan wawancara,Pengamatan lansung,4,INDIVIDU,Pulau mansinam,,,0.913609,134.109277,WGS84,ID,Papua,Papua barat,Manokwari,Pulau mansinam,Pulau mansinam,

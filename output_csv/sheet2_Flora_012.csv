@@ -1,0 +1,10 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA001,Human observasi,2014-04|2014-05,Animalia,Tereblaria sulcata,Spesies,,0.916553,134.007253,WGS84,ID,35,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA002,Human observasi,2014-04|2014-05,Animalia,Neritta planospira,Spesies,,0.916553,134.007253,WGS84,ID,49,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA003,Human observasi,2014-04|2014-05,Animalia,Cerithidea cingulata,Spesies,,0.916553,134.007253,WGS84,ID,266,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA004,Human observasi,2014-04|2014-05,Animalia,Littorina scabra,Spesies,,0.916553,134.007253,WGS84,ID,168,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA005,Human observasi,2014-04|2014-05,Animalia,Vittoida turrita,Spesies,,0.916553,134.007253,WGS84,ID,44,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA006,Human observasi,2014-04|2014-05,Animalia,Telescopium telescopium,Spesies,,0.916553,134.007253,WGS84,ID,5,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA007,Human observasi,2014-04|2014-05,Animalia,Vittoida aquatilis,Spesies,,0.916553,134.007253,WGS84,ID,9,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA008,Human observasi,2014-04|2014-05,Animalia,Neritodyrias dubia,Spesies,,0.916553,134.007253,WGS84,ID,22,,,Present,
+UNIPA-2014MM-AM012-SA001,UNIPA-2014MM-AM012-SA001-MA009,Human observasi,2014-04|2014-05,Animalia,Neritodryas cornea,Spesies,,0.916553,134.007253,WGS84,ID,17,,,Present,
