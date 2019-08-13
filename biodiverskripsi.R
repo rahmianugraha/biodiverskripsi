@@ -22,12 +22,12 @@ for (i in 1:length(xls)){
   data_in_file = read.csv(
     file = filename_output,
     header = TRUE)
-  # Check whether is there any empty parentEventID 
+  # Check whether is there any empty parentEventID
   if ("" %in% data_in_file$parentEventID) {
     print(paste("Empty data: ", filename))
   }
-  if ("" %in% data_in_file$eventID) { 
-    print(paste("Empty data: ", filename)) 
+  if ("" %in% data_in_file$eventID) {
+    print(paste("Empty data: ", filename))
   }
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
@@ -46,11 +46,11 @@ for (i in 1:length(xls)){
   data_in_file = read.csv(
     file = filename_output,
     header = TRUE)
-  if ("" %in% data_in_file$eventID) { 
-    print(paste("Empty data: ", filename)) 
+  if ("" %in% data_in_file$eventID) {
+    print(paste("Empty data: ", filename))
   }
-  if ("" %in% data_in_file$occurrenceID) { 
-    print(paste("Empty data: ", filename)) 
+  if ("" %in% data_in_file$occurrenceID) {
+    print(paste("Empty data: ", filename))
   }
   bio_data2 = rbind(bio_data2, subset(data_in_file, select=selected_column2))
 }
@@ -209,10 +209,7 @@ univ_count
 sum(univ_count$freq)
 
 
-# DATA CLEANING
-
-# SCIENTIFICNAME
-##
+# SCIENTIFIC NAME DATA CLEANING
 # Abnormal data cases:
 
 # 0. Ada 3 kata, kata ke-3 huruf kecil V > ignore | DONE
@@ -357,8 +354,9 @@ typo_lookup_str <- setNames(as.character(typo_lookup$correction), typo_lookup$ty
 merged_data$scientificName <- dplyr::recode(merged_data$scientificName, !!!typo_lookup_str)
 merged_data$scientificName[which(typos)]
 
+# Write cleaned data to xlsx
 library(writexl)
-write_xlsx(x = merged_data, path = "All Occurrences_19681_6 August.xlsx", col_names = TRUE)
+write_xlsx(x = merged_data, path = "All Occurrences_19681_7 August.xlsx", col_names = TRUE)
 
 
 # VISUALIZATION
@@ -377,7 +375,7 @@ merged_data_taxayear <- merged_data_taxayear[complete.cases(merged_data_taxayear
 
 png("./output_figure/1b TaxaYear.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxayear, !is.na(merged_data_taxayear$taxaCode) || !is.na(merged_data_taxayear$publicationYear)), aes(publicationYear)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ taxaCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('Year') + ylab('Occurrence')
@@ -391,21 +389,21 @@ for (i in 1:nrow(merged_data)) {
   if (grepl('\\|', row$stateProvince)) {
     splitted <- strsplit(row$stateProvince, " | ", fixed=TRUE)[[1]]
     row_a <- row
-    row_a$stateProvince <- splitted[1] 
+    row_a$stateProvince <- splitted[1]
     row_b <- row
     row_b$stateProvince <- splitted[2]
     merged_data_taxaloc <- rbind(merged_data_taxaloc, row_a)
     merged_data_taxaloc <- rbind(merged_data_taxaloc, row_b)
   } else {
     merged_data_taxaloc <- rbind(merged_data_taxaloc, row)
-  } 
+  }
 }
 merged_data_taxaloc1 <- merged_data_taxaloc[,c('taxaCode','stateProvince')]
 merged_data_taxaloc1 <- merged_data_taxaloc1[complete.cases(merged_data_taxaloc1),]
 
 png("./output_figure/1c TaxaLocation.png", width = 2500, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxaloc1, !is.na(merged_data_taxaloc1$taxaCode) || !is.na(merged_data_taxaloc1$stateProvince)), aes(stateProvince)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ taxaCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('Province') + ylab('Occurrence')
@@ -417,7 +415,7 @@ merged_data_taxauniv <- merged_data_taxauniv[complete.cases(merged_data_taxauniv
 
 png("./output_figure/1d TaxaUniv.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_taxauniv, !is.na(merged_data_taxauniv$taxaCode) || !is.na(merged_data_taxauniv$univCode)), aes(univCode)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ taxaCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('University') + ylab('Occurrence')
@@ -430,7 +428,7 @@ merged_data_univtaxa <- merged_data_univtaxa[complete.cases(merged_data_univtaxa
 
 png("./output_figure/1d UnivTaxa.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univtaxa, !is.na(merged_data_univtaxa$univCode) || !is.na(merged_data_univtaxa$taxaCode)), aes(taxaCode)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ univCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('Taxa') + ylab('Occurrence')
@@ -442,13 +440,13 @@ merged_data_univyear <- merged_data_univyear[complete.cases(merged_data_univyear
 
 png("./output_figure/1e UnivYear.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univyear, !is.na(merged_data_univyear$univCode) || !is.na(merged_data_univyear$publicationYear)), aes(publicationYear)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ univCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('Year') + ylab('Occurrence')
 dev.off()
 
-#Create + export barchart (UNIV WITH LOCATION)
+# Create + export barchart (UNIV WITH LOCATION)
 merged_data$stateProvince <- as.character(merged_data$stateProvince)
 merged_data_univloc <- merged_data[FALSE,]
 for (i in 1:nrow(merged_data)) {
@@ -456,21 +454,21 @@ for (i in 1:nrow(merged_data)) {
   if (grepl('\\|', row$stateProvince)) {
     splitted <- strsplit(row$stateProvince, " | ", fixed=TRUE)[[1]]
     row_a <- row
-    row_a$stateProvince <- splitted[1] 
+    row_a$stateProvince <- splitted[1]
     row_b <- row
     row_b$stateProvince <- splitted[2]
     merged_data_univloc <- rbind(merged_data_univloc, row_a)
     merged_data_univloc <- rbind(merged_data_univloc, row_b)
   } else {
     merged_data_univloc <- rbind(merged_data_univloc, row)
-  } 
+  }
 }
 merged_data_univloc1 <- merged_data_univloc[,c('univCode','stateProvince')]
 merged_data_univloc1 <- merged_data_univloc1[complete.cases(merged_data_univloc1),]
 
 png("./output_figure/1f UnivLocation.png", width = 2000, height = 2000, units = 'px', res = 300)
 ggplot(subset(merged_data_univloc1, !is.na(merged_data_univloc1$univCode) || !is.na(merged_data_univloc1$stateProvince)), aes(stateProvince)) +
-  geom_bar() + 
+  geom_bar() +
   facet_wrap( ~ univCode, ncol= 1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 0.5)) +
   xlab('Province') + ylab('Occurrence')
