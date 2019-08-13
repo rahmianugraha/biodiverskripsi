@@ -1,18 +1,17 @@
-install.packages("rio")
-install.packages("tidyverse")
-install.packages("car")
-install.packages("writexl")
+### Data Cleaning Script
+### Biodiverskripsi
+### Author: Rahmia Nugraha
 
-install.packages('stringr')
-install.packages('openxlsx')
-
-setwd(".")
-#Convert xls & xlsx to csv
+### Loading packages
 library(rio)
+library(tidyverse)
+
+## Reading xlsx files to csv
+# assign all input files into a variable
 regex_xls = "xlsx|xls"
 xls <- dir(path = "./input_xlsx", pattern = regex_xls, full.names = TRUE)
 
-# Merged all csv (Sheet 1)
+# Merged all files, Sampling Event sheet, only selected columns, into one dataframe
 bio_data1 = data.frame()
 selected_column1 = c('parentEventID', "eventID", "stateProvince")
 for (i in 1:length(xls)){
@@ -33,7 +32,10 @@ for (i in 1:length(xls)){
   bio_data1 = rbind(bio_data1, subset(data_in_file, select=selected_column1))
 }
 
-# Merged all csv (Sheet 2)
+# Checking the resulting dataframe
+str(bio_data1)
+
+# Merged all files, Occurrence sheet, only selected columns, into one dataframe
 bio_data2 = data.frame()
 selected_column2 = c("eventID", "occurrenceID", "basisOfRecord", "eventDate", "kingdom", "scientificName", "taxonRank", "vernacularName", "decimalLatitude", "decimalLongitude", "geodeticDatum", "countryCode", "individualCount", "organismQuantity", "organismQuantityType", "occurrenceStatus", "remarks")
 for (i in 1:length(xls)){
@@ -53,6 +55,8 @@ for (i in 1:length(xls)){
   bio_data2 = rbind(bio_data2, subset(data_in_file, select=selected_column2))
 }
 
+warnings()
+str(bio_data2)
 
 # TAKSA CLEANING
 # IN -> FN
@@ -72,7 +76,7 @@ for (i in bio_data2$occurrenceID) {
 bio_data2$occurrenceID <- temp_occ1
 
 
-library(tidyverse)
+
 # PARENTEVENTID CLEANING
 pattern_parentEventID <- "(\\w+-2\\d{3}\\w{2}-\\w{2}\\d{3})"
 for (i in bio_data1$parentEventID) {
