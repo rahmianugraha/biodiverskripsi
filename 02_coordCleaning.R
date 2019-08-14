@@ -2,7 +2,6 @@
 ### Author: Sabhrina Gita Aninta
 ### Start Date: 09/08/2019
 
-source("00_fileReading.R") # reading files from input_xlsx
 source("01_datecleaning.R") # clean the dates
 
 str(sE.df)
