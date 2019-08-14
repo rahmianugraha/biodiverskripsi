@@ -1,0 +1,3 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2013AG-AM013,UNIPA-2013AG-AM013-PW001,2013-04-22|2013-05-4,Metode deskriptif,Pengamatan lansung,2,Individu,Perairan kampung waifoi,,,0.219593,130.610163,WGS84,ID,Papua,Papua Barat,Raja Ampat,Perairan waifoi,Perairan kampung waifoi,
+UNIPA-2013AG-AM013,UNIPA-2013AG-AM013-PW002,2013-04-22|2013-05-4,Metode deskriptif,Pengamatan lansung,7,Individu,Perairan kampung warimak,,,0.224082,130.67212,WGS84,ID,Papua,Papua Barat,Raja Ampat,perairan warimak,Perairan kampung warimak,

@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2011MP-AM011,UNIPA-2011MP-AM011-KI001,2011 -Januari|2011-April,Metode survei,Pengamatan lansung,11,Individu,Isenebuai,,,1.861608,134.188415,WGS84,ID,Papua,Papua barat,Kabupaten teluk wandama,Kampung isenebuai,Kampung isenebuai,Tidak disebutkan tanggal penelitian

@@ -1,0 +1,13 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2010AG-AM010-DE001,UNIPA-2010AG-AM010-DE001-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,15,,,Present,IN001 Adalah cherax murido
+UNIPA-2010AG-AM010-OK002,UNIPA-2010AG-AM010-OK002-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,12,,,Present,
+UNIPA-2010AG-AM010-OB003,UNIPA-2010AG-AM010-OB003-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,14,,,Present,
+UNIPA-2010AG-AM010-DI004,UNIPA-2010AG-AM010-DI004-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,9,,,Present,
+UNIPA-2010AG-AM010-DA005,UNIPA-2010AG-AM010-DA005-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,20,,,Present,
+UNIPA-2010AG-AM010-PA006,UNIPA-2010AG-AM010-PA006-INOO1,Human observasi,2009-05-16/2009-06-26,Animalia,Cherax murido,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,15,,,Present,
+UNIPA-2010AG-AM010-DE001,UNIPA-2010AG-AM010-DE001-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,37,,,Present,IN002 Adalah cherax longipes
+UNIPA-2010AG-AM010-OK002,UNIPA-2010AG-AM010-OK002-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,22,,,Present,
+UNIPA-2010AG-AM010-OB003,UNIPA-2010AG-AM010-OB003-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,16,,,Present,
+UNIPA-2010AG-AM010-DI004,UNIPA-2010AG-AM010-DI004-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,18,,,Present,
+UNIPA-2010AG-AM010-DA005,UNIPA-2010AG-AM010-DA005-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,10,,,Present,
+UNIPA-2010AG-AM010-PA006,UNIPA-2010AG-AM010-PA006-INOO2,Human observasi,2009-05-16/2009-06-26,Animalia,cherax longipes,Spesies,Lobster air tawar,3.9022222,136.3177778,WGS84,ID,19,,,Present,

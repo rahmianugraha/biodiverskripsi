@@ -1,0 +1,2 @@
+parentEventID,eventID,eventDate,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,locationID,footprintWKT,footprintSRS,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,islandGroup,stateProvince,county,municipality,locality,remarks
+UNIPA-2005TA-AM008,UNIPA-2005TA-AM008-PY001,2004-010-29/2004-011-11,Teknik deskriptif dan survei,pengamatan lansung,2,Individu,pulau yoop,,,2.734258,134.289733,WGS84,ID,PAPUA,PAPUA BARAT,WANDAMA,WASIOR,PULAU YOOP,

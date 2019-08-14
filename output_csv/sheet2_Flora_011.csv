@@ -1,0 +1,12 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM001,Human observasi,2011 -Januari|2011-April,Plantae,Ceriops decandra,Spesies,Makiri-kiri,1.861608,134.188415,WGS84,ID,,,,Present,Tidak disebutkan jumlah dari setiap spesies
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM002,Human observasi,2011 -Januari|2011-April,Plantae,Lumnitzera littorea,Spesies,Nusawoi,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM003,Human observasi,2011 -Januari|2011-April,Plantae,Xylocarpus granatum,Spesies,Kabau moa,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM004,Human observasi,2011 -Januari|2011-April,Plantae,Aegiceras floridum,Spesies,Aibuo,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM005,Human observasi,2011 -Januari|2011-April,Plantae,Bruguiera cylindrica,Spesies,kabau wawi,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM006,Human observasi,2011 -Januari|2011-April,Plantae,Bruguiera gymnorrhiza,Spesies,Sarau,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM007,Human observasi,2011 -Januari|2011-April,Plantae,Rhizophora apiculata,Spesies,Parai wawi,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM008,Human observasi,2011 -Januari|2011-April,Plantae,Rhizophora mucronata,Spesies,Parai moa,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM009,Human observasi,2011 -Januari|2011-April,Plantae,Rhizophora stylosa,Spesies,Paru,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM010,Human observasi,2011 -Januari|2011-April,Plantae,Scyphiphora hydrophyllacea,Spesies,Mandyeri,1.861608,134.188415,WGS84,ID,,,,Present,
+UNIPA-2011MP-AM011-KI001,UNIPA-2011MP-AM011-KI001-EM011,Human observasi,2011 -Januari|2011-April,Plantae,Sonneratia alba,Spesies,Awuh,1.861608,134.188415,WGS84,ID,,,,Present,

@@ -1,0 +1,4 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2005DR-AM009-PM001,UNIPA-2005DR-AM009-VE001,Human observasi,2005-01-30|2005-02-28,Animalia,Varanus doreanus,2,,0.913609,134.109277,WGS84,ID,2,,,Present,Di pulau mansinam terdapat 2 Varanus doreanus betina
+UNIPA-2005DR-AM009-PM001,UNIPA-2005DR-AM009-VE002,Human observasi,2005-01-30|2005-02-28,Animalia,Varanus doreanus,1,,0.913609,134.109277,WGS85,ID,1,,,Present,Di pulau mansinam terdapat 1 Varanus doreanus jantan
+UNIPA-2005DR-AM009-PM001,UNIPA-2005DR-AM009-VE003,Human observasi,2005-01-30|2005-02-28,Animalia,Varanus indicus,1,,0.913609,134.109277,WGS86,ID,1,,,Present,Di pulau mansinam terdapat 1 varanus indicus jantan

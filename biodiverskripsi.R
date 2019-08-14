@@ -130,7 +130,7 @@ bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('central kali
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'West java'= 'West Java'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Special Region of Yogyakarta', 'Daerah Istimewa Yogyakarta', 'D.I.Y Yogyakarta', 'DIY Yogyakarta')= 'D.I.Yogyakarta'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Jawa Timur'= 'East Java'")
-bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Papua Barat', 'WEST PAPUA', 'PAPUA BARAT')= 'West Papua'")
+bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Papua barat', 'Papua Barat', 'WEST PAPUA', 'PAPUA BARAT')= 'West Papua'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "c('Middle Java', 'Cental Java')= 'Central Java'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'Sulawesi Selatan'= 'South Sulawesi'")
 bio_data1$stateProvince <- car::recode(bio_data1$stateProvince, "'PAPUA'= 'Papua'")
@@ -356,7 +356,7 @@ merged_data$scientificName[which(typos)]
 
 # Write cleaned data to xlsx
 library(writexl)
-write_xlsx(x = merged_data, path = "All Occurrences_19681_7 August.xlsx", col_names = TRUE)
+write_xlsx(x = merged_data, path = "All Occurrences_19831_14 August.xlsx", col_names = TRUE)
 
 
 # VISUALIZATION

@@ -1,0 +1,10 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2013AG-AM013-PW001,UNIPA-2013AG-AM013-PW001-MA001,Human observasi,2013-04-22|2013-05-4,Animalia,Holothuria atra,Spesies,,0.219593,130.610163,WGS84,ID,1,,,Present,PW 001adalah perairan waifoi
+UNIPA-2013AG-AM013-PW001,UNIPA-2013AG-AM013-PW001-MA002,Human observasi,2013-04-22|2013-05-4,Animalia,Holothuria scabra,Spesies,,0.219593,130.610163,WGS84,ID,2,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA001,Human observasi,2013-04-22|2013-05-4,Animalia,Holothuria atra,Spesies,,0.224082,130.67212,WGS84,ID,4,,,Present,PW002 adalah perairan warimak
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA002,Human observasi,2013-04-22|2013-05-4,Animalia,Bohadschia similis,Spesies,,0.224082,130.67212,WGS84,ID,1,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA003,Human observasi,2013-04-22|2013-05-4,Animalia,Opheodesoma australiensis,Spesies,,0.224082,130.67212,WGS84,ID,1,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA004,Human observasi,2013-04-22|2013-05-4,Animalia,Synapta maculata,Spesies,,0.224082,130.67212,WGS84,ID,3,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA005,Human observasi,2013-04-22|2013-05-4,Animalia,Euapta sp,Genus,,0.224082,130.67212,WGS84,ID,1,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA006,Human observasi,2013-04-22|2013-05-4,Animalia,Holothuria scabra,Spesies,,0.224082,130.67212,WGS84,ID,2,,,Present,
+UNIPA-2013AG-AM013-PW002,UNIPA-2013AG-AM013-PW002-MA007,Human observasi,2013-04-22|2013-05-4,Animalia,Stichopus horrens,Spesies,,0.224082,130.67212,WGS84,ID,1,,,Present,

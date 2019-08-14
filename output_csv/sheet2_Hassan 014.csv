@@ -1,0 +1,3 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2005DR-HS014-MN001,UNIPA-2005DR-HS014-MN001-VE001,Human Observation,2004-01-11/2004-01-23,Animalia,Varanus doreanus,Species,Biawak,-0.90142,134.102245,WGS84,ID,3,,,Present,terdapat tiga jenis Biawak terdiri dari dua betina dan satu jantan
+UNIPA-2005DR-HS014-MN002,UNIPA-2005DR-HS014-MN002-VE002,Human Observation,2004-01-11/2004-01-23,Animalia,Varanus indicus,Species,Biawak,-0.90142,134.102245,WGS84,ID,1,,,Present,terdapat satu jenis Biawak terdiri dari satu jantan

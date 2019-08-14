@@ -1,0 +1,3 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,scientificName,taxonRank,vernacularName,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,remarks
+UNIPA-2005TA-AM008-PY001,UNIPA-20005TA-AM008-PY001-VE001,Human observasi,2004-010-29/2004-011-11,Animalia,Spilocuscus rufoniger,Spesies,kuskus bertotol hitam|kusu merah,2.734258,134.289733,WGS84,ID,1,,,present,
+UNIPA-2005TA-AM008-PY001,UNIPA-20005TA-AM008-PY001-VE002,Human observasi,2004-010-29/2004-011-11,Animalia,Phalanger orientalis,Spesies,kuskus coklat biasa|kusu putih,2.734258,134.289733,WGS84,ID,1,,,present,
