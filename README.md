@@ -1,11 +1,15 @@
-# Repositori ini berisi langkah-langkah untuk melakukan cleaning data pada kumpulan transkripsi dari project Biodiverskripsi.
+# Analisis Data Biodiverskripsi
 
-Terdapat 3 folder:
-1. input_xlsx: berisi data keseluruhan transkripsi yang masih raw (berbentuk xlsx dan xls)
-2. output_csv: berisi data keseluruhan transkripsi yang sudah dipisahkan per sheet (berbentuk csv)
+[Biodiverskripsi](https://biodiverskripsi.org) merupakan sebuah inisiasi untuk mengumpulkan data keanekaragaman hayati dari skripsi/tesis/disertasi mahasiswa yang belum dipublikasikan. Dalam naungan [Tambora Muda Indonesia](http://www.tamboramuda.org), relawan-relawan Tim Biodiverskripsi melakukan transkripsi data kehati dari lima universitas di seluruh Indonesia ke dalam sebuah pangkalan data yang terintegrasi. Saat ini, data-data Biodiverskripsi dapat diakses di [GBIF](https://www.gbif.org/dataset/ca58433a-3ff8-492f-9d7b-6f6d289eb6d6) dan di portal [Biodiverskripsi](https://biodiverskripsi.org). 
+
+Repositori ini berisi langkah-langkah untuk melakukan pembersihan data mentah hasil transkripsi agar siap untuk dipublikasikan dalam portal data maupun digunakan dalam penelitian selanjutnya. Dalam repo ini, kami menetapkan tiga folder:
+1. input_xlsx: berisi data keseluruhan transkripsi mentah dari relawan Biodiverskripsi sesuai template sebagaimana dijelaskan dalam [Panduan Kontribusi](https://biodiverskripsi.org/pdf/Ikut-Kontribusi.pdf) (.xlsx dan .xls)
+2. output_csv: berisi data keseluruhan transkripsi yang sudah dipisahkan per lembar kerja atau *sheet* (.csv)
 3. output_figure: berisi gambar grafik hasil dari visualisasi data (berbentuk png)
 
-# Sebelum memulai, install packages:
+# Keterangan Skrip
+
+Untuk melangsungkan analisis dalam repo ini, package yang dibutuhkan antara lain:
 1. rio
 2. tidyverse
 3. car
@@ -13,45 +17,47 @@ Terdapat 3 folder:
 5. stringr
 6. openxlsx
 
-# Convert xls & xlsx to csv
+Langkah-langkah pembersihan data perjumpaan yang dilangsungkan dalam repositori ini adalah sebagai berikut:
+
+#### Convert xls & xlsx to csv
 regex_xls: Membaca semua file dengan format xls dan xlsx
 xls: Dataframe berisi semua file yang terbaca oleh regex_xls yang berada di dalam folder input_xlsx
 
-# Split all csv (Sheet 1)
+#### Split all csv (Sheet 1)
 Dataframe: bio_data1
 Mengambil hanya sheet 1 pada setiap file di dalam folder input_xlsx
 Convert menjadi csv
 Hasilnya berada di folder output_csv
 
-# Split all csv (Sheet 2)
+#### Split all csv (Sheet 2)
 Dataframe: bio_data2
 Mengambil hanya sheet 2 pada setiap file di dalam folder input_xlsx
 Convert menjadi csv
 Hasilnya berada di folder output_csv
 
-# TAKSA CLEANING
-#IN -> FN
+#### TAKSA CLEANING
+```IN -> FN```
 Mengubah IN menjadi FN pada occurrenceID
-#AR -> TN
+```AR -> TN```
 Mengubah AR menjadi TN pada occurrenceID
 
-# PARENTEVENTID CLEANING
+#### PARENTEVENTID CLEANING
 Mengecek parentEventID yang tidak sesuai format
 
-# EVENTID CLEANING
+#### EVENTID CLEANING
 Mengecek eventID yang tidak sesuai format
 #Know the differences
 Mengecek apakah ada eventID yang terdapat pada bio_data1 tetapi tidak ada pada bio_data2
 Mengecek apakah ada eventID yang terdapat pada bio_data2 tetapi tidak ada pada bio_data1
 
-# OCCURRENCEID CLEANING
+#### OCCURRENCEID CLEANING
 Mengecek occurrenceID yang tidak sesuai format
 
-# STATEPROVINCE CLEANING
+#### STATEPROVINCE CLEANING
 Merecode typo pada penulisan stateProvince
 Menyamaratakan istilah pada setiap provinsi
 
-# Merged Sheet 1 & Sheet 2
+#### Merged Sheet 1 & Sheet 2
 Dataframe: merged_data
 Menggabungkan sheet 1 dan sheet 2
 #CHECK DUPLICATE
@@ -69,19 +75,19 @@ univCode: Berisi code universitas yang diambil dari occurrenceID
 #Delete all 2018 data
 Meremove semua data dengan tahun publikasi 2018 (karena pembatasan hanya sampai tahun 2017)
 
-# COUNT TAKSA
+#### COUNT TAKSA
 Dataframe: taksa_count
 Mengetahui jumlah occurrence dari setiap taksa
 
-# COUNT YEAR
+#### COUNT YEAR
 Dataframe: year_count
 Mengetahui jumlah occurrence dari setiap tahun
 
-# COUNT UNIV
+#### COUNT UNIV
 Dataframe: univ_count
 Mengetahui jumlah occurrence dari setiap universitas
 
-# SCIENTIFIC NAME DATA CLEANING
+#### SCIENTIFIC NAME DATA CLEANING
 Mengecek format setiap tingkatan taksa yang tidak sesuai pattern
 #Cleaning 1
 Merecode scientific name yang mempunyai tanda kurung, spasi double, dan mempunyai tanda titik pada genus
@@ -104,25 +110,25 @@ Menghapus cf di tengah-tengah nama pada scientificName
 #Cleaning 13
 Merecode nama-nama yang typo pada scientificName dari dataset typo_lookup
 
-# Write cleaned data to xlsx
+#### Write cleaned data to xlsx
 Dataset: All Occurrences_19681_7 August.xlsx
 Save hasil dari cleaning data dalam bentuk xlsx
 
-# VISUALIZATION
+#### VISUALIZATION
 (Semua figure hasilnya akan diexport ke dalam folder output_figure)
 
-# Create + export barchart (TAXA)
+#Create + export barchart (TAXA)
 Membuat barchart jumlah occurrence per taksa
-# Create + export barchart (TAXA WITH YEAR)
+#Create + export barchart (TAXA WITH YEAR)
 Membuat barchart jumlah occurrence per taksa dari setiap tahun
-# Create + export barchart (TAXA WITH LOCATION)
+#Create + export barchart (TAXA WITH LOCATION)
 Membuat barchart jumlah occurrence per taksa dari setiap provinsi
-# Create + export barchart (TAXA WITH UNIV)
+#Create + export barchart (TAXA WITH UNIV)
 Membuat barchart jumlah occurrence per taksa dari setiap universitas
 
-# Create + export barchart (UNIV WITH TAXA)
+#Create + export barchart (UNIV WITH TAXA)
 Membuat barchart jumlah occurrence per universitas dari setiap taksa
-# Create + export barchart (UNIV WITH YEAR)
+#Create + export barchart (UNIV WITH YEAR)
 Membuat barchart jumlah occurrence per universitas dari setiap tahun
-# Create + export barchart (UNIV WITH LOCATION)
+#Create + export barchart (UNIV WITH LOCATION)
 Membuat barchart jumlah occurrence per universitas dari setiap provinsi
