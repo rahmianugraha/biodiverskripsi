@@ -266,7 +266,7 @@ check.invalid.scientific.names <- function() {
     species.rows.with.cfs()
   )]
 }
-check.invalid.scientific.names() # we know that 2831 scientific names are still invalid
+check.invalid.scientific.names() # we know that 2909 scientific names are still invalid
 which(merged_data$scientificName == "-")
 
 # Cleaning 1
@@ -356,7 +356,7 @@ merged_data$scientificName[which(typos)]
 
 # Write cleaned data to xlsx
 library(writexl)
-write_xlsx(x = merged_data, path = "All Occurrences_19831_14 August.xlsx", col_names = TRUE)
+write_xlsx(x = merged_data, path = "All Occurrences_19681_14 August.xlsx", col_names = TRUE)
 
 
 # VISUALIZATION

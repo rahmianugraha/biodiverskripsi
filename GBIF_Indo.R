@@ -6,18 +6,25 @@ library(readxl)
 #bio_bone <- read_excel('All-Occurrences_20043_wo_sp.xlsx')
 #convert("All-Occurrences_20043_wo_sp.xlsx", "All-Occurrences_20043_wo_sp.csv")
 bio_bone <- read.csv(
-  file = "All-Occurrences_20043_23-Juli_merge.csv",
+  file = "All-Occurrences_19681_7-August-taxonaddOP-taxonaddGBIFSM-edited.csv",
   header = TRUE)
 
 # Remove API because it's format is in JSON
 bio_bone <- bio_bone[, !(names(bio_bone) %in% c('API_name'))]
 
+# Remove SN.T.F and TR.T.F
+bio_bone <- bio_bone[, !(names(bio_bone) %in% c('SN.T.F'))]
+bio_bone <- bio_bone[, !(names(bio_bone) %in% c('TR.T.F'))]
+
+
 # Check Data
 nrow(bio_bone)
-sum(is.na(bio_bone$GBIF_genus))
+sum(is.na(bio_bone$GBIF_rank))
 
-#Check rows with "0" (there are 52 rows)
-which(bio_bone$GBIF_Kingdom == "0")
+#Check rows with "0" (there are 39 rows)
+which(bio_bone$GBIF_rank == "")
+
+
 #Recode wrong scientificName
 bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Ansoniainulifer'= 'Ansonia spinulifer'")
 bio_bone$scientificName <- car::recode(bio_bone$scientificName, "'Cyathodiumruceanum'= 'Cyathodium spruceanum'")
