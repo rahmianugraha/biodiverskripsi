@@ -5,7 +5,6 @@ source("00_fileReading.R")
 ### Cleaning dates ---------------------------------------------------------------------------------------------
 ## Sampling Event sheet
 str(sE.df)
-sE.df %>% group_by(eventID) %>% count(eventDate)
 
 ## converting all dates into date format
 sE.df <- sE.df %>% mutate(eventDate=as.factor(eventDate))
@@ -60,6 +59,7 @@ sE.df <- mutate(sE.df, eventDate=fct_recode(eventDate
 
 # checking whether there still exist "|"
 sum(is.na(str_extract("|", as.character(sE.df$eventDate))))
+levels(sE.df$eventDate)
 
 # Occurrence
 occ.df$eventDate<-sE.df[match(occ.df$eventID,sE.df$eventID),"eventDate"]
